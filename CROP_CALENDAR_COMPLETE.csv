@@ -1,0 +1,3292 @@
+MONTH,MONTHNUM,STATE,PERIOD,SEASON,CROP,Generic.Name
+May,5,Andhra Pradesh,Sowing,kharif,paddy,Rice
+Jun,6,Andhra Pradesh,Sowing,kharif,paddy,Rice
+Nov,11,Andhra Pradesh,Harvesting,kharif,paddy,Rice
+Dec,12,Andhra Pradesh,Harvesting,kharif,paddy,Rice
+Feb,2,Assam,Sowing,kharif,paddy,Rice
+Mar,3,Assam,Sowing,kharif,paddy,Rice
+Jun,6,Assam,Harvesting,kharif,paddy,Rice
+Jul,7,Assam,Harvesting,kharif,paddy,Rice
+Jun,6,Bihar,Sowing,kharif,paddy,Rice
+Jul,7,Bihar,Sowing,kharif,paddy,Rice
+Aug,8,Bihar,Sowing,kharif,paddy,Rice
+Oct,10,Bihar,Harvesting,kharif,paddy,Rice
+Nov,11,Bihar,Harvesting,kharif,paddy,Rice
+May,5,Goa,Sowing,kharif,paddy,Rice
+Jun,6,Goa,Sowing,kharif,paddy,Rice
+Sep,9,Goa,Harvesting,kharif,paddy,Rice
+Oct,10,Goa,Harvesting,kharif,paddy,Rice
+Jun,6,Gujarat,Sowing,kharif,paddy,Rice
+Jul,7,Gujarat,Sowing,kharif,paddy,Rice
+Oct,10,Gujarat,Harvesting,kharif,paddy,Rice
+Nov,11,Gujarat,Harvesting,kharif,paddy,Rice
+Jun,6,Haryana,Sowing,kharif,paddy,Rice
+Jul,7,Haryana,Sowing,kharif,paddy,Rice
+Sep,9,Haryana,Harvesting,kharif,paddy,Rice
+Oct,10,Haryana,Harvesting,kharif,paddy,Rice
+May,5,Himachal Pradesh,Sowing,kharif,paddy,Rice
+Jun,6,Himachal Pradesh,Sowing,kharif,paddy,Rice
+Oct,10,Himachal Pradesh,Harvesting,kharif,paddy,Rice
+Apr,4,Jammu & Kashmir,Sowing,kharif,paddy,Rice
+May,5,Jammu & Kashmir,Sowing,kharif,paddy,Rice
+Sep,9,Jammu & Kashmir,Harvesting,kharif,paddy,Rice
+Oct,10,Jammu & Kashmir,Harvesting,kharif,paddy,Rice
+May,5,Karnataka,Sowing,kharif,paddy,Rice
+Jun,6,Karnataka,Sowing,kharif,paddy,Rice
+Sep,9,Karnataka,Harvesting,kharif,paddy,Rice
+Oct,10,Karnataka,Harvesting,kharif,paddy,Rice
+Apr,4,Kerala,Sowing,kharif,paddy,Rice
+May,5,Kerala,Sowing,kharif,paddy,Rice
+Sep,9,Kerala,Harvesting,kharif,paddy,Rice
+Oct,10,Kerala,Harvesting,kharif,paddy,Rice
+Jun,6,Madhya Pradesh,Sowing,kharif,paddy,Rice
+Jul,7,Madhya Pradesh,Sowing,kharif,paddy,Rice
+Oct,10,Madhya Pradesh,Harvesting,kharif,paddy,Rice
+Nov,11,Madhya Pradesh,Harvesting,kharif,paddy,Rice
+Jun,6,Maharashtra,Sowing,kharif,paddy,Rice
+Jul,7,Maharashtra,Sowing,kharif,paddy,Rice
+Oct,10,Maharashtra,Harvesting,kharif,paddy,Rice
+Nov,11,Maharashtra,Harvesting,kharif,paddy,Rice
+May,5,Odisha,Sowing,kharif,paddy,Rice
+Jun,6,Odisha,Sowing,kharif,paddy,Rice
+Sep,9,Odisha,Harvesting,kharif,paddy,Rice
+Oct,10,Odisha,Harvesting,kharif,paddy,Rice
+Jun,6,Punjab,Sowing,kharif,paddy,Rice
+Jul,7,Punjab,Sowing,kharif,paddy,Rice
+Oct,10,Punjab,Harvesting,kharif,paddy,Rice
+Nov,11,Punjab,Harvesting,kharif,paddy,Rice
+Jun,6,Rajasthan,Sowing,kharif,paddy,Rice
+Jul,7,Rajasthan,Sowing,kharif,paddy,Rice
+Oct,10,Rajasthan,Harvesting,kharif,paddy,Rice
+Nov,11,Rajasthan,Harvesting,kharif,paddy,Rice
+Jun,6,Uttar Pradesh,Sowing,kharif,paddy,Rice
+Jul,7,Uttar Pradesh,Sowing,kharif,paddy,Rice
+Oct,10,Uttar Pradesh,Harvesting,kharif,paddy,Rice
+Nov,11,Uttar Pradesh,Harvesting,kharif,paddy,Rice
+May,5,All India,Sowing,kharif,paddy,Rice
+Jun,6,All India,Sowing,kharif,paddy,Rice
+Jul,7,All India,Sowing,kharif,paddy,Rice
+Aug,8,All India,Sowing,kharif,paddy,Rice
+Sep,9,All India,Harvesting,kharif,paddy,Rice
+Oct,10,All India,Harvesting,kharif,paddy,Rice
+Nov,11,All India,Harvesting,kharif,paddy,Rice
+Dec,12,All India,Harvesting,kharif,paddy,Rice
+Jan,1,All India,Harvesting,kharif,paddy,Rice
+Nov,11,Andhra Pradesh,Sowing,rabi,paddy,Rice
+Dec,12,Andhra Pradesh,Sowing,rabi,paddy,Rice
+May,5,Andhra Pradesh,Harvesting,rabi,paddy,Rice
+Jun,6,Andhra Pradesh,Harvesting,rabi,paddy,Rice
+Jun,6,Assam,Sowing,rabi,paddy,Rice
+Jul,7,Assam,Sowing,rabi,paddy,Rice
+Nov,11,Assam,Harvesting,rabi,paddy,Rice
+Dec,12,Assam,Harvesting,rabi,paddy,Rice
+Oct,10,Bihar,Sowing,rabi,paddy,Rice
+Nov,11,Bihar,Sowing,rabi,paddy,Rice
+Apr,4,Bihar,Harvesting,rabi,paddy,Rice
+May,5,Bihar,Harvesting,rabi,paddy,Rice
+Sep,9,Karnataka,Sowing,rabi,paddy,Rice
+Oct,10,Karnataka,Sowing,rabi,paddy,Rice
+Jan,1,Karnataka,Harvesting,rabi,paddy,Rice
+Feb,2,Karnataka,Harvesting,rabi,paddy,Rice
+Sep,9,Kerala,Sowing,rabi,paddy,Rice
+Oct,10,Kerala,Sowing,rabi,paddy,Rice
+Dec,12,Kerala,Harvesting,rabi,paddy,Rice
+Jan,1,Kerala,Harvesting,rabi,paddy,Rice
+Jun,6,Odisha,Sowing,rabi,paddy,Rice
+Jul,7,Odisha,Sowing,rabi,paddy,Rice
+Nov,11,Odisha,Harvesting,rabi,paddy,Rice
+Dec,12,Odisha,Harvesting,rabi,paddy,Rice
+Nov,11,Uttar Pradesh,Sowing,rabi,paddy,Rice
+Dec,12,Uttar Pradesh,Sowing,rabi,paddy,Rice
+Apr,4,Uttar Pradesh,Harvesting,rabi,paddy,Rice
+May,5,Uttar Pradesh,Harvesting,rabi,paddy,Rice
+Dec,12,All India,Sowing,rabi,paddy,Rice
+Jan,1,All India,Sowing,rabi,paddy,Rice
+Apr,4,All India,Harvesting,rabi,paddy,Rice
+May,5,All India,Harvesting,rabi,paddy,Rice
+Mar,3,Andhra Pradesh,Sowing,summer,paddy,Rice
+Apr,4,Andhra Pradesh,Sowing,summer,paddy,Rice
+Jul,7,Andhra Pradesh,Harvesting,summer,paddy,Rice
+Aug,8,Andhra Pradesh,Harvesting,summer,paddy,Rice
+Nov,11,Assam,Sowing,summer,paddy,Rice
+Dec,12,Assam,Sowing,summer,paddy,Rice
+May,5,Assam,Harvesting,summer,paddy,Rice
+Jun,6,Assam,Harvesting,summer,paddy,Rice
+Feb,2,Bihar,Sowing,summer,paddy,Rice
+Mar,3,Bihar,Sowing,summer,paddy,Rice
+Jul,7,Bihar,Harvesting,summer,paddy,Rice
+Aug,8,Bihar,Harvesting,summer,paddy,Rice
+Jan,1,Karnataka,Sowing,summer,paddy,Rice
+Feb,2,Karnataka,Sowing,summer,paddy,Rice
+May,5,Karnataka,Harvesting,summer,paddy,Rice
+Jun,6,Karnataka,Harvesting,summer,paddy,Rice
+Dec,12,Kerala,Sowing,summer,paddy,Rice
+Jan,1,Kerala,Sowing,summer,paddy,Rice
+Mar,3,Kerala,Harvesting,summer,paddy,Rice
+Apr,4,Kerala,Harvesting,summer,paddy,Rice
+Dec,12,Odisha,Sowing,summer,paddy,Rice
+Jan,1,Odisha,Sowing,summer,paddy,Rice
+Apr,4,Odisha,Harvesting,summer,paddy,Rice
+May,5,Odisha,Harvesting,summer,paddy,Rice
+Jun,6,Andhra Pradesh,Sowing,kharif,bajra,Millet
+Jul,7,Andhra Pradesh,Sowing,kharif,bajra,Millet
+Sep,9,Andhra Pradesh,Harvesting,kharif,bajra,Millet
+Oct,10,Andhra Pradesh,Harvesting,kharif,bajra,Millet
+Jun,6,Gujarat,Sowing,kharif,bajra,Millet
+Jul,7,Gujarat,Sowing,kharif,bajra,Millet
+Sep,9,Gujarat,Harvesting,kharif,bajra,Millet
+Oct,10,Gujarat,Harvesting,kharif,bajra,Millet
+Nov,11,Gujarat,Harvesting,kharif,bajra,Millet
+Jun,6,Haryana,Sowing,kharif,bajra,Millet
+Jul,7,Haryana,Sowing,kharif,bajra,Millet
+Oct,10,Haryana,Harvesting,kharif,bajra,Millet
+Nov,11,Haryana,Harvesting,kharif,bajra,Millet
+Jul,7,Karnataka,Sowing,kharif,bajra,Millet
+Aug,8,Karnataka,Sowing,kharif,bajra,Millet
+Oct,10,Karnataka,Harvesting,kharif,bajra,Millet
+Nov,11,Karnataka,Harvesting,kharif,bajra,Millet
+Jun,6,Madhya Pradesh,Sowing,kharif,bajra,Millet
+Jul,7,Madhya Pradesh,Sowing,kharif,bajra,Millet
+Sep,9,Madhya Pradesh,Harvesting,kharif,bajra,Millet
+Oct,10,Madhya Pradesh,Harvesting,kharif,bajra,Millet
+Nov,11,Madhya Pradesh,Harvesting,kharif,bajra,Millet
+Dec,12,Madhya Pradesh,Harvesting,kharif,bajra,Millet
+Jun,6,Maharashtra,Sowing,kharif,bajra,Millet
+Jul,7,Maharashtra,Sowing,kharif,bajra,Millet
+Sep,9,Maharashtra,Harvesting,kharif,bajra,Millet
+Oct,10,Maharashtra,Harvesting,kharif,bajra,Millet
+Jun,6,Odisha,Sowing,kharif,bajra,Millet
+Jul,7,Odisha,Sowing,kharif,bajra,Millet
+Sep,9,Odisha,Harvesting,kharif,bajra,Millet
+Oct,10,Odisha,Harvesting,kharif,bajra,Millet
+Jun,6,Rajasthan,Sowing,kharif,bajra,Millet
+Jul,7,Rajasthan,Sowing,kharif,bajra,Millet
+Sep,9,Rajasthan,Harvesting,kharif,bajra,Millet
+Oct,10,Rajasthan,Harvesting,kharif,bajra,Millet
+Jun,6,Uttar Pradesh,Sowing,kharif,bajra,Millet
+Jul,7,Uttar Pradesh,Sowing,kharif,bajra,Millet
+Oct,10,Uttar Pradesh,Harvesting,kharif,bajra,Millet
+Nov,11,Uttar Pradesh,Harvesting,kharif,bajra,Millet
+Jun,6,All India,Sowing,kharif,bajra,Millet
+Jul,7,All India,Sowing,kharif,bajra,Millet
+Sep,9,All India,Harvesting,kharif,bajra,Millet
+Oct,10,All India,Harvesting,kharif,bajra,Millet
+Nov,11,All India,Harvesting,kharif,bajra,Millet
+Feb,2,Gujarat,Sowing,summer,bajra,Millet
+May,5,Gujarat,Harvesting,summer,bajra,Millet
+Jan,1,Karnataka,Sowing,summer,bajra,Millet
+Feb,2,Karnataka,Sowing,summer,bajra,Millet
+Apr,4,Karnataka,Harvesting,summer,bajra,Millet
+May,5,Karnataka,Harvesting,summer,bajra,Millet
+Jan,1,All India,Sowing,summer,bajra,Millet
+Feb,2,All India,Sowing,summer,bajra,Millet
+Apr,4,All India,Harvesting,summer,bajra,Millet
+May,5,All India,Harvesting,summer,bajra,Millet
+Nov,11,Assam,Sowing,rabi,wheat,Wheat
+Dec,12,Assam,Sowing,rabi,wheat,Wheat
+Mar,3,Assam,Harvesting,rabi,wheat,Wheat
+Apr,4,Assam,Harvesting,rabi,wheat,Wheat
+Nov,11,Bihar,Sowing,rabi,wheat,Wheat
+Dec,12,Bihar,Sowing,rabi,wheat,Wheat
+Mar,3,Bihar,Harvesting,rabi,wheat,Wheat
+Apr,4,Bihar,Harvesting,rabi,wheat,Wheat
+Oct,10,Gujarat,Sowing,rabi,wheat,Wheat
+Nov,11,Gujarat,Sowing,rabi,wheat,Wheat
+Feb,2,Gujarat,Harvesting,rabi,wheat,Wheat
+Mar,3,Gujarat,Harvesting,rabi,wheat,Wheat
+Oct,10,Haryana,Sowing,rabi,wheat,Wheat
+Nov,11,Haryana,Sowing,rabi,wheat,Wheat
+Dec,12,Haryana,Sowing,rabi,wheat,Wheat
+Apr,4,Haryana,Harvesting,rabi,wheat,Wheat
+Oct,10,Himachal Pradesh,Sowing,rabi,wheat,Wheat
+Nov,11,Himachal Pradesh,Sowing,rabi,wheat,Wheat
+Apr,4,Himachal Pradesh,Harvesting,rabi,wheat,Wheat
+May,5,Himachal Pradesh,Harvesting,rabi,wheat,Wheat
+Jun,6,Himachal Pradesh,Harvesting,rabi,wheat,Wheat
+Oct,10,Jammu & Kashmir,Sowing,rabi,wheat,Wheat
+Nov,11,Jammu & Kashmir,Sowing,rabi,wheat,Wheat
+Dec,12,Jammu & Kashmir,Sowing,rabi,wheat,Wheat
+May,5,Jammu & Kashmir,Harvesting,rabi,wheat,Wheat
+Oct,10,Karnataka,Sowing,rabi,wheat,Wheat
+Nov,11,Karnataka,Sowing,rabi,wheat,Wheat
+Jan,1,Karnataka,Harvesting,rabi,wheat,Wheat
+Feb,2,Karnataka,Harvesting,rabi,wheat,Wheat
+Oct,10,Madhya Pradesh,Sowing,rabi,wheat,Wheat
+Nov,11,Madhya Pradesh,Sowing,rabi,wheat,Wheat
+Feb,2,Madhya Pradesh,Harvesting,rabi,wheat,Wheat
+Mar,3,Madhya Pradesh,Harvesting,rabi,wheat,Wheat
+Oct,10,Maharashtra,Sowing,rabi,wheat,Wheat
+Nov,11,Maharashtra,Sowing,rabi,wheat,Wheat
+Feb,2,Maharashtra,Harvesting,rabi,wheat,Wheat
+Mar,3,Maharashtra,Harvesting,rabi,wheat,Wheat
+Oct,10,Odisha,Sowing,rabi,wheat,Wheat
+Nov,11,Odisha,Sowing,rabi,wheat,Wheat
+Mar,3,Odisha,Harvesting,rabi,wheat,Wheat
+Apr,4,Odisha,Harvesting,rabi,wheat,Wheat
+Oct,10,Punjab,Sowing,rabi,wheat,Wheat
+Nov,11,Punjab,Sowing,rabi,wheat,Wheat
+Apr,4,Punjab,Harvesting,rabi,wheat,Wheat
+May,5,Punjab,Harvesting,rabi,wheat,Wheat
+Nov,11,Rajasthan,Sowing,rabi,wheat,Wheat
+Dec,12,Rajasthan,Sowing,rabi,wheat,Wheat
+Mar,3,Rajasthan,Harvesting,rabi,wheat,Wheat
+Apr,4,Rajasthan,Harvesting,rabi,wheat,Wheat
+Oct,10,Uttar Pradesh,Sowing,rabi,wheat,Wheat
+Nov,11,Uttar Pradesh,Sowing,rabi,wheat,Wheat
+Dec,12,Uttar Pradesh,Sowing,rabi,wheat,Wheat
+Apr,4,Uttar Pradesh,Harvesting,rabi,wheat,Wheat
+Nov,11,West Bengal,Sowing,rabi,wheat,Wheat
+Dec,12,West Bengal,Sowing,rabi,wheat,Wheat
+Mar,3,West Bengal,Harvesting,rabi,wheat,Wheat
+Apr,4,West Bengal,Harvesting,rabi,wheat,Wheat
+Oct,10,All India,Sowing,rabi,wheat,Wheat
+Nov,11,All India,Sowing,rabi,wheat,Wheat
+Dec,12,All India,Sowing,rabi,wheat,Wheat
+Feb,2,All India,Harvesting,rabi,wheat,Wheat
+Mar,3,All India,Harvesting,rabi,wheat,Wheat
+Apr,4,All India,Harvesting,rabi,wheat,Wheat
+May,5,All India,Harvesting,rabi,wheat,Wheat
+Jun,6,All India,Harvesting,rabi,wheat,Wheat
+Jun,6,Andhra Pradesh,Sowing,early kharif,arhar/tur,Arhar
+Nov,11,Andhra Pradesh,Harvesting,early kharif,arhar/tur,Arhar
+Dec,12,Andhra Pradesh,Harvesting,early kharif,arhar/tur,Arhar
+Jun,6,Karnataka,Sowing,early kharif,arhar/tur,Arhar
+Nov,11,Karnataka,Harvesting,early kharif,arhar/tur,Arhar
+Dec,12,Karnataka,Harvesting,early kharif,arhar/tur,Arhar
+Jun,6,Maharashtra,Sowing,early kharif,arhar/tur,Arhar
+Dec,12,Maharashtra,Harvesting,early kharif,arhar/tur,Arhar
+Jan,1,Maharashtra,Harvesting,early kharif,arhar/tur,Arhar
+Jun,6,Rajasthan,Sowing,early kharif,arhar/tur,Arhar
+Nov,11,Rajasthan,Harvesting,early kharif,arhar/tur,Arhar
+Dec,12,Rajasthan,Harvesting,early kharif,arhar/tur,Arhar
+Jun,6,Uttar Pradesh,Sowing,early kharif,arhar/tur,Arhar
+Dec,12,Uttar Pradesh,Harvesting,early kharif,arhar/tur,Arhar
+Jun,6,Tamil Nadu,Sowing,early kharif,arhar/tur,Arhar
+Nov,11,Tamil Nadu,Harvesting,early kharif,arhar/tur,Arhar
+Dec,12,Tamil Nadu,Harvesting,early kharif,arhar/tur,Arhar
+Jun,6,Gujarat,Sowing,early kharif,arhar/tur,Arhar
+Nov,11,Gujarat,Harvesting,early kharif,arhar/tur,Arhar
+Dec,12,Gujarat,Harvesting,early kharif,arhar/tur,Arhar
+Jun,6,Madhya Pradesh,Sowing,early kharif,arhar/tur,Arhar
+Jun,6,Madhya Pradesh,Harvesting,early kharif,arhar/tur,Arhar
+Jun,6,Uttarakhand,Sowing,early kharif,arhar/tur,Arhar
+Nov,11,Uttarakhand,Harvesting,early kharif,arhar/tur,Arhar
+Dec,12,Uttarakhand,Harvesting,early kharif,arhar/tur,Arhar
+Jun,6,Odisha,Sowing,early kharif,arhar/tur,Arhar
+Nov,11,Odisha,Harvesting,early kharif,arhar/tur,Arhar
+Dec,12,Odisha,Harvesting,early kharif,arhar/tur,Arhar
+Jun,6,Haryana,Sowing,early kharif,arhar/tur,Arhar
+Nov,11,Haryana,Harvesting,early kharif,arhar/tur,Arhar
+Dec,12,Haryana,Harvesting,early kharif,arhar/tur,Arhar
+Jun,6,Punjab,Sowing,early kharif,arhar/tur,Arhar
+Nov,11,Punjab,Harvesting,early kharif,arhar/tur,Arhar
+Dec,12,Punjab,Harvesting,early kharif,arhar/tur,Arhar
+Jun,6,Jharkhand,Sowing,early kharif,arhar/tur,Arhar
+Nov,11,Jharkhand,Harvesting,early kharif,arhar/tur,Arhar
+Dec,12,Jharkhand,Harvesting,early kharif,arhar/tur,Arhar
+Jun,6,Chhattisgarh,Sowing,early kharif,arhar/tur,Arhar
+Nov,11,Chhattisgarh,Harvesting,early kharif,arhar/tur,Arhar
+Dec,12,Chhattisgarh,Harvesting,early kharif,arhar/tur,Arhar
+Jun,6,Tripura,Sowing,early kharif,arhar/tur,Arhar
+Nov,11,Tripura,Harvesting,early kharif,arhar/tur,Arhar
+Dec,12,Tripura,Harvesting,early kharif,arhar/tur,Arhar
+Jun,6,Nagaland,Sowing,early kharif,arhar/tur,Arhar
+Nov,11,Nagaland,Harvesting,early kharif,arhar/tur,Arhar
+Dec,12,Nagaland,Harvesting,early kharif,arhar/tur,Arhar
+Jun,6,All India,Sowing,early kharif,arhar/tur,Arhar
+Nov,11,All India,Harvesting,early kharif,arhar/tur,Arhar
+Dec,12,All India,Harvesting,early kharif,arhar/tur,Arhar
+Jan,1,All India,Harvesting,early kharif,arhar/tur,Arhar
+Jun,6,Andhra Pradesh,Sowing,kharif,arhar/tur,Arhar
+Jul,7,Andhra Pradesh,Sowing,kharif,arhar/tur,Arhar
+Dec,12,Andhra Pradesh,Harvesting,kharif,arhar/tur,Arhar
+Jan,1,Andhra Pradesh,Harvesting,kharif,arhar/tur,Arhar
+Jun,6,Karnataka,Sowing,kharif,arhar/tur,Arhar
+Jul,7,Karnataka,Sowing,kharif,arhar/tur,Arhar
+Dec,12,Karnataka,Harvesting,kharif,arhar/tur,Arhar
+Jan,1,Karnataka,Harvesting,kharif,arhar/tur,Arhar
+Jun,6,Maharashtra,Sowing,kharif,arhar/tur,Arhar
+Jul,7,Maharashtra,Sowing,kharif,arhar/tur,Arhar
+Dec,12,Maharashtra,Harvesting,kharif,arhar/tur,Arhar
+Jan,1,Maharashtra,Harvesting,kharif,arhar/tur,Arhar
+Feb,2,Maharashtra,Harvesting,kharif,arhar/tur,Arhar
+Jun,6,Rajasthan,Sowing,kharif,arhar/tur,Arhar
+Jul,7,Rajasthan,Sowing,kharif,arhar/tur,Arhar
+Jan,1,Rajasthan,Harvesting,kharif,arhar/tur,Arhar
+Feb,2,Rajasthan,Harvesting,kharif,arhar/tur,Arhar
+Jul,7,Uttar Pradesh,Sowing,kharif,arhar/tur,Arhar
+Mar,3,Uttar Pradesh,Harvesting,kharif,arhar/tur,Arhar
+Apr,4,Uttar Pradesh,Harvesting,kharif,arhar/tur,Arhar
+Jun,6,Tamil Nadu,Sowing,kharif,arhar/tur,Arhar
+Jul,7,Tamil Nadu,Sowing,kharif,arhar/tur,Arhar
+Jan,1,Tamil Nadu,Harvesting,kharif,arhar/tur,Arhar
+Feb,2,Tamil Nadu,Harvesting,kharif,arhar/tur,Arhar
+Jun,6,Gujarat,Sowing,kharif,arhar/tur,Arhar
+Jul,7,Gujarat,Sowing,kharif,arhar/tur,Arhar
+Dec,12,Gujarat,Harvesting,kharif,arhar/tur,Arhar
+Jan,1,Gujarat,Harvesting,kharif,arhar/tur,Arhar
+Jul,7,Bihar,Sowing,kharif,arhar/tur,Arhar
+Mar,3,Bihar,Harvesting,kharif,arhar/tur,Arhar
+Apr,4,Bihar,Harvesting,kharif,arhar/tur,Arhar
+Jun,6,Madhya Pradesh,Sowing,kharif,arhar/tur,Arhar
+Jul,7,Madhya Pradesh,Sowing,kharif,arhar/tur,Arhar
+Jan,1,Madhya Pradesh,Harvesting,kharif,arhar/tur,Arhar
+Feb,2,Madhya Pradesh,Harvesting,kharif,arhar/tur,Arhar
+Jun,6,Odisha,Sowing,kharif,arhar/tur,Arhar
+Jul,7,Odisha,Sowing,kharif,arhar/tur,Arhar
+Jan,1,Odisha,Harvesting,kharif,arhar/tur,Arhar
+Feb,2,Odisha,Harvesting,kharif,arhar/tur,Arhar
+Jul,7,Jharkhand,Sowing,kharif,arhar/tur,Arhar
+Mar,3,Jharkhand,Harvesting,kharif,arhar/tur,Arhar
+Apr,4,Jharkhand,Harvesting,kharif,arhar/tur,Arhar
+Jun,6,Chhattisgarh,Sowing,kharif,arhar/tur,Arhar
+Jul,7,Chhattisgarh,Sowing,kharif,arhar/tur,Arhar
+Jan,1,Chhattisgarh,Harvesting,kharif,arhar/tur,Arhar
+Feb,2,Chhattisgarh,Harvesting,kharif,arhar/tur,Arhar
+Jun,6,Tripura,Sowing,kharif,arhar/tur,Arhar
+Jul,7,Tripura,Sowing,kharif,arhar/tur,Arhar
+Dec,12,Tripura,Harvesting,kharif,arhar/tur,Arhar
+Jan,1,Tripura,Harvesting,kharif,arhar/tur,Arhar
+Jun,6,Nagaland,Sowing,kharif,arhar/tur,Arhar
+Jul,7,Nagaland,Sowing,kharif,arhar/tur,Arhar
+Dec,12,Nagaland,Harvesting,kharif,arhar/tur,Arhar
+Jan,1,Nagaland,Harvesting,kharif,arhar/tur,Arhar
+Jun,6,All India,Sowing,kharif,arhar/tur,Arhar
+Jul,7,All India,Sowing,kharif,arhar/tur,Arhar
+Dec,12,All India,Harvesting,kharif,arhar/tur,Arhar
+Jan,1,All India,Harvesting,kharif,arhar/tur,Arhar
+Feb,2,All India,Harvesting,kharif,arhar/tur,Arhar
+Mar,3,All India,Harvesting,kharif,arhar/tur,Arhar
+Apr,4,All India,Harvesting,kharif,arhar/tur,Arhar
+Jun,6,Andhra Pradesh,Sowing,kharif,mungbean/uradbean,Urad
+Jul,7,Andhra Pradesh,Sowing,kharif,mungbean/uradbean,Urad
+Sep,9,Andhra Pradesh,Harvesting,kharif,mungbean/uradbean,Urad
+Oct,10,Andhra Pradesh,Harvesting,kharif,mungbean/uradbean,Urad
+Jul,7,Assam,Sowing,kharif,mungbean/uradbean,Urad
+Aug,8,Assam,Sowing,kharif,mungbean/uradbean,Urad
+Sep,9,Assam,Harvesting,kharif,mungbean/uradbean,Urad
+Oct,10,Assam,Harvesting,kharif,mungbean/uradbean,Urad
+Jul,7,Bihar,Sowing,kharif,mungbean/uradbean,Urad
+Aug,8,Bihar,Sowing,kharif,mungbean/uradbean,Urad
+Sep,9,Bihar,Harvesting,kharif,mungbean/uradbean,Urad
+Oct,10,Bihar,Harvesting,kharif,mungbean/uradbean,Urad
+Jun,6,Chhattisgarh,Sowing,kharif,mungbean/uradbean,Urad
+Jul,7,Chhattisgarh,Sowing,kharif,mungbean/uradbean,Urad
+Sep,9,Chhattisgarh,Harvesting,kharif,mungbean/uradbean,Urad
+Jul,7,Gujarat,Sowing,kharif,mungbean/uradbean,Urad
+Aug,8,Gujarat,Sowing,kharif,mungbean/uradbean,Urad
+Sep,9,Gujarat,Harvesting,kharif,mungbean/uradbean,Urad
+Oct,10,Gujarat,Harvesting,kharif,mungbean/uradbean,Urad
+Jul,7,Haryana,Sowing,kharif,mungbean/uradbean,Urad
+Aug,8,Haryana,Sowing,kharif,mungbean/uradbean,Urad
+Sep,9,Haryana,Harvesting,kharif,mungbean/uradbean,Urad
+Oct,10,Haryana,Harvesting,kharif,mungbean/uradbean,Urad
+Jul,7,Jharkhand,Sowing,kharif,mungbean/uradbean,Urad
+Aug,8,Jharkhand,Sowing,kharif,mungbean/uradbean,Urad
+Sep,9,Jharkhand,Harvesting,kharif,mungbean/uradbean,Urad
+Oct,10,Jharkhand,Harvesting,kharif,mungbean/uradbean,Urad
+Jun,6,Karnataka,Sowing,kharif,mungbean/uradbean,Urad
+Jul,7,Karnataka,Sowing,kharif,mungbean/uradbean,Urad
+Sep,9,Karnataka,Harvesting,kharif,mungbean/uradbean,Urad
+Oct,10,Karnataka,Harvesting,kharif,mungbean/uradbean,Urad
+Jun,6,Kerala,Sowing,kharif,mungbean/uradbean,Urad
+Jul,7,Kerala,Sowing,kharif,mungbean/uradbean,Urad
+Sep,9,Kerala,Harvesting,kharif,mungbean/uradbean,Urad
+Oct,10,Kerala,Harvesting,kharif,mungbean/uradbean,Urad
+Jun,6,Madhya Pradesh,Sowing,kharif,mungbean/uradbean,Urad
+Jul,7,Madhya Pradesh,Sowing,kharif,mungbean/uradbean,Urad
+Sep,9,Madhya Pradesh,Harvesting,kharif,mungbean/uradbean,Urad
+Oct,10,Madhya Pradesh,Harvesting,kharif,mungbean/uradbean,Urad
+Jun,6,Maharashtra,Sowing,kharif,mungbean/uradbean,Urad
+Jul,7,Maharashtra,Sowing,kharif,mungbean/uradbean,Urad
+Sep,9,Maharashtra,Harvesting,kharif,mungbean/uradbean,Urad
+Oct,10,Maharashtra,Harvesting,kharif,mungbean/uradbean,Urad
+Jun,6,Odisha,Sowing,kharif,mungbean/uradbean,Urad
+Jul,7,Odisha,Sowing,kharif,mungbean/uradbean,Urad
+Sep,9,Odisha,Harvesting,kharif,mungbean/uradbean,Urad
+Oct,10,Odisha,Harvesting,kharif,mungbean/uradbean,Urad
+Jul,7,Punjab,Sowing,kharif,mungbean/uradbean,Urad
+Aug,8,Punjab,Sowing,kharif,mungbean/uradbean,Urad
+Sep,9,Punjab,Harvesting,kharif,mungbean/uradbean,Urad
+Oct,10,Punjab,Harvesting,kharif,mungbean/uradbean,Urad
+Jul,7,Rajasthan,Sowing,kharif,mungbean/uradbean,Urad
+Aug,8,Rajasthan,Sowing,kharif,mungbean/uradbean,Urad
+Sep,9,Rajasthan,Harvesting,kharif,mungbean/uradbean,Urad
+Oct,10,Rajasthan,Harvesting,kharif,mungbean/uradbean,Urad
+Jul,7,Tripura,Sowing,kharif,mungbean/uradbean,Urad
+Aug,8,Tripura,Sowing,kharif,mungbean/uradbean,Urad
+Sep,9,Tripura,Harvesting,kharif,mungbean/uradbean,Urad
+Oct,10,Tripura,Harvesting,kharif,mungbean/uradbean,Urad
+Jun,6,Tamil Nadu,Sowing,kharif,mungbean/uradbean,Urad
+Jul,7,Tamil Nadu,Sowing,kharif,mungbean/uradbean,Urad
+Sep,9,Tamil Nadu,Harvesting,kharif,mungbean/uradbean,Urad
+Oct,10,Tamil Nadu,Harvesting,kharif,mungbean/uradbean,Urad
+Jul,7,Uttar Pradesh,Sowing,kharif,mungbean/uradbean,Urad
+Aug,8,Uttar Pradesh,Sowing,kharif,mungbean/uradbean,Urad
+Sep,9,Uttar Pradesh,Harvesting,kharif,mungbean/uradbean,Urad
+Oct,10,Uttar Pradesh,Harvesting,kharif,mungbean/uradbean,Urad
+Jul,7,West Bengal,Sowing,kharif,mungbean/uradbean,Urad
+Aug,8,West Bengal,Sowing,kharif,mungbean/uradbean,Urad
+Sep,9,West Bengal,Harvesting,kharif,mungbean/uradbean,Urad
+Oct,10,West Bengal,Harvesting,kharif,mungbean/uradbean,Urad
+Jul,7,Himachal Pradesh,Sowing,kharif,mungbean/uradbean,Urad
+Aug,8,Himachal Pradesh,Sowing,kharif,mungbean/uradbean,Urad
+Sep,9,Himachal Pradesh,Harvesting,kharif,mungbean/uradbean,Urad
+Oct,10,Himachal Pradesh,Harvesting,kharif,mungbean/uradbean,Urad
+Oct,10,Andhra Pradesh,Sowing,rabi,mungbean/uradbean,Urad
+Nov,11,Andhra Pradesh,Sowing,rabi,mungbean/uradbean,Urad
+Jan,1,Andhra Pradesh,Harvesting,rabi,mungbean/uradbean,Urad
+Feb,2,Andhra Pradesh,Harvesting,rabi,mungbean/uradbean,Urad
+Aug,8,Assam,Sowing,rabi,mungbean/uradbean,Urad
+Sep,9,Assam,Sowing,rabi,mungbean/uradbean,Urad
+Nov,11,Assam,Harvesting,rabi,mungbean/uradbean,Urad
+Dec,12,Assam,Harvesting,rabi,mungbean/uradbean,Urad
+Oct,10,Karnataka,Sowing,rabi,mungbean/uradbean,Urad
+Nov,11,Karnataka,Sowing,rabi,mungbean/uradbean,Urad
+Jan,1,Karnataka,Harvesting,rabi,mungbean/uradbean,Urad
+Feb,2,Karnataka,Harvesting,rabi,mungbean/uradbean,Urad
+Oct,10,Odisha,Sowing,rabi,mungbean/uradbean,Urad
+Nov,11,Odisha,Sowing,rabi,mungbean/uradbean,Urad
+Jan,1,Odisha,Harvesting,rabi,mungbean/uradbean,Urad
+Feb,2,Odisha,Harvesting,rabi,mungbean/uradbean,Urad
+Oct,10,Tamil Nadu,Sowing,rabi,mungbean/uradbean,Urad
+Nov,11,Tamil Nadu,Sowing,rabi,mungbean/uradbean,Urad
+Jan,1,Tamil Nadu,Harvesting,rabi,mungbean/uradbean,Urad
+Feb,2,Tamil Nadu,Harvesting,rabi,mungbean/uradbean,Urad
+Jan,1,Andhra Pradesh,Sowing,spring/summer mungbean/uradbean,/ mungbean/uradbean,Urad
+Feb,2,Andhra Pradesh,Sowing,spring/summer mungbean/uradbean,/ mungbean/uradbean,Urad
+Mar,3,Andhra Pradesh,Harvesting,spring/summer mungbean/uradbean,/ mungbean/uradbean,Urad
+Apr,4,Andhra Pradesh,Harvesting,spring/summer mungbean/uradbean,/ mungbean/uradbean,Urad
+Feb,2,Assam,Sowing,spring/summer mungbean/uradbean,/ mungbean/uradbean,Urad
+Mar,3,Assam,Sowing,spring/summer mungbean/uradbean,/ mungbean/uradbean,Urad
+May,5,Assam,Harvesting,spring/summer mungbean/uradbean,/ mungbean/uradbean,Urad
+Feb,2,Bihar,Sowing,spring/summer mungbean/uradbean,/ mungbean/uradbean,Urad
+Mar,3,Bihar,Sowing,spring/summer mungbean/uradbean,/ mungbean/uradbean,Urad
+Apr,4,Bihar,Sowing,spring/summer mungbean/uradbean,/ mungbean/uradbean,Urad
+May,5,Bihar,Harvesting,spring/summer mungbean/uradbean,/ mungbean/uradbean,Urad
+Jun,6,Bihar,Harvesting,spring/summer mungbean/uradbean,/ mungbean/uradbean,Urad
+Feb,2,Haryana,Sowing,spring/summer mungbean/uradbean,/ mungbean/uradbean,Urad
+Mar,3,Haryana,Sowing,spring/summer mungbean/uradbean,/ mungbean/uradbean,Urad
+Apr,4,Haryana,Sowing,spring/summer mungbean/uradbean,/ mungbean/uradbean,Urad
+May,5,Haryana,Harvesting,spring/summer mungbean/uradbean,/ mungbean/uradbean,Urad
+Jun,6,Haryana,Harvesting,spring/summer mungbean/uradbean,/ mungbean/uradbean,Urad
+Feb,2,Jharkhand,Sowing,spring/summer mungbean/uradbean,/ mungbean/uradbean,Urad
+Mar,3,Jharkhand,Sowing,spring/summer mungbean/uradbean,/ mungbean/uradbean,Urad
+Apr,4,Jharkhand,Sowing,spring/summer mungbean/uradbean,/ mungbean/uradbean,Urad
+May,5,Jharkhand,Harvesting,spring/summer mungbean/uradbean,/ mungbean/uradbean,Urad
+Jun,6,Jharkhand,Harvesting,spring/summer mungbean/uradbean,/ mungbean/uradbean,Urad
+Jan,1,Karnataka,Sowing,spring/summer mungbean/uradbean,/ mungbean/uradbean,Urad
+Feb,2,Karnataka,Sowing,spring/summer mungbean/uradbean,/ mungbean/uradbean,Urad
+Mar,3,Karnataka,Harvesting,spring/summer mungbean/uradbean,/ mungbean/uradbean,Urad
+Apr,4,Karnataka,Harvesting,spring/summer mungbean/uradbean,/ mungbean/uradbean,Urad
+Jan,1,Kerala,Sowing,spring/summer mungbean/uradbean,/ mungbean/uradbean,Urad
+Feb,2,Kerala,Sowing,spring/summer mungbean/uradbean,/ mungbean/uradbean,Urad
+Mar,3,Kerala,Harvesting,spring/summer mungbean/uradbean,/ mungbean/uradbean,Urad
+Apr,4,Kerala,Harvesting,spring/summer mungbean/uradbean,/ mungbean/uradbean,Urad
+Jan,1,Odisha,Sowing,spring/summer mungbean/uradbean,/ mungbean/uradbean,Urad
+Feb,2,Odisha,Sowing,spring/summer mungbean/uradbean,/ mungbean/uradbean,Urad
+Mar,3,Odisha,Harvesting,spring/summer mungbean/uradbean,/ mungbean/uradbean,Urad
+Apr,4,Odisha,Harvesting,spring/summer mungbean/uradbean,/ mungbean/uradbean,Urad
+Feb,2,Punjab,Sowing,spring/summer mungbean/uradbean,/ mungbean/uradbean,Urad
+Mar,3,Punjab,Sowing,spring/summer mungbean/uradbean,/ mungbean/uradbean,Urad
+May,5,Punjab,Harvesting,spring/summer mungbean/uradbean,/ mungbean/uradbean,Urad
+Feb,2,Tripura,Sowing,spring/summer mungbean/uradbean,/ mungbean/uradbean,Urad
+Mar,3,Tripura,Sowing,spring/summer mungbean/uradbean,/ mungbean/uradbean,Urad
+Apr,4,Tripura,Sowing,spring/summer mungbean/uradbean,/ mungbean/uradbean,Urad
+May,5,Tripura,Harvesting,spring/summer mungbean/uradbean,/ mungbean/uradbean,Urad
+Jun,6,Tripura,Harvesting,spring/summer mungbean/uradbean,/ mungbean/uradbean,Urad
+Feb,2,Tamil Nadu,Sowing,spring/summer mungbean/uradbean,/ mungbean/uradbean,Urad
+Mar,3,Tamil Nadu,Sowing,spring/summer mungbean/uradbean,/ mungbean/uradbean,Urad
+Apr,4,Tamil Nadu,Sowing,spring/summer mungbean/uradbean,/ mungbean/uradbean,Urad
+May,5,Tamil Nadu,Harvesting,spring/summer mungbean/uradbean,/ mungbean/uradbean,Urad
+Jun,6,Tamil Nadu,Harvesting,spring/summer mungbean/uradbean,/ mungbean/uradbean,Urad
+Feb,2,Uttar Pradesh,Sowing,spring/summer mungbean/uradbean,/ mungbean/uradbean,Urad
+Mar,3,Uttar Pradesh,Sowing,spring/summer mungbean/uradbean,/ mungbean/uradbean,Urad
+Apr,4,Uttar Pradesh,Sowing,spring/summer mungbean/uradbean,/ mungbean/uradbean,Urad
+May,5,Uttar Pradesh,Harvesting,spring/summer mungbean/uradbean,/ mungbean/uradbean,Urad
+Jun,6,Uttar Pradesh,Harvesting,spring/summer mungbean/uradbean,/ mungbean/uradbean,Urad
+Feb,2,West Bengal,Sowing,spring/summer mungbean/uradbean,/ mungbean/uradbean,Urad
+Mar,3,West Bengal,Sowing,spring/summer mungbean/uradbean,/ mungbean/uradbean,Urad
+Apr,4,West Bengal,Sowing,spring/summer mungbean/uradbean,/ mungbean/uradbean,Urad
+May,5,West Bengal,Harvesting,spring/summer mungbean/uradbean,/ mungbean/uradbean,Urad
+Jun,6,West Bengal,Harvesting,spring/summer mungbean/uradbean,/ mungbean/uradbean,Urad
+Aug,8,Bihar,Sowing,kharif,horsegram,Horsegram
+Oct,10,Bihar,Harvesting,kharif,horsegram,Horsegram
+Nov,11,Bihar,Harvesting,kharif,horsegram,Horsegram
+Aug,8,Karnataka,Sowing,kharif,horsegram,Horsegram
+Oct,10,Karnataka,Harvesting,kharif,horsegram,Horsegram
+Nov,11,Karnataka,Harvesting,kharif,horsegram,Horsegram
+Aug,8,Madhya Pradesh,Sowing,kharif,horsegram,Horsegram
+Oct,10,Madhya Pradesh,Harvesting,kharif,horsegram,Horsegram
+Jul,7,Maharashtra,Sowing,kharif,horsegram,Horsegram
+Oct,10,Maharashtra,Harvesting,kharif,horsegram,Horsegram
+Jul,7,Rajasthan,Sowing,kharif,horsegram,Horsegram
+Oct,10,Rajasthan,Harvesting,kharif,horsegram,Horsegram
+Oct,10,Tamil Nadu,Sowing,kharif,horsegram,Horsegram
+Feb,2,Tamil Nadu,Harvesting,kharif,horsegram,Horsegram
+Jun,6,Himachal Pradesh,Sowing,kharif,horsegram,Horsegram
+Jul,7,Himachal Pradesh,Sowing,kharif,horsegram,Horsegram
+Sep,9,Himachal Pradesh,Harvesting,kharif,horsegram,Horsegram
+Oct,10,Himachal Pradesh,Harvesting,kharif,horsegram,Horsegram
+Oct,10,Assam,Sowing,rabi,chickpea,Chickpea
+Nov,11,Assam,Sowing,rabi,chickpea,Chickpea
+Mar,3,Assam,Harvesting,rabi,chickpea,Chickpea
+Oct,10,Bihar,Sowing,rabi,chickpea,Chickpea
+Nov,11,Bihar,Sowing,rabi,chickpea,Chickpea
+Mar,3,Bihar,Harvesting,rabi,chickpea,Chickpea
+Oct,10,Chhattisgarh,Sowing,rabi,chickpea,Chickpea
+Feb,2,Chhattisgarh,Harvesting,rabi,chickpea,Chickpea
+Mar,3,Chhattisgarh,Harvesting,rabi,chickpea,Chickpea
+Oct,10,Gujarat,Sowing,rabi,chickpea,Chickpea
+Nov,11,Gujarat,Sowing,rabi,chickpea,Chickpea
+Feb,2,Gujarat,Harvesting,rabi,chickpea,Chickpea
+Mar,3,Gujarat,Harvesting,rabi,chickpea,Chickpea
+Oct,10,Haryana,Sowing,rabi,chickpea,Chickpea
+Nov,11,Haryana,Sowing,rabi,chickpea,Chickpea
+Mar,3,Haryana,Harvesting,rabi,chickpea,Chickpea
+Apr,4,Haryana,Harvesting,rabi,chickpea,Chickpea
+Sep,9,Karnataka,Sowing,rabi,chickpea,Chickpea
+Oct,10,Karnataka,Sowing,rabi,chickpea,Chickpea
+Jan,1,Karnataka,Harvesting,rabi,chickpea,Chickpea
+Feb,2,Karnataka,Harvesting,rabi,chickpea,Chickpea
+Oct,10,Madhya Pradesh,Sowing,rabi,chickpea,Chickpea
+Nov,11,Madhya Pradesh,Sowing,rabi,chickpea,Chickpea
+Feb,2,Madhya Pradesh,Harvesting,rabi,chickpea,Chickpea
+Mar,3,Madhya Pradesh,Harvesting,rabi,chickpea,Chickpea
+Sep,9,Maharashtra,Sowing,rabi,chickpea,Chickpea
+Oct,10,Maharashtra,Sowing,rabi,chickpea,Chickpea
+Feb,2,Maharashtra,Harvesting,rabi,chickpea,Chickpea
+Mar,3,Maharashtra,Harvesting,rabi,chickpea,Chickpea
+Oct,10,Punjab,Sowing,rabi,chickpea,Chickpea
+Nov,11,Punjab,Sowing,rabi,chickpea,Chickpea
+Mar,3,Punjab,Harvesting,rabi,chickpea,Chickpea
+Apr,4,Punjab,Harvesting,rabi,chickpea,Chickpea
+Oct,10,Uttar Pradesh,Sowing,rabi,chickpea,Chickpea
+Nov,11,Uttar Pradesh,Sowing,rabi,chickpea,Chickpea
+Mar,3,Uttar Pradesh,Harvesting,rabi,chickpea,Chickpea
+Apr,4,Uttar Pradesh,Harvesting,rabi,chickpea,Chickpea
+Oct,10,West Bengal,Sowing,rabi,chickpea,Chickpea
+Nov,11,West Bengal,Sowing,rabi,chickpea,Chickpea
+Mar,3,West Bengal,Harvesting,rabi,chickpea,Chickpea
+Jun,6,Madhya Pradesh,Sowing,kharif,soya bean,Soybean
+Jul,7,Madhya Pradesh,Sowing,kharif,soya bean,Soybean
+Sep,9,Madhya Pradesh,Harvesting,kharif,soya bean,Soybean
+Oct,10,Madhya Pradesh,Harvesting,kharif,soya bean,Soybean
+Jun,6,Maharashtra,Sowing,kharif,soya bean,Soybean
+Jul,7,Maharashtra,Sowing,kharif,soya bean,Soybean
+Sep,9,Maharashtra,Harvesting,kharif,soya bean,Soybean
+Oct,10,Maharashtra,Harvesting,kharif,soya bean,Soybean
+Jun,6,Rajasthan,Sowing,kharif,soya bean,Soybean
+Jul,7,Rajasthan,Sowing,kharif,soya bean,Soybean
+Sep,9,Rajasthan,Harvesting,kharif,soya bean,Soybean
+Oct,10,Rajasthan,Harvesting,kharif,soya bean,Soybean
+Jun,6,Karnataka,Sowing,kharif,soya bean,Soybean
+Jul,7,Karnataka,Sowing,kharif,soya bean,Soybean
+Sep,9,Karnataka,Harvesting,kharif,soya bean,Soybean
+Oct,10,Karnataka,Harvesting,kharif,soya bean,Soybean
+Jun,6,Andhra Pradesh,Sowing,kharif,soya bean,Soybean
+Jul,7,Andhra Pradesh,Sowing,kharif,soya bean,Soybean
+Sep,9,Andhra Pradesh,Harvesting,kharif,soya bean,Soybean
+Oct,10,Andhra Pradesh,Harvesting,kharif,soya bean,Soybean
+Jun,6,Chhattisgarh,Sowing,kharif,soya bean,Soybean
+Jul,7,Chhattisgarh,Sowing,kharif,soya bean,Soybean
+Sep,9,Chhattisgarh,Harvesting,kharif,soya bean,Soybean
+Oct,10,Chhattisgarh,Harvesting,kharif,soya bean,Soybean
+Jun,6,Uttar Pradesh,Sowing,kharif,soya bean,Soybean
+Jul,7,Uttar Pradesh,Sowing,kharif,soya bean,Soybean
+Sep,9,Uttar Pradesh,Harvesting,kharif,soya bean,Soybean
+Oct,10,Uttar Pradesh,Harvesting,kharif,soya bean,Soybean
+Jun,6,Manipur,Sowing,kharif,soya bean,Soybean
+Jul,7,Manipur,Sowing,kharif,soya bean,Soybean
+Sep,9,Manipur,Harvesting,kharif,soya bean,Soybean
+Oct,10,Manipur,Harvesting,kharif,soya bean,Soybean
+Jun,6,Meghalaya,Sowing,kharif,soya bean,Soybean
+Jul,7,Meghalaya,Sowing,kharif,soya bean,Soybean
+Sep,9,Meghalaya,Harvesting,kharif,soya bean,Soybean
+Oct,10,Meghalaya,Harvesting,kharif,soya bean,Soybean
+Jun,6,West Bengal,Sowing,kharif,soya bean,Soybean
+Jul,7,West Bengal,Sowing,kharif,soya bean,Soybean
+Jun,6,Madhya Pradesh,Sowing,kharif,niger,Niger
+Jul,7,Madhya Pradesh,Sowing,kharif,niger,Niger
+Oct,10,Madhya Pradesh,Harvesting,kharif,niger,Niger
+Nov,11,Madhya Pradesh,Harvesting,kharif,niger,Niger
+Jun,6,Maharashtra,Sowing,kharif,niger,Niger
+Jul,7,Maharashtra,Sowing,kharif,niger,Niger
+Oct,10,Maharashtra,Harvesting,kharif,niger,Niger
+Nov,11,Maharashtra,Harvesting,kharif,niger,Niger
+Jun,6,Karnataka,Sowing,kharif,niger,Niger
+Jul,7,Karnataka,Sowing,kharif,niger,Niger
+Oct,10,Karnataka,Harvesting,kharif,niger,Niger
+Nov,11,Karnataka,Harvesting,kharif,niger,Niger
+Jun,6,Andhra Pradesh,Sowing,kharif,niger,Niger
+Jul,7,Andhra Pradesh,Sowing,kharif,niger,Niger
+Oct,10,Andhra Pradesh,Harvesting,kharif,niger,Niger
+Nov,11,Andhra Pradesh,Harvesting,kharif,niger,Niger
+Sep,9,West Bengal,Harvesting,kharif,niger,Niger
+Oct,10,West Bengal,Harvesting,kharif,niger,Niger
+Jun,6,Odisha,Sowing,kharif,niger,Niger
+Jul,7,Odisha,Sowing,kharif,niger,Niger
+Oct,10,Odisha,Harvesting,kharif,niger,Niger
+Nov,11,Odisha,Harvesting,kharif,niger,Niger
+Jun,6,Bihar,Sowing,kharif,niger,Niger
+Jun,6,Jharkhand,Sowing,kharif,niger,Niger
+Jul,7,Bihar,Sowing,kharif,niger,Niger
+Jul,7,Jharkhand,Sowing,kharif,niger,Niger
+Oct,10,Bihar,Harvesting,kharif,niger,Niger
+Oct,10,Jharkhand,Harvesting,kharif,niger,Niger
+Nov,11,Bihar,Harvesting,kharif,niger,Niger
+Nov,11,Jharkhand,Harvesting,kharif,niger,Niger
+Jun,6,Gujarat,Sowing,kharif,niger,Niger
+Jul,7,Gujarat,Sowing,kharif,niger,Niger
+Oct,10,Gujarat,Harvesting,kharif,niger,Niger
+Nov,11,Gujarat,Harvesting,kharif,niger,Niger
+Aug,8,Madhya Pradesh,Sowing,late kharif,niger,Niger
+Sep,9,Madhya Pradesh,Sowing,late kharif,niger,Niger
+Nov,11,Madhya Pradesh,Harvesting,late kharif,niger,Niger
+Dec,12,Madhya Pradesh,Harvesting,late kharif,niger,Niger
+Aug,8,Maharashtra,Sowing,late kharif,niger,Niger
+Sep,9,Maharashtra,Sowing,late kharif,niger,Niger
+Nov,11,Maharashtra,Harvesting,late kharif,niger,Niger
+Dec,12,Maharashtra,Harvesting,late kharif,niger,Niger
+Aug,8,Karnataka,Sowing,late kharif,niger,Niger
+Sep,9,Karnataka,Sowing,late kharif,niger,Niger
+Nov,11,Karnataka,Harvesting,late kharif,niger,Niger
+Dec,12,Karnataka,Harvesting,late kharif,niger,Niger
+Aug,8,Andhra Pradesh,Sowing,late kharif,niger,Niger
+Sep,9,Andhra Pradesh,Sowing,late kharif,niger,Niger
+Nov,11,Andhra Pradesh,Harvesting,late kharif,niger,Niger
+Dec,12,Andhra Pradesh,Harvesting,late kharif,niger,Niger
+Aug,8,Odisha,Sowing,late kharif,niger,Niger
+Sep,9,Odisha,Sowing,late kharif,niger,Niger
+Nov,11,Odisha,Harvesting,late kharif,niger,Niger
+Dec,12,Odisha,Harvesting,late kharif,niger,Niger
+Aug,8,Bihar,Sowing,late kharif,niger,Niger
+Aug,8,Jharkhand,Sowing,late kharif,niger,Niger
+Sep,9,Bihar,Sowing,late kharif,niger,Niger
+Sep,9,Jharkhand,Sowing,late kharif,niger,Niger
+Nov,11,Bihar,Harvesting,late kharif,niger,Niger
+Nov,11,Jharkhand,Harvesting,late kharif,niger,Niger
+Dec,12,Bihar,Harvesting,late kharif,niger,Niger
+Dec,12,Jharkhand,Harvesting,late kharif,niger,Niger
+Aug,8,Gujarat,Sowing,late kharif,niger,Niger
+Sep,9,Gujarat,Sowing,late kharif,niger,Niger
+Nov,11,Gujarat,Harvesting,late kharif,niger,Niger
+Dec,12,Gujarat,Harvesting,late kharif,niger,Niger
+Oct,10,Gujarat,Sowing,rabi,gram,Gram
+Nov,11,Gujarat,Sowing,rabi,gram,Gram
+Feb,2,Gujarat,Harvesting,rabi,gram,Gram
+Mar,3,Gujarat,Harvesting,rabi,gram,Gram
+Oct,10,Haryana,Sowing,rabi,gram,Gram
+Mar,3,Haryana,Harvesting,rabi,gram,Gram
+Oct,10,Karnataka,Sowing,rabi,gram,Gram
+Nov,11,Karnataka,Sowing,rabi,gram,Gram
+Jan,1,Karnataka,Harvesting,rabi,gram,Gram
+Feb,2,Karnataka,Harvesting,rabi,gram,Gram
+Mar,3,Karnataka,Harvesting,rabi,gram,Gram
+Oct,10,Madhya Pradesh,Sowing,rabi,gram,Gram
+Nov,11,Madhya Pradesh,Sowing,rabi,gram,Gram
+Dec,12,Madhya Pradesh,Sowing,rabi,gram,Gram
+Feb,2,Madhya Pradesh,Harvesting,rabi,gram,Gram
+Mar,3,Madhya Pradesh,Harvesting,rabi,gram,Gram
+Apr,4,Madhya Pradesh,Harvesting,rabi,gram,Gram
+Sep,9,Maharashtra,Sowing,rabi,gram,Gram
+Oct,10,Maharashtra,Sowing,rabi,gram,Gram
+Feb,2,Maharashtra,Harvesting,rabi,gram,Gram
+Mar,3,Maharashtra,Harvesting,rabi,gram,Gram
+Sep,9,Manipur,Sowing,rabi,gram,Gram
+Oct,10,Manipur,Sowing,rabi,gram,Gram
+Mar,3,Manipur,Harvesting,rabi,gram,Gram
+Apr,4,Manipur,Harvesting,rabi,gram,Gram
+Sep,9,Meghalaya,Sowing,rabi,gram,Gram
+Oct,10,Meghalaya,Sowing,rabi,gram,Gram
+Dec,12,Meghalaya,Harvesting,rabi,gram,Gram
+Jan,1,Meghalaya,Harvesting,rabi,gram,Gram
+Oct,10,Uttar Pradesh,Sowing,rabi,gram,Gram
+Nov,11,Uttar Pradesh,Sowing,rabi,gram,Gram
+Mar,3,Uttar Pradesh,Harvesting,rabi,gram,Gram
+Apr,4,Uttar Pradesh,Harvesting,rabi,gram,Gram
+Nov,11,West Bengal,Sowing,rabi,gram,Gram
+Dec,12,West Bengal,Sowing,rabi,gram,Gram
+Mar,3,West Bengal,Harvesting,rabi,gram,Gram
+Sep,9,Madhya Pradesh,Sowing,rabi,masur,Masur
+Oct,10,Madhya Pradesh,Sowing,rabi,masur,Masur
+Nov,11,Madhya Pradesh,Sowing,rabi,masur,Masur
+Feb,2,Madhya Pradesh,Harvesting,rabi,masur,Masur
+Mar,3,Madhya Pradesh,Harvesting,rabi,masur,Masur
+Apr,4,Madhya Pradesh,Harvesting,rabi,masur,Masur
+Oct,10,Uttar Pradesh,Sowing,rabi,masur,Masur
+Nov,11,Uttar Pradesh,Sowing,rabi,masur,Masur
+Mar,3,Uttar Pradesh,Harvesting,rabi,masur,Masur
+Jun,6,Bihar,Sowing,kharif,pulses/lentil,Lentil
+Jul,7,Bihar,Sowing,kharif,pulses/lentil,Lentil
+Nov,11,Bihar,Harvesting,kharif,pulses/lentil,Lentil
+Dec,12,Bihar,Harvesting,kharif,pulses/lentil,Lentil
+Aug,8,Goa,Sowing,kharif,pulses/lentil,Lentil
+Sep,9,Goa,Sowing,kharif,pulses/lentil,Lentil
+Nov,11,Goa,Harvesting,kharif,pulses/lentil,Lentil
+Dec,12,Goa,Harvesting,kharif,pulses/lentil,Lentil
+Sep,9,Meghalaya,Sowing,kharif,pulses/lentil,Lentil
+Oct,10,Meghalaya,Sowing,kharif,pulses/lentil,Lentil
+Feb,2,Meghalaya,Harvesting,kharif,pulses/lentil,Lentil
+Mar,3,Meghalaya,Harvesting,kharif,pulses/lentil,Lentil
+Jun,6,Punjab,Sowing,kharif,pulses/lentil,Lentil
+Jul,7,Punjab,Sowing,kharif,pulses/lentil,Lentil
+Nov,11,West Bengal,Sowing,kharif,pulses/lentil,Lentil
+Feb,2,West Bengal,Harvesting,kharif,pulses/lentil,Lentil
+Mar,3,West Bengal,Harvesting,kharif,pulses/lentil,Lentil
+Oct,10,Assam,Sowing,rabi,pulses/lentil,Lentil
+Nov,11,Assam,Sowing,rabi,pulses/lentil,Lentil
+Mar,3,Assam,Harvesting,rabi,pulses/lentil,Lentil
+Apr,4,Assam,Harvesting,rabi,pulses/lentil,Lentil
+Oct,10,Bihar,Sowing,rabi,pulses/lentil,Lentil
+Nov,11,Bihar,Sowing,rabi,pulses/lentil,Lentil
+Mar,3,Bihar,Harvesting,rabi,pulses/lentil,Lentil
+Apr,4,Bihar,Harvesting,rabi,pulses/lentil,Lentil
+Oct,10,Chhattisgarh,Harvesting,rabi,pulses/lentil,Lentil
+Nov,11,Chhattisgarh,Harvesting,rabi,pulses/lentil,Lentil
+Mar,3,Chhattisgarh,Harvesting,rabi,pulses/lentil,Lentil
+Apr,4,Chhattisgarh,Harvesting,rabi,pulses/lentil,Lentil
+Dec,12,Goa,Sowing,rabi,pulses/lentil,Lentil
+Jan,1,Goa,Sowing,rabi,pulses/lentil,Lentil
+Mar,3,Goa,Harvesting,rabi,pulses/lentil,Lentil
+Apr,4,Goa,Harvesting,rabi,pulses/lentil,Lentil
+May,5,Goa,Harvesting,rabi,pulses/lentil,Lentil
+Oct,10,Jharkhand,Sowing,rabi,pulses/lentil,Lentil
+Nov,11,Jharkhand,Sowing,rabi,pulses/lentil,Lentil
+Mar,3,Jharkhand,Harvesting,rabi,pulses/lentil,Lentil
+Apr,4,Jharkhand,Harvesting,rabi,pulses/lentil,Lentil
+Oct,10,Rajasthan,Sowing,rabi,pulses/lentil,Lentil
+Nov,11,Rajasthan,Sowing,rabi,pulses/lentil,Lentil
+Mar,3,Rajasthan,Harvesting,rabi,pulses/lentil,Lentil
+Apr,4,Rajasthan,Harvesting,rabi,pulses/lentil,Lentil
+Oct,10,Tripura,Sowing,rabi,pulses/lentil,Lentil
+Nov,11,Tripura,Sowing,rabi,pulses/lentil,Lentil
+Mar,3,Tripura,Harvesting,rabi,pulses/lentil,Lentil
+Apr,4,Tripura,Harvesting,rabi,pulses/lentil,Lentil
+Oct,10,Gujarat,Sowing,rabi,pulses/lentil,Lentil
+Nov,11,Gujarat,Sowing,rabi,pulses/lentil,Lentil
+Mar,3,Gujarat,Harvesting,rabi,pulses/lentil,Lentil
+Apr,4,Gujarat,Harvesting,rabi,pulses/lentil,Lentil
+Oct,10,Haryana,Sowing,rabi,pulses/lentil,Lentil
+Nov,11,Haryana,Sowing,rabi,pulses/lentil,Lentil
+Mar,3,Haryana,Harvesting,rabi,pulses/lentil,Lentil
+Apr,4,Haryana,Harvesting,rabi,pulses/lentil,Lentil
+Oct,10,Madhya Pradesh,Sowing,rabi,pulses/lentil,Lentil
+Nov,11,Madhya Pradesh,Sowing,rabi,pulses/lentil,Lentil
+Mar,3,Madhya Pradesh,Harvesting,rabi,pulses/lentil,Lentil
+Apr,4,Madhya Pradesh,Harvesting,rabi,pulses/lentil,Lentil
+Oct,10,Punjab,Sowing,rabi,pulses/lentil,Lentil
+Nov,11,Punjab,Sowing,rabi,pulses/lentil,Lentil
+Mar,3,Punjab,Harvesting,rabi,pulses/lentil,Lentil
+Apr,4,Punjab,Harvesting,rabi,pulses/lentil,Lentil
+Oct,10,Uttar Pradesh,Sowing,rabi,pulses/lentil,Lentil
+Nov,11,Uttar Pradesh,Sowing,rabi,pulses/lentil,Lentil
+Mar,3,Uttar Pradesh,Harvesting,rabi,pulses/lentil,Lentil
+Apr,4,Uttar Pradesh,Harvesting,rabi,pulses/lentil,Lentil
+Oct,10,West Bengal,Sowing,rabi,pulses/lentil,Lentil
+Nov,11,West Bengal,Sowing,rabi,pulses/lentil,Lentil
+Mar,3,West Bengal,Harvesting,rabi,pulses/lentil,Lentil
+Apr,4,West Bengal,Harvesting,rabi,pulses/lentil,Lentil
+Oct,10,Assam,Sowing,rabi,pea,Pea
+Nov,11,Assam,Sowing,rabi,pea,Pea
+Mar,3,Assam,Harvesting,rabi,pea,Pea
+Apr,4,Assam,Harvesting,rabi,pea,Pea
+Oct,10,Bihar,Sowing,rabi,pea,Pea
+Nov,11,Bihar,Sowing,rabi,pea,Pea
+Mar,3,Bihar,Harvesting,rabi,pea,Pea
+Apr,4,Bihar,Harvesting,rabi,pea,Pea
+Oct,10,Chhattisgarh,Harvesting,rabi,pea,Pea
+Nov,11,Chhattisgarh,Harvesting,rabi,pea,Pea
+Mar,3,Chhattisgarh,Harvesting,rabi,pea,Pea
+Apr,4,Chhattisgarh,Harvesting,rabi,pea,Pea
+Oct,10,Jharkhand,Sowing,rabi,pea,Pea
+Nov,11,Jharkhand,Sowing,rabi,pea,Pea
+Mar,3,Jharkhand,Harvesting,rabi,pea,Pea
+Apr,4,Jharkhand,Harvesting,rabi,pea,Pea
+Oct,10,Rajasthan,Sowing,rabi,pea,Pea
+Nov,11,Rajasthan,Sowing,rabi,pea,Pea
+Mar,3,Rajasthan,Harvesting,rabi,pea,Pea
+Apr,4,Rajasthan,Harvesting,rabi,pea,Pea
+Oct,10,Tripura,Sowing,rabi,pea,Pea
+Nov,11,Tripura,Sowing,rabi,pea,Pea
+Mar,3,Tripura,Harvesting,rabi,pea,Pea
+Apr,4,Tripura,Harvesting,rabi,pea,Pea
+Oct,10,Gujarat,Sowing,rabi,pea,Pea
+Nov,11,Gujarat,Sowing,rabi,pea,Pea
+Mar,3,Gujarat,Harvesting,rabi,pea,Pea
+Apr,4,Gujarat,Harvesting,rabi,pea,Pea
+Oct,10,Haryana,Sowing,rabi,pea,Pea
+Nov,11,Haryana,Sowing,rabi,pea,Pea
+Mar,3,Haryana,Harvesting,rabi,pea,Pea
+Apr,4,Haryana,Harvesting,rabi,pea,Pea
+Oct,10,Madhya Pradesh,Sowing,rabi,pea,Pea
+Nov,11,Madhya Pradesh,Sowing,rabi,pea,Pea
+Mar,3,Madhya Pradesh,Harvesting,rabi,pea,Pea
+Apr,4,Madhya Pradesh,Harvesting,rabi,pea,Pea
+Oct,10,Punjab,Sowing,rabi,pea,Pea
+Nov,11,Punjab,Sowing,rabi,pea,Pea
+Mar,3,Punjab,Harvesting,rabi,pea,Pea
+Apr,4,Punjab,Harvesting,rabi,pea,Pea
+Oct,10,Uttar Pradesh,Sowing,rabi,pea,Pea
+Nov,11,Uttar Pradesh,Sowing,rabi,pea,Pea
+Mar,3,Uttar Pradesh,Harvesting,rabi,pea,Pea
+Apr,4,Uttar Pradesh,Harvesting,rabi,pea,Pea
+Oct,10,West Bengal,Sowing,rabi,pea,Pea
+Nov,11,West Bengal,Sowing,rabi,pea,Pea
+Mar,3,West Bengal,Harvesting,rabi,pea,Pea
+Apr,4,West Bengal,Harvesting,rabi,pea,Pea
+Jun,6,Andhra Pradesh,Sowing,kharif,groundnut,Groundnut
+Jul,7,Andhra Pradesh,Sowing,kharif,groundnut,Groundnut
+Sep,9,Andhra Pradesh,Harvesting,kharif,groundnut,Groundnut
+Oct,10,Andhra Pradesh,Harvesting,kharif,groundnut,Groundnut
+Nov,11,Andhra Pradesh,Harvesting,kharif,groundnut,Groundnut
+Jun,6,Gujarat,Sowing,kharif,groundnut,Groundnut
+Jul,7,Gujarat,Sowing,kharif,groundnut,Groundnut
+Sep,9,Gujarat,Harvesting,kharif,groundnut,Groundnut
+Oct,10,Gujarat,Harvesting,kharif,groundnut,Groundnut
+Nov,11,Gujarat,Harvesting,kharif,groundnut,Groundnut
+Jun,6,Karnataka,Sowing,kharif,groundnut,Groundnut
+Jul,7,Karnataka,Sowing,kharif,groundnut,Groundnut
+Sep,9,Karnataka,Harvesting,kharif,groundnut,Groundnut
+Oct,10,Karnataka,Harvesting,kharif,groundnut,Groundnut
+Jun,6,Madhya Pradesh,Sowing,kharif,groundnut,Groundnut
+Jul,7,Madhya Pradesh,Sowing,kharif,groundnut,Groundnut
+Sep,9,Madhya Pradesh,Harvesting,kharif,groundnut,Groundnut
+Oct,10,Madhya Pradesh,Harvesting,kharif,groundnut,Groundnut
+Jun,6,Maharashtra,Sowing,kharif,groundnut,Groundnut
+Jul,7,Maharashtra,Sowing,kharif,groundnut,Groundnut
+Oct,10,Maharashtra,Harvesting,kharif,groundnut,Groundnut
+Nov,11,Maharashtra,Harvesting,kharif,groundnut,Groundnut
+Jun,6,Rajasthan,Sowing,kharif,groundnut,Groundnut
+Jul,7,Rajasthan,Sowing,kharif,groundnut,Groundnut
+Oct,10,Rajasthan,Harvesting,kharif,groundnut,Groundnut
+Nov,11,Rajasthan,Harvesting,kharif,groundnut,Groundnut
+Jul,7,Uttar Pradesh,Sowing,kharif,groundnut,Groundnut
+Oct,10,Uttar Pradesh,Harvesting,kharif,groundnut,Groundnut
+Nov,11,Uttar Pradesh,Harvesting,kharif,groundnut,Groundnut
+Jun,6,West Bengal,Sowing,kharif,groundnut,Groundnut
+Jul,7,West Bengal,Sowing,kharif,groundnut,Groundnut
+Sep,9,West Bengal,Harvesting,kharif,groundnut,Groundnut
+Oct,10,West Bengal,Harvesting,kharif,groundnut,Groundnut
+Nov,11,Andhra Pradesh,Sowing,rabi,groundnut,Groundnut
+Dec,12,Andhra Pradesh,Sowing,rabi,groundnut,Groundnut
+Jan,1,Andhra Pradesh,Sowing,rabi,groundnut,Groundnut
+Feb,2,Andhra Pradesh,Harvesting,rabi,groundnut,Groundnut
+Mar,3,Andhra Pradesh,Harvesting,rabi,groundnut,Groundnut
+Apr,4,Andhra Pradesh,Harvesting,rabi,groundnut,Groundnut
+May,5,Andhra Pradesh,Harvesting,rabi,groundnut,Groundnut
+Jul,7,Assam,Sowing,rabi,groundnut,Groundnut
+Aug,8,Assam,Sowing,rabi,groundnut,Groundnut
+Nov,11,Assam,Harvesting,rabi,groundnut,Groundnut
+Dec,12,Assam,Harvesting,rabi,groundnut,Groundnut
+Nov,11,Karnataka,Sowing,rabi,groundnut,Groundnut
+Dec,12,Karnataka,Sowing,rabi,groundnut,Groundnut
+Jan,1,Karnataka,Sowing,rabi,groundnut,Groundnut
+Feb,2,Karnataka,Harvesting,rabi,groundnut,Groundnut
+Mar,3,Karnataka,Harvesting,rabi,groundnut,Groundnut
+Apr,4,Karnataka,Harvesting,rabi,groundnut,Groundnut
+May,5,Karnataka,Harvesting,rabi,groundnut,Groundnut
+Oct,10,West Bengal,Sowing,rabi,groundnut,Groundnut
+Nov,11,West Bengal,Sowing,rabi,groundnut,Groundnut
+Jan,1,West Bengal,Harvesting,rabi,groundnut,Groundnut
+Feb,2,West Bengal,Harvesting,rabi,groundnut,Groundnut
+Mar,3,West Bengal,Harvesting,rabi,groundnut,Groundnut
+Jan,1,Gujarat,Sowing,summer/spring groundnut,/ groundnut,Groundnut
+Feb,2,Gujarat,Sowing,summer/spring groundnut,/ groundnut,Groundnut
+Apr,4,Gujarat,Harvesting,summer/spring groundnut,/ groundnut,Groundnut
+May,5,Gujarat,Harvesting,summer/spring groundnut,/ groundnut,Groundnut
+Dec,12,Karnataka,Sowing,summer/spring groundnut,/ groundnut,Groundnut
+Jan,1,Karnataka,Sowing,summer/spring groundnut,/ groundnut,Groundnut
+Mar,3,Karnataka,Harvesting,summer/spring groundnut,/ groundnut,Groundnut
+Apr,4,Karnataka,Harvesting,summer/spring groundnut,/ groundnut,Groundnut
+Jan,1,Maharashtra,Sowing,summer/spring groundnut,/ groundnut,Groundnut
+Feb,2,Maharashtra,Sowing,summer/spring groundnut,/ groundnut,Groundnut
+Apr,4,Maharashtra,Harvesting,summer/spring groundnut,/ groundnut,Groundnut
+May,5,Maharashtra,Harvesting,summer/spring groundnut,/ groundnut,Groundnut
+Feb,2,West Bengal,Sowing,summer/spring groundnut,/ groundnut,Groundnut
+Mar,3,West Bengal,Sowing,summer/spring groundnut,/ groundnut,Groundnut
+May,5,West Bengal,Harvesting,summer/spring groundnut,/ groundnut,Groundnut
+Jun,6,West Bengal,Harvesting,summer/spring groundnut,/ groundnut,Groundnut
+Oct,10,Assam,Sowing,rabi,linseed,Linseed
+Nov,11,Assam,Sowing,rabi,linseed,Linseed
+Mar,3,Assam,Harvesting,rabi,linseed,Linseed
+Apr,4,Assam,Harvesting,rabi,linseed,Linseed
+Oct,10,Andhra Pradesh,Sowing,rabi,linseed,Linseed
+Feb,2,Andhra Pradesh,Harvesting,rabi,linseed,Linseed
+Mar,3,Andhra Pradesh,Harvesting,rabi,linseed,Linseed
+Oct,10,Bihar,Sowing,rabi,linseed,Linseed
+Nov,11,Bihar,Sowing,rabi,linseed,Linseed
+Mar,3,Bihar,Harvesting,rabi,linseed,Linseed
+Apr,4,Bihar,Harvesting,rabi,linseed,Linseed
+Oct,10,Madhya Pradesh,Sowing,rabi,linseed,Linseed
+Nov,11,Madhya Pradesh,Sowing,rabi,linseed,Linseed
+Mar,3,Madhya Pradesh,Harvesting,rabi,linseed,Linseed
+Oct,10,Chhattisgarh,Sowing,rabi,linseed,Linseed
+Nov,11,Chhattisgarh,Sowing,rabi,linseed,Linseed
+Mar,3,Chhattisgarh,Harvesting,rabi,linseed,Linseed
+Oct,10,Maharashtra,Sowing,rabi,linseed,Linseed
+Mar,3,Maharashtra,Harvesting,rabi,linseed,Linseed
+Oct,10,Uttar Pradesh,Sowing,rabi,linseed,Linseed
+Nov,11,Uttar Pradesh,Sowing,rabi,linseed,Linseed
+Mar,3,Uttar Pradesh,Harvesting,rabi,linseed,Linseed
+Apr,4,Uttar Pradesh,Harvesting,rabi,linseed,Linseed
+Oct,10,Odisha,Sowing,rabi,linseed,Linseed
+Mar,3,Odisha,Harvesting,rabi,linseed,Linseed
+Oct,10,Jharkhand,Sowing,rabi,linseed,Linseed
+Nov,11,Jharkhand,Sowing,rabi,linseed,Linseed
+Mar,3,Jharkhand,Harvesting,rabi,linseed,Linseed
+Apr,4,Jharkhand,Harvesting,rabi,linseed,Linseed
+Oct,10,Karnataka,Sowing,rabi,linseed,Linseed
+Feb,2,Karnataka,Harvesting,rabi,linseed,Linseed
+Mar,3,Karnataka,Harvesting,rabi,linseed,Linseed
+Oct,10,Nagaland,Sowing,rabi,linseed,Linseed
+Nov,11,Nagaland,Sowing,rabi,linseed,Linseed
+Mar,3,Nagaland,Harvesting,rabi,linseed,Linseed
+Apr,4,Nagaland,Harvesting,rabi,linseed,Linseed
+Oct,10,West Bengal,Sowing,rabi,linseed,Linseed
+Nov,11,West Bengal,Sowing,rabi,linseed,Linseed
+Mar,3,West Bengal,Harvesting,rabi,linseed,Linseed
+Apr,4,West Bengal,Harvesting,rabi,linseed,Linseed
+Oct,10,Rajasthan,Sowing,rabi,linseed,Linseed
+Mar,3,Rajasthan,Harvesting,rabi,linseed,Linseed
+Oct,10,Himachal Pradesh,Sowing,rabi,linseed,Linseed
+Nov,11,Himachal Pradesh,Sowing,rabi,linseed,Linseed
+Apr,4,Himachal Pradesh,Harvesting,rabi,linseed,Linseed
+May,5,Himachal Pradesh,Harvesting,rabi,linseed,Linseed
+Oct,10,Jammu & Kashmir,Sowing,rabi,linseed,Linseed
+Nov,11,Jammu & Kashmir,Sowing,rabi,linseed,Linseed
+Apr,4,Jammu & Kashmir,Harvesting,rabi,linseed,Linseed
+May,5,Jammu & Kashmir,Harvesting,rabi,linseed,Linseed
+Oct,10,Punjab,Sowing,rabi,linseed,Linseed
+Nov,11,Punjab,Sowing,rabi,linseed,Linseed
+Mar,3,Punjab,Harvesting,rabi,linseed,Linseed
+Apr,4,Punjab,Harvesting,rabi,linseed,Linseed
+Jun,6,Andhra Pradesh,Sowing,kharif,sesame,Sesame
+Jul,7,Andhra Pradesh,Sowing,kharif,sesame,Sesame
+Oct,10,Andhra Pradesh,Harvesting,kharif,sesame,Sesame
+Nov,11,Andhra Pradesh,Harvesting,kharif,sesame,Sesame
+Jun,6,Karnataka,Sowing,kharif,sesame,Sesame
+Jul,7,Karnataka,Sowing,kharif,sesame,Sesame
+Oct,10,Karnataka,Harvesting,kharif,sesame,Sesame
+Nov,11,Karnataka,Harvesting,kharif,sesame,Sesame
+Jun,6,Kerala,Sowing,kharif,sesame,Sesame
+Jul,7,Kerala,Sowing,kharif,sesame,Sesame
+Oct,10,Kerala,Harvesting,kharif,sesame,Sesame
+Nov,11,Kerala,Harvesting,kharif,sesame,Sesame
+Jun,6,Madhya Pradesh,Sowing,kharif,sesame,Sesame
+Jul,7,Madhya Pradesh,Sowing,kharif,sesame,Sesame
+Oct,10,Madhya Pradesh,Harvesting,kharif,sesame,Sesame
+Nov,11,Madhya Pradesh,Harvesting,kharif,sesame,Sesame
+Jun,6,Maharashtra,Sowing,kharif,sesame,Sesame
+Jul,7,Maharashtra,Sowing,kharif,sesame,Sesame
+Oct,10,Maharashtra,Harvesting,kharif,sesame,Sesame
+Nov,11,Maharashtra,Harvesting,kharif,sesame,Sesame
+Jun,6,Odisha,Sowing,kharif,sesame,Sesame
+Jul,7,Odisha,Sowing,kharif,sesame,Sesame
+Oct,10,Odisha,Harvesting,kharif,sesame,Sesame
+Nov,11,Odisha,Harvesting,kharif,sesame,Sesame
+Jun,6,Rajasthan,Sowing,kharif,sesame,Sesame
+Jul,7,Rajasthan,Sowing,kharif,sesame,Sesame
+Oct,10,Rajasthan,Harvesting,kharif,sesame,Sesame
+Nov,11,Rajasthan,Harvesting,kharif,sesame,Sesame
+Jun,6,Uttar Pradesh,Sowing,kharif,sesame,Sesame
+Jul,7,Uttar Pradesh,Sowing,kharif,sesame,Sesame
+Oct,10,Uttar Pradesh,Harvesting,kharif,sesame,Sesame
+Nov,11,Uttar Pradesh,Harvesting,kharif,sesame,Sesame
+Jun,6,Gujarat,Sowing,kharif,sesame,Sesame
+Jul,7,Gujarat,Sowing,kharif,sesame,Sesame
+Oct,10,Gujarat,Harvesting,kharif,sesame,Sesame
+Nov,11,Gujarat,Harvesting,kharif,sesame,Sesame
+Jun,6,Tamil Nadu,Sowing,kharif,sesame,Sesame
+Jul,7,Tamil Nadu,Sowing,kharif,sesame,Sesame
+Oct,10,Tamil Nadu,Harvesting,kharif,sesame,Sesame
+Nov,11,Tamil Nadu,Harvesting,kharif,sesame,Sesame
+Jun,6,All-India,Sowing,kharif,sesame,Sesame
+Jul,7,All-India,Sowing,kharif,sesame,Sesame
+Sep,9,All-India,Harvesting,kharif,sesame,Sesame
+Oct,10,All-India,Harvesting,kharif,sesame,Sesame
+Nov,11,All-India,Harvesting,kharif,sesame,Sesame
+Aug,8,Andhra Pradesh,Sowing,early rabi,sesame,Sesame
+Sep,9,Andhra Pradesh,Sowing,early rabi,sesame,Sesame
+Dec,12,Andhra Pradesh,Harvesting,early rabi,sesame,Sesame
+Jan,1,Andhra Pradesh,Harvesting,early rabi,sesame,Sesame
+Aug,8,Madhya Pradesh,Sowing,early rabi,sesame,Sesame
+Sep,9,Madhya Pradesh,Sowing,early rabi,sesame,Sesame
+Dec,12,Madhya Pradesh,Harvesting,early rabi,sesame,Sesame
+Jan,1,Madhya Pradesh,Harvesting,early rabi,sesame,Sesame
+Aug,8,Maharashtra,Sowing,early rabi,sesame,Sesame
+Sep,9,Maharashtra,Sowing,early rabi,sesame,Sesame
+Dec,12,Maharashtra,Harvesting,early rabi,sesame,Sesame
+Jan,1,Maharashtra,Harvesting,early rabi,sesame,Sesame
+Aug,8,Tamil Nadu,Sowing,early rabi,sesame,Sesame
+Sep,9,Tamil Nadu,Sowing,early rabi,sesame,Sesame
+Dec,12,Tamil Nadu,Harvesting,early rabi,sesame,Sesame
+Jan,1,Tamil Nadu,Harvesting,early rabi,sesame,Sesame
+Aug,8,All-India,Sowing,early rabi,sesame,Sesame
+Sep,9,All-India,Sowing,early rabi,sesame,Sesame
+Dec,12,All-India,Harvesting,early rabi,sesame,Sesame
+Jan,1,All-India,Harvesting,early rabi,sesame,Sesame
+Oct,10,Odisha,Sowing,rabi,sesame,Sesame
+Nov,11,Odisha,Sowing,rabi,sesame,Sesame
+Feb,2,Odisha,Harvesting,rabi,sesame,Sesame
+Mar,3,Odisha,Harvesting,rabi,sesame,Sesame
+Oct,10,Tamil Nadu,Sowing,rabi,sesame,Sesame
+Nov,11,Tamil Nadu,Sowing,rabi,sesame,Sesame
+Feb,2,Tamil Nadu,Harvesting,rabi,sesame,Sesame
+Mar,3,Tamil Nadu,Harvesting,rabi,sesame,Sesame
+Oct,10,All-India,Sowing,rabi,sesame,Sesame
+Nov,11,All-India,Sowing,rabi,sesame,Sesame
+Feb,2,All-India,Harvesting,rabi,sesame,Sesame
+Mar,3,All-India,Harvesting,rabi,sesame,Sesame
+Jan,1,Andhra Pradesh,Sowing,summer,sesame,Sesame
+Feb,2,Andhra Pradesh,Sowing,summer,sesame,Sesame
+Apr,4,Andhra Pradesh,Harvesting,summer,sesame,Sesame
+May,5,Andhra Pradesh,Harvesting,summer,sesame,Sesame
+Jan,1,Kerala,Sowing,summer,sesame,Sesame
+Feb,2,Kerala,Sowing,summer,sesame,Sesame
+Apr,4,Kerala,Harvesting,summer,sesame,Sesame
+May,5,Kerala,Harvesting,summer,sesame,Sesame
+Jan,1,Maharashtra,Sowing,summer,sesame,Sesame
+Feb,2,Maharashtra,Sowing,summer,sesame,Sesame
+Apr,4,Maharashtra,Harvesting,summer,sesame,Sesame
+May,5,Maharashtra,Harvesting,summer,sesame,Sesame
+Jan,1,Odisha,Sowing,summer,sesame,Sesame
+Feb,2,Odisha,Sowing,summer,sesame,Sesame
+May,5,Odisha,Harvesting,summer,sesame,Sesame
+Jun,6,Odisha,Harvesting,summer,sesame,Sesame
+Feb,2,Uttar Pradesh,Sowing,summer,sesame,Sesame
+Mar,3,Uttar Pradesh,Sowing,summer,sesame,Sesame
+May,5,Uttar Pradesh,Harvesting,summer,sesame,Sesame
+Jun,6,Uttar Pradesh,Harvesting,summer,sesame,Sesame
+Feb,2,West Bengal,Sowing,summer,sesame,Sesame
+Mar,3,West Bengal,Sowing,summer,sesame,Sesame
+May,5,West Bengal,Harvesting,summer,sesame,Sesame
+Jun,6,West Bengal,Harvesting,summer,sesame,Sesame
+Feb,2,Gujarat,Sowing,summer,sesame,Sesame
+Mar,3,Gujarat,Sowing,summer,sesame,Sesame
+May,5,Gujarat,Harvesting,summer,sesame,Sesame
+Jun,6,Gujarat,Harvesting,summer,sesame,Sesame
+Jan,1,Tamil Nadu,Sowing,summer,sesame,Sesame
+Feb,2,Tamil Nadu,Sowing,summer,sesame,Sesame
+May,5,Tamil Nadu,Harvesting,summer,sesame,Sesame
+Jun,6,Tamil Nadu,Harvesting,summer,sesame,Sesame
+Jan,1,All-India,Sowing,summer,sesame,Sesame
+Feb,2,All-India,Sowing,summer,sesame,Sesame
+Mar,3,All-India,Sowing,summer,sesame,Sesame
+May,5,All-India,Harvesting,summer,sesame,Sesame
+Jun,6,All-India,Harvesting,summer,sesame,Sesame
+Jun,6,Andhra Pradesh,Sowing,kharif,sunflower,Sunflower
+Jul,7,Andhra Pradesh,Sowing,kharif,sunflower,Sunflower
+Aug,8,Andhra Pradesh,Sowing,kharif,sunflower,Sunflower
+Sep,9,Andhra Pradesh,Harvesting,kharif,sunflower,Sunflower
+Oct,10,Andhra Pradesh,Harvesting,kharif,sunflower,Sunflower
+Nov,11,Andhra Pradesh,Harvesting,kharif,sunflower,Sunflower
+Jun,6,Karnataka,Sowing,kharif,sunflower,Sunflower
+Jul,7,Karnataka,Sowing,kharif,sunflower,Sunflower
+Aug,8,Karnataka,Sowing,kharif,sunflower,Sunflower
+Sep,9,Karnataka,Harvesting,kharif,sunflower,Sunflower
+Oct,10,Karnataka,Harvesting,kharif,sunflower,Sunflower
+Nov,11,Karnataka,Harvesting,kharif,sunflower,Sunflower
+Jul,7,Maharashtra,Sowing,kharif,sunflower,Sunflower
+Aug,8,Maharashtra,Sowing,kharif,sunflower,Sunflower
+Oct,10,Maharashtra,Harvesting,kharif,sunflower,Sunflower
+Nov,11,Maharashtra,Harvesting,kharif,sunflower,Sunflower
+Jun,6,Tamil Nadu,Sowing,kharif,sunflower,Sunflower
+Jul,7,Tamil Nadu,Sowing,kharif,sunflower,Sunflower
+Aug,8,Tamil Nadu,Sowing,kharif,sunflower,Sunflower
+Sep,9,Tamil Nadu,Harvesting,kharif,sunflower,Sunflower
+Oct,10,Tamil Nadu,Harvesting,kharif,sunflower,Sunflower
+Nov,11,Tamil Nadu,Harvesting,kharif,sunflower,Sunflower
+Jun,6,All India,Sowing,kharif,sunflower,Sunflower
+Jul,7,All India,Sowing,kharif,sunflower,Sunflower
+Aug,8,All India,Sowing,kharif,sunflower,Sunflower
+Sep,9,All India,Harvesting,kharif,sunflower,Sunflower
+Oct,10,All India,Harvesting,kharif,sunflower,Sunflower
+Nov,11,All India,Harvesting,kharif,sunflower,Sunflower
+Oct,10,Andhra Pradesh,Sowing,rabi,sunflower,Sunflower
+Jan,1,Andhra Pradesh,Harvesting,rabi,sunflower,Sunflower
+Oct,10,Karnataka,Sowing,rabi,sunflower,Sunflower
+Jan,1,Karnataka,Harvesting,rabi,sunflower,Sunflower
+Oct,10,Maharashtra,Sowing,rabi,sunflower,Sunflower
+Jan,1,Maharashtra,Harvesting,rabi,sunflower,Sunflower
+Oct,10,Tamil Nadu,Sowing,rabi,sunflower,Sunflower
+Jan,1,Tamil Nadu,Harvesting,rabi,sunflower,Sunflower
+Oct,10,All India,Sowing,rabi,sunflower,Sunflower
+Jan,1,All India,Harvesting,rabi,sunflower,Sunflower
+Dec,12,Karnataka,Sowing,summer/spring sunflower,/ sunflower,Sunflower
+Jan,1,Karnataka,Sowing,summer/spring sunflower,/ sunflower,Sunflower
+Mar,3,Karnataka,Harvesting,summer/spring sunflower,/ sunflower,Sunflower
+Apr,4,Karnataka,Harvesting,summer/spring sunflower,/ sunflower,Sunflower
+Feb,2,Punjab,Sowing,summer/spring sunflower,/ sunflower,Sunflower
+Apr,4,Punjab,Harvesting,summer/spring sunflower,/ sunflower,Sunflower
+May,5,Punjab,Harvesting,summer/spring sunflower,/ sunflower,Sunflower
+Feb,2,West Bengal,Sowing,summer/spring sunflower,/ sunflower,Sunflower
+Apr,4,West Bengal,Harvesting,summer/spring sunflower,/ sunflower,Sunflower
+May,5,West Bengal,Harvesting,summer/spring sunflower,/ sunflower,Sunflower
+Feb,2,All India,Sowing,summer/spring sunflower,/ sunflower,Sunflower
+Apr,4,All India,Harvesting,summer/spring sunflower,/ sunflower,Sunflower
+May,5,All India,Harvesting,summer/spring sunflower,/ sunflower,Sunflower
+Jun,6,Andhra Pradesh,Sowing,kharif,castor,Castor
+Jul,7,Andhra Pradesh,Sowing,kharif,castor,Castor
+Oct,10,Andhra Pradesh,Harvesting,kharif,castor,Castor
+Nov,11,Andhra Pradesh,Harvesting,kharif,castor,Castor
+Dec,12,Andhra Pradesh,Harvesting,kharif,castor,Castor
+Jul,7,Gujarat,Sowing,kharif,castor,Castor
+Aug,8,Gujarat,Sowing,kharif,castor,Castor
+Jan,1,Gujarat,Harvesting,kharif,castor,Castor
+Feb,2,Gujarat,Harvesting,kharif,castor,Castor
+Jul,7,Karnataka,Sowing,kharif,castor,Castor
+Aug,8,Karnataka,Sowing,kharif,castor,Castor
+Nov,11,Karnataka,Harvesting,kharif,castor,Castor
+Dec,12,Karnataka,Harvesting,kharif,castor,Castor
+Jul,7,Rajasthan,Sowing,kharif,castor,Castor
+Aug,8,Rajasthan,Sowing,kharif,castor,Castor
+Jan,1,Rajasthan,Harvesting,kharif,castor,Castor
+Feb,2,Rajasthan,Harvesting,kharif,castor,Castor
+Jul,7,All India,Sowing,kharif,castor,Castor
+Aug,8,All India,Sowing,kharif,castor,Castor
+Jan,1,All India,Harvesting,kharif,castor,Castor
+Feb,2,All India,Harvesting,kharif,castor,Castor
+Oct,10,Andhra Pradesh,Sowing,rabi,safflower,Safflower
+Feb,2,Andhra Pradesh,Harvesting,rabi,safflower,Safflower
+Oct,10,Karnataka,Sowing,rabi,safflower,Safflower
+Feb,2,Karnataka,Harvesting,rabi,safflower,Safflower
+Sep,9,Maharashtra,Sowing,rabi,safflower,Safflower
+Oct,10,Maharashtra,Sowing,rabi,safflower,Safflower
+Feb,2,Maharashtra,Harvesting,rabi,safflower,Safflower
+Mar,3,Maharashtra,Harvesting,rabi,safflower,Safflower
+Oct,10,All India,Sowing,rabi,safflower,Safflower
+Feb,2,All India,Harvesting,rabi,safflower,Safflower
+Nov,11,Andhra Pradesh,Sowing,,Mustard/Banarasi Rai,Mustard
+Dec,12,Andhra Pradesh,Sowing,,Mustard/Banarasi Rai,Mustard
+Nov,11,Assam,Sowing,,Toria,Mustard
+Dec,12,Assam,Sowing,,Toria,Mustard
+Oct,10,Bihar,Sowing,,Mustard,Mustard
+Nov,11,Bihar,Sowing,,Mustard,Mustard
+Sep,9,Bihar,Sowing,,Toria,Mustard
+Oct,10,Bihar,Sowing,,Toria,Mustard
+Oct,10,Bihar,Sowing,,Yellow Sarson,Mustard
+Oct,10,Chhattisgarh,Sowing,,Mustard,Mustard
+Nov,11,Chhattisgarh,Sowing,,Mustard,Mustard
+Sep,9,Chhattisgarh,Sowing,,Toria,Mustard
+Oct,10,Delhi,Sowing,,Mustard,Mustard
+Nov,11,Delhi,Sowing,,Mustard,Mustard
+Sep,9,Delhi,Sowing,,Toria,Mustard
+Nov,11,Delhi,Sowing,,Taramira,Mustard
+Oct,10,Gujarat,Sowing,,Mustard,Mustard
+Oct,10,Gujarat,Sowing,,Yellow Sarson,Mustard
+Oct,10,Haryana,Sowing,,Mustard,Mustard
+Sep,9,Haryana,Sowing,,Toria,Mustard
+Nov,11,Haryana,Sowing,,Taramira,Mustard
+Oct,10,Himachal Pradesh,Sowing,,Mustard,Mustard
+Nov,11,Himachal Pradesh,Sowing,,Mustard,Mustard
+Oct,10,Himachal Pradesh,Sowing,,Brown Sarson,Mustard
+Oct,10,Himachal Pradesh,Sowing,,Gobhi Sarson,Mustard
+Nov,11,Himachal Pradesh,Sowing,,Gobhi Sarson,Mustard
+Oct,10,Jammu & Kashmir,Sowing,,Mustard,Mustard
+Nov,11,Jammu & Kashmir,Sowing,,Mustard,Mustard
+Oct,10,Jammu & Kashmir,Sowing,,Brown sarson,Mustard
+Oct,10,Jharkhand,Sowing,,Mustard,Mustard
+Oct,10,Jharkhand,Sowing,,Toria,Mustard
+Oct,10,Jharkhand,Sowing,,Yellow Sarson,Mustard
+Oct,10,Karnataka,Sowing,,Mustard,Mustard
+Oct,10,Madhya Pradesh,Sowing,,Mustard,Mustard
+Sep,9,Madhya Pradesh,Sowing,,Toria,Mustard
+Nov,11,Manipur,Sowing,,Mustard,Mustard
+Oct,10,Manipur,Sowing,,Toria,Mustard
+Oct,10,Maharashtra,Sowing,,Mustard,Mustard
+Nov,11,Maharashtra,Sowing,,Mustard,Mustard
+Oct,10,Odisha,Sowing,,Mustard,Mustard
+Nov,11,Odisha,Sowing,,Mustard,Mustard
+Oct,10,Odisha,Sowing,,Toria,Mustard
+Oct,10,Odisha,Sowing,,Yellow Sarson,Mustard
+Oct,10,Punjab,Sowing,,Mustard,Mustard
+Nov,11,Punjab,Sowing,,Mustard,Mustard
+Sep,9,Punjab,Sowing,,Toria,Mustard
+Nov,11,Punjab,Sowing,,Taramira,Mustard
+Oct,10,Punjab,Sowing,,Gobhi Sarson,Mustard
+Nov,11,Punjab,Sowing,,Gobhi Sarson,Mustard
+Oct,10,Punjab,Sowing,,Karan Rai,Mustard
+Nov,11,Punjab,Sowing,,Karan Rai,Mustard
+Sep,9,Rajasthan,Sowing,,Mustard,Mustard
+Oct,10,Rajasthan,Sowing,,Mustard,Mustard
+Oct,10,Rajasthan,Sowing,,Taramira,Mustard
+Nov,11,Rajasthan,Sowing,,Taramira,Mustard
+Oct,10,Uttarakhand,Sowing,,Mustard/Karan Rai,Mustard
+Nov,11,Uttarakhand,Sowing,,Mustard/Karan Rai,Mustard
+Sep,9,Uttarakhand,Sowing,,Toria,Mustard
+Oct,10,Uttarakhand,Sowing,,Yellow Sarson,Mustard
+Oct,10,Uttar Pradesh,Sowing,,Mustard,Mustard
+Sep,9,Uttar Pradesh,Sowing,,Toria,Mustard
+Oct,10,Uttar Pradesh,Sowing,,Yellow Sarson,Mustard
+Oct,10,West Bengal,Sowing,,Mustard,Mustard
+Oct,10,West Bengal,Sowing,,Toria,Mustard
+Nov,11,West Bengal,Sowing,,Toria,Mustard
+Oct,10,West Bengal,Sowing,,Yellow Sarson,Mustard
+Nov,11,West Bengal,Sowing,,Yellow Sarson,Mustard
+Feb,2,Andhra Pradesh,Harvesting,,Mustard/Banarasi Rai,Mustard
+Mar,3,Andhra Pradesh,Harvesting,,Mustard/Banarasi Rai,Mustard
+Feb,2,Assam,Harvesting,,Toria,Mustard
+Mar,3,Assam,Harvesting,,Toria,Mustard
+Feb,2,Bihar,Harvesting,,Mustard,Mustard
+Mar,3,Bihar,Harvesting,,Mustard,Mustard
+Jan,1,Bihar,Harvesting,,Toria,Mustard
+Feb,2,Bihar,Harvesting,,Toria,Mustard
+Feb,2,Bihar,Harvesting,,Yellow Sarson,Mustard
+Mar,3,Bihar,Harvesting,,Yellow Sarson,Mustard
+Mar,3,Chhattisgarh,Harvesting,,Mustard,Mustard
+Dec,12,Chhattisgarh,Harvesting,,Toria,Mustard
+Jan,1,Chhattisgarh,Harvesting,,Toria,Mustard
+Feb,2,Delhi,Harvesting,,Mustard,Mustard
+Mar,3,Delhi,Harvesting,,Mustard,Mustard
+Jan,1,Delhi,Harvesting,,Toria,Mustard
+Mar,3,Delhi,Harvesting,,Taramira,Mustard
+Feb,2,Gujarat,Harvesting,,Mustard,Mustard
+Mar,3,Gujarat,Harvesting,,Mustard,Mustard
+Feb,2,Gujarat,Harvesting,,Yellow Sarson,Mustard
+Feb,2,Haryana,Harvesting,,Mustard,Mustard
+Mar,3,Haryana,Harvesting,,Mustard,Mustard
+Dec,12,Haryana,Harvesting,,Toria,Mustard
+Jan,1,Haryana,Harvesting,,Toria,Mustard
+Mar,3,Haryana,Harvesting,,Taramira,Mustard
+Mar,3,Himachal Pradesh,Harvesting,,Mustard,Mustard
+Apr,4,Himachal Pradesh,Harvesting,,Mustard,Mustard
+Apr,4,Himachal Pradesh,Harvesting,,Brown Sarson,Mustard
+Apr,4,Himachal Pradesh,Harvesting,,Gobhi Sarson,Mustard
+Mar,3,Jammu & Kashmir,Harvesting,,Mustard,Mustard
+Apr,4,Jammu & Kashmir,Harvesting,,Mustard,Mustard
+Apr,4,Jammu & Kashmir,Harvesting,,Brown sarson,Mustard
+May,5,Jammu & Kashmir,Harvesting,,Brown sarson,Mustard
+Mar,3,Jharkhand,Harvesting,,Mustard,Mustard
+Feb,2,Jharkhand,Harvesting,,Toria,Mustard
+Mar,3,Jharkhand,Harvesting,,Toria,Mustard
+Feb,2,Jharkhand,Harvesting,,Yellow Sarson,Mustard
+Mar,3,Jharkhand,Harvesting,,Yellow Sarson,Mustard
+Feb,2,Karnataka,Harvesting,,Mustard,Mustard
+Feb,2,Madhya Pradesh,Harvesting,,Mustard,Mustard
+Mar,3,Madhya Pradesh,Harvesting,,Mustard,Mustard
+Dec,12,Madhya Pradesh,Harvesting,,Toria,Mustard
+Jan,1,Madhya Pradesh,Harvesting,,Toria,Mustard
+Mar,3,Manipur,Harvesting,,Mustard,Mustard
+Feb,2,Manipur,Harvesting,,Toria,Mustard
+Mar,3,Manipur,Harvesting,,Toria,Mustard
+Feb,2,Maharashtra,Harvesting,,Mustard,Mustard
+Mar,3,Maharashtra,Harvesting,,Mustard,Mustard
+Feb,2,Odisha,Harvesting,,Mustard,Mustard
+Mar,3,Odisha,Harvesting,,Mustard,Mustard
+Feb,2,Odisha,Harvesting,,Toria,Mustard
+Feb,2,Odisha,Harvesting,,Yellow Sarson,Mustard
+Mar,3,Odisha,Harvesting,,Yellow Sarson,Mustard
+Mar,3,Punjab,Harvesting,,Mustard,Mustard
+Apr,4,Punjab,Harvesting,,Mustard,Mustard
+Dec,12,Punjab,Harvesting,,Toria,Mustard
+Jan,1,Punjab,Harvesting,,Toria,Mustard
+Mar,3,Punjab,Harvesting,,Taramira,Mustard
+Mar,3,Punjab,Harvesting,,Gobhi Sarson,Mustard
+Apr,4,Punjab,Harvesting,,Gobhi Sarson,Mustard
+Mar,3,Punjab,Harvesting,,Karan Rai,Mustard
+Apr,4,Punjab,Harvesting,,Karan Rai,Mustard
+Feb,2,Rajasthan,Harvesting,,Mustard,Mustard
+Mar,3,Rajasthan,Harvesting,,Mustard,Mustard
+Mar,3,Rajasthan,Harvesting,,Taramira,Mustard
+Mar,3,Uttarakhand,Harvesting,,Mustard/Karan Rai,Mustard
+Dec,12,Uttarakhand,Harvesting,,Toria,Mustard
+Jan,1,Uttarakhand,Harvesting,,Toria,Mustard
+Mar,3,Uttarakhand,Harvesting,,Yellow Sarson,Mustard
+Feb,2,Uttar Pradesh,Harvesting,,Mustard,Mustard
+Mar,3,Uttar Pradesh,Harvesting,,Mustard,Mustard
+Dec,12,Uttar Pradesh,Harvesting,,Toria,Mustard
+Jan,1,Uttar Pradesh,Harvesting,,Toria,Mustard
+Feb,2,Uttar Pradesh,Harvesting,,Yellow Sarson,Mustard
+Mar,3,Uttar Pradesh,Harvesting,,Yellow Sarson,Mustard
+Feb,2,West Bengal,Harvesting,,Mustard,Mustard
+Mar,3,West Bengal,Harvesting,,Mustard,Mustard
+Feb,2,West Bengal,Harvesting,,Toria,Mustard
+Feb,2,West Bengal,Harvesting,,Yellow Sarson,Mustard
+Mar,3,West Bengal,Harvesting,,Yellow Sarson,Mustard
+Jun,6,Andhra Pradesh,Sowing,kharif,cotton,Cotton
+Jul,7,Andhra Pradesh,Sowing,kharif,cotton,Cotton
+Dec,12,Andhra Pradesh,Harvesting,kharif,cotton,Cotton
+Jan,1,Andhra Pradesh,Harvesting,kharif,cotton,Cotton
+Feb,2,Andhra Pradesh,Harvesting,kharif,cotton,Cotton
+Mar,3,Andhra Pradesh,Harvesting,kharif,cotton,Cotton
+Jul,7,Bihar,Sowing,kharif,cotton,Cotton
+Oct,10,Bihar,Harvesting,kharif,cotton,Cotton
+Nov,11,Bihar,Harvesting,kharif,cotton,Cotton
+May,5,Gujarat,Sowing,kharif,cotton,Cotton
+Oct,10,Gujarat,Harvesting,kharif,cotton,Cotton
+Nov,11,Gujarat,Harvesting,kharif,cotton,Cotton
+Dec,12,Gujarat,Harvesting,kharif,cotton,Cotton
+Jan,1,Gujarat,Harvesting,kharif,cotton,Cotton
+Feb,2,Gujarat,Harvesting,kharif,cotton,Cotton
+Mar,3,Gujarat,Harvesting,kharif,cotton,Cotton
+Apr,4,Gujarat,Harvesting,kharif,cotton,Cotton
+Apr,4,Haryana,Sowing,kharif,cotton,Cotton
+Oct,10,Haryana,Harvesting,kharif,cotton,Cotton
+Nov,11,Haryana,Harvesting,kharif,cotton,Cotton
+Jun,6,Kerala,Sowing,kharif,cotton,Cotton
+Jul,7,Kerala,Sowing,kharif,cotton,Cotton
+Aug,8,Kerala,Sowing,kharif,cotton,Cotton
+Sep,9,Kerala,Sowing,kharif,cotton,Cotton
+Oct,10,Kerala,Sowing,kharif,cotton,Cotton
+Dec,12,Kerala,Harvesting,kharif,cotton,Cotton
+Jan,1,Kerala,Harvesting,kharif,cotton,Cotton
+Feb,2,Kerala,Harvesting,kharif,cotton,Cotton
+Mar,3,Kerala,Harvesting,kharif,cotton,Cotton
+Jun,6,Madhya Pradesh,Sowing,kharif,cotton,Cotton
+Jul,7,Madhya Pradesh,Sowing,kharif,cotton,Cotton
+Nov,11,Madhya Pradesh,Harvesting,kharif,cotton,Cotton
+Dec,12,Madhya Pradesh,Harvesting,kharif,cotton,Cotton
+Jun,6,Maharashtra,Sowing,kharif,cotton,Cotton
+Jul,7,Maharashtra,Sowing,kharif,cotton,Cotton
+Nov,11,Maharashtra,Harvesting,kharif,cotton,Cotton
+Dec,12,Maharashtra,Harvesting,kharif,cotton,Cotton
+Jun,6,Odisha,Sowing,kharif,cotton,Cotton
+Jul,7,Odisha,Sowing,kharif,cotton,Cotton
+Nov,11,Odisha,Harvesting,kharif,cotton,Cotton
+Dec,12,Odisha,Harvesting,kharif,cotton,Cotton
+Apr,4,Punjab,Sowing,kharif,cotton,Cotton
+May,5,Punjab,Sowing,kharif,cotton,Cotton
+Jun,6,Punjab,Sowing,kharif,cotton,Cotton
+Jul,7,Punjab,Sowing,kharif,cotton,Cotton
+Aug,8,Punjab,Sowing,kharif,cotton,Cotton
+Sep,9,Punjab,Sowing,kharif,cotton,Cotton
+Oct,10,Punjab,Sowing,kharif,cotton,Cotton
+Nov,11,Punjab,Sowing,kharif,cotton,Cotton
+Dec,12,Punjab,Sowing,kharif,cotton,Cotton
+Jan,1,Punjab,Sowing,kharif,cotton,Cotton
+Feb,2,Punjab,Sowing,kharif,cotton,Cotton
+Mar,3,Punjab,Sowing,kharif,cotton,Cotton
+Sep,9,Punjab,Harvesting,kharif,cotton,Cotton
+Oct,10,Punjab,Harvesting,kharif,cotton,Cotton
+Apr,4,Rajasthan,Sowing,kharif,cotton,Cotton
+May,5,Rajasthan,Sowing,kharif,cotton,Cotton
+Nov,11,Rajasthan,Harvesting,kharif,cotton,Cotton
+Dec,12,Rajasthan,Harvesting,kharif,cotton,Cotton
+Apr,4,Uttar Pradesh,Sowing,kharif,cotton,Cotton
+May,5,Uttar Pradesh,Sowing,kharif,cotton,Cotton
+Jun,6,Uttar Pradesh,Sowing,kharif,cotton,Cotton
+Sep,9,Uttar Pradesh,Harvesting,kharif,cotton,Cotton
+Oct,10,Uttar Pradesh,Harvesting,kharif,cotton,Cotton
+Nov,11,Uttar Pradesh,Harvesting,kharif,cotton,Cotton
+Oct,10,West Bengal,Sowing,kharif,cotton,Cotton
+Nov,11,West Bengal,Sowing,kharif,cotton,Cotton
+Sep,9,West Bengal,Harvesting,kharif,cotton,Cotton
+Apr,4,All-India,Sowing,kharif,cotton,Cotton
+May,5,All-India,Sowing,kharif,cotton,Cotton
+Jun,6,All-India,Sowing,kharif,cotton,Cotton
+Jul,7,All-India,Sowing,kharif,cotton,Cotton
+Sep,9,All-India,Harvesting,kharif,cotton,Cotton
+Oct,10,All-India,Harvesting,kharif,cotton,Cotton
+Nov,11,All-India,Harvesting,kharif,cotton,Cotton
+Dec,12,All-India,Harvesting,kharif,cotton,Cotton
+Jun,6,Andhra Pradesh,Sowing,kharif,maize,Maize
+Jul,7,Andhra Pradesh,Sowing,kharif,maize,Maize
+Sep,9,Andhra Pradesh,Harvesting,kharif,maize,Maize
+Oct,10,Andhra Pradesh,Harvesting,kharif,maize,Maize
+Jun,6,Bihar,Sowing,kharif,maize,Maize
+Jul,7,Bihar,Sowing,kharif,maize,Maize
+Oct,10,Bihar,Harvesting,kharif,maize,Maize
+Nov,11,Bihar,Harvesting,kharif,maize,Maize
+Jun,6,Gujarat,Sowing,kharif,maize,Maize
+Jul,7,Gujarat,Sowing,kharif,maize,Maize
+Sep,9,Gujarat,Harvesting,kharif,maize,Maize
+Oct,10,Gujarat,Harvesting,kharif,maize,Maize
+Nov,11,Gujarat,Harvesting,kharif,maize,Maize
+Jul,7,Haryana,Sowing,kharif,maize,Maize
+Aug,8,Haryana,Sowing,kharif,maize,Maize
+Oct,10,Haryana,Harvesting,kharif,maize,Maize
+May,5,Himachal Pradesh,Sowing,kharif,maize,Maize
+Jun,6,Himachal Pradesh,Sowing,kharif,maize,Maize
+Sep,9,Himachal Pradesh,Harvesting,kharif,maize,Maize
+Oct,10,Himachal Pradesh,Harvesting,kharif,maize,Maize
+May,5,Karnataka,Sowing,kharif,maize,Maize
+Jun,6,Karnataka,Sowing,kharif,maize,Maize
+Sep,9,Karnataka,Harvesting,kharif,maize,Maize
+Oct,10,Karnataka,Harvesting,kharif,maize,Maize
+Jun,6,Madhya Pradesh,Sowing,kharif,maize,Maize
+Jul,7,Madhya Pradesh,Sowing,kharif,maize,Maize
+Aug,8,Madhya Pradesh,Harvesting,kharif,maize,Maize
+Sep,9,Madhya Pradesh,Harvesting,kharif,maize,Maize
+Oct,10,Madhya Pradesh,Harvesting,kharif,maize,Maize
+Nov,11,Madhya Pradesh,Harvesting,kharif,maize,Maize
+Dec,12,Madhya Pradesh,Harvesting,kharif,maize,Maize
+Jul,7,Maharashtra,Sowing,kharif,maize,Maize
+Aug,8,Maharashtra,Sowing,kharif,maize,Maize
+Oct,10,Maharashtra,Harvesting,kharif,maize,Maize
+Nov,11,Maharashtra,Harvesting,kharif,maize,Maize
+Jun,6,Odisha,Sowing,kharif,maize,Maize
+Jul,7,Odisha,Sowing,kharif,maize,Maize
+Sep,9,Odisha,Harvesting,kharif,maize,Maize
+Oct,10,Odisha,Harvesting,kharif,maize,Maize
+May,5,Punjab,Sowing,kharif,maize,Maize
+Jun,6,Punjab,Sowing,kharif,maize,Maize
+Sep,9,Punjab,Harvesting,kharif,maize,Maize
+Oct,10,Punjab,Harvesting,kharif,maize,Maize
+Jun,6,Rajasthan,Sowing,kharif,maize,Maize
+Jul,7,Rajasthan,Sowing,kharif,maize,Maize
+Oct,10,Rajasthan,Harvesting,kharif,maize,Maize
+Nov,11,Rajasthan,Harvesting,kharif,maize,Maize
+Jun,6,Uttar Pradesh,Sowing,kharif,maize,Maize
+Jul,7,Uttar Pradesh,Sowing,kharif,maize,Maize
+Sep,9,Uttar Pradesh,Harvesting,kharif,maize,Maize
+Mar,3,West Bengal,Sowing,kharif,maize,Maize
+Apr,4,West Bengal,Sowing,kharif,maize,Maize
+May,5,West Bengal,Sowing,kharif,maize,Maize
+Jun,6,West Bengal,Harvesting,kharif,maize,Maize
+Jul,7,West Bengal,Harvesting,kharif,maize,Maize
+Aug,8,West Bengal,Harvesting,kharif,maize,Maize
+Mar,3,All-India,Sowing,kharif,maize,Maize
+Apr,4,All-India,Sowing,kharif,maize,Maize
+May,5,All-India,Sowing,kharif,maize,Maize
+Jun,6,All-India,Sowing,kharif,maize,Maize
+Jul,7,All-India,Sowing,kharif,maize,Maize
+Sep,9,All-India,Harvesting,kharif,maize,Maize
+Oct,10,All-India,Harvesting,kharif,maize,Maize
+Nov,11,All-India,Harvesting,kharif,maize,Maize
+Dec,12,All-India,Harvesting,kharif,maize,Maize
+Oct,10,Andhra Pradesh,Sowing,rabi,maize,Maize
+Nov,11,Andhra Pradesh,Sowing,rabi,maize,Maize
+Dec,12,Andhra Pradesh,Sowing,rabi,maize,Maize
+Jan,1,Andhra Pradesh,Sowing,rabi,maize,Maize
+Feb,2,Andhra Pradesh,Harvesting,rabi,maize,Maize
+Mar,3,Andhra Pradesh,Harvesting,rabi,maize,Maize
+Apr,4,Andhra Pradesh,Harvesting,rabi,maize,Maize
+May,5,Andhra Pradesh,Harvesting,rabi,maize,Maize
+Nov,11,Bihar,Sowing,rabi,maize,Maize
+Dec,12,Bihar,Sowing,rabi,maize,Maize
+Feb,2,Bihar,Harvesting,rabi,maize,Maize
+Mar,3,Bihar,Harvesting,rabi,maize,Maize
+Sep,9,Karnataka,Sowing,rabi,maize,Maize
+Oct,10,Karnataka,Sowing,rabi,maize,Maize
+Jan,1,Karnataka,Harvesting,rabi,maize,Maize
+Feb,2,Karnataka,Harvesting,rabi,maize,Maize
+Mar,3,Karnataka,Harvesting,rabi,maize,Maize
+Nov,11,West Bengal,Sowing,rabi,maize,Maize
+Mar,3,West Bengal,Harvesting,rabi,maize,Maize
+Sep,9,All-India,Sowing,rabi,maize,Maize
+Oct,10,All-India,Sowing,rabi,maize,Maize
+Nov,11,All-India,Sowing,rabi,maize,Maize
+Dec,12,All-India,Sowing,rabi,maize,Maize
+Jan,1,All-India,Sowing,rabi,maize,Maize
+Jan,1,All-India,Harvesting,rabi,maize,Maize
+Feb,2,All-India,Harvesting,rabi,maize,Maize
+Mar,3,All-India,Harvesting,rabi,maize,Maize
+Apr,4,All-India,Harvesting,rabi,maize,Maize
+May,5,All-India,Harvesting,rabi,maize,Maize
+Dec,12,Andhra Pradesh,Sowing,kharif,sugarcane,Sugarcane
+Jan,1,Andhra Pradesh,Sowing,kharif,sugarcane,Sugarcane
+Feb,2,Andhra Pradesh,Sowing,kharif,sugarcane,Sugarcane
+Mar,3,Andhra Pradesh,Sowing,kharif,sugarcane,Sugarcane
+Apr,4,Andhra Pradesh,Sowing,kharif,sugarcane,Sugarcane
+May,5,Andhra Pradesh,Sowing,kharif,sugarcane,Sugarcane
+Jun,6,Andhra Pradesh,Sowing,kharif,sugarcane,Sugarcane
+Dec,12,Andhra Pradesh,Harvesting,kharif,sugarcane,Sugarcane
+Jan,1,Andhra Pradesh,Harvesting,kharif,sugarcane,Sugarcane
+Feb,2,Andhra Pradesh,Harvesting,kharif,sugarcane,Sugarcane
+Mar,3,Andhra Pradesh,Harvesting,kharif,sugarcane,Sugarcane
+Apr,4,Andhra Pradesh,Harvesting,kharif,sugarcane,Sugarcane
+May,5,Andhra Pradesh,Harvesting,kharif,sugarcane,Sugarcane
+Mar,3,Assam,Sowing,kharif,sugarcane,Sugarcane
+Apr,4,Assam,Sowing,kharif,sugarcane,Sugarcane
+Dec,12,Assam,Harvesting,kharif,sugarcane,Sugarcane
+Jan,1,Assam,Harvesting,kharif,sugarcane,Sugarcane
+Feb,2,Haryana,Sowing,kharif,sugarcane,Sugarcane
+Mar,3,Haryana,Sowing,kharif,sugarcane,Sugarcane
+Dec,12,Haryana,Harvesting,kharif,sugarcane,Sugarcane
+Jan,1,Haryana,Harvesting,kharif,sugarcane,Sugarcane
+Feb,2,Haryana,Harvesting,kharif,sugarcane,Sugarcane
+Mar,3,Haryana,Harvesting,kharif,sugarcane,Sugarcane
+Dec,12,Karnataka,Sowing,kharif,sugarcane,Sugarcane
+Jan,1,Karnataka,Sowing,kharif,sugarcane,Sugarcane
+Feb,2,Karnataka,Sowing,kharif,sugarcane,Sugarcane
+Mar,3,Karnataka,Sowing,kharif,sugarcane,Sugarcane
+Aug,8,Karnataka,Harvesting,kharif,sugarcane,Sugarcane
+Sep,9,Karnataka,Harvesting,kharif,sugarcane,Sugarcane
+Oct,10,Karnataka,Harvesting,kharif,sugarcane,Sugarcane
+Nov,11,Karnataka,Harvesting,kharif,sugarcane,Sugarcane
+Dec,12,Karnataka,Harvesting,kharif,sugarcane,Sugarcane
+Jan,1,Karnataka,Harvesting,kharif,sugarcane,Sugarcane
+Feb,2,Karnataka,Harvesting,kharif,sugarcane,Sugarcane
+Mar,3,Karnataka,Harvesting,kharif,sugarcane,Sugarcane
+Apr,4,Karnataka,Harvesting,kharif,sugarcane,Sugarcane
+May,5,Karnataka,Harvesting,kharif,sugarcane,Sugarcane
+Oct,10,Madhya Pradesh,Sowing,kharif,sugarcane,Sugarcane
+Nov,11,Madhya Pradesh,Sowing,kharif,sugarcane,Sugarcane
+Dec,12,Madhya Pradesh,Sowing,kharif,sugarcane,Sugarcane
+Jan,1,Madhya Pradesh,Sowing,kharif,sugarcane,Sugarcane
+Feb,2,Madhya Pradesh,Sowing,kharif,sugarcane,Sugarcane
+Mar,3,Madhya Pradesh,Sowing,kharif,sugarcane,Sugarcane
+Apr,4,Madhya Pradesh,Sowing,kharif,sugarcane,Sugarcane
+Oct,10,Madhya Pradesh,Harvesting,kharif,sugarcane,Sugarcane
+Nov,11,Madhya Pradesh,Harvesting,kharif,sugarcane,Sugarcane
+Dec,12,Madhya Pradesh,Harvesting,kharif,sugarcane,Sugarcane
+Jan,1,Madhya Pradesh,Harvesting,kharif,sugarcane,Sugarcane
+Feb,2,Madhya Pradesh,Harvesting,kharif,sugarcane,Sugarcane
+Mar,3,Madhya Pradesh,Harvesting,kharif,sugarcane,Sugarcane
+Jul,7,Maharashtra,Sowing,kharif,sugarcane,Sugarcane
+Aug,8,Maharashtra,Sowing,kharif,sugarcane,Sugarcane
+Oct,10,Maharashtra,Harvesting,kharif,sugarcane,Sugarcane
+Nov,11,Maharashtra,Harvesting,kharif,sugarcane,Sugarcane
+Feb,2,Odisha,Sowing,kharif,sugarcane,Sugarcane
+Mar,3,Odisha,Sowing,kharif,sugarcane,Sugarcane
+Apr,4,Odisha,Sowing,kharif,sugarcane,Sugarcane
+May,5,Odisha,Sowing,kharif,sugarcane,Sugarcane
+Nov,11,Odisha,Harvesting,kharif,sugarcane,Sugarcane
+Dec,12,Odisha,Harvesting,kharif,sugarcane,Sugarcane
+Jan,1,Odisha,Harvesting,kharif,sugarcane,Sugarcane
+Feb,2,Odisha,Harvesting,kharif,sugarcane,Sugarcane
+Feb,2,Punjab,Sowing,kharif,sugarcane,Sugarcane
+Mar,3,Punjab,Sowing,kharif,sugarcane,Sugarcane
+Nov,11,Punjab,Harvesting,kharif,sugarcane,Sugarcane
+Dec,12,Punjab,Harvesting,kharif,sugarcane,Sugarcane
+Jan,1,Punjab,Harvesting,kharif,sugarcane,Sugarcane
+Feb,2,Punjab,Harvesting,kharif,sugarcane,Sugarcane
+Mar,3,Rajasthan,Sowing,kharif,sugarcane,Sugarcane
+Apr,4,Rajasthan,Sowing,kharif,sugarcane,Sugarcane
+Dec,12,Rajasthan,Harvesting,kharif,sugarcane,Sugarcane
+Jan,1,Rajasthan,Harvesting,kharif,sugarcane,Sugarcane
+Feb,2,Rajasthan,Harvesting,kharif,sugarcane,Sugarcane
+Mar,3,Rajasthan,Harvesting,kharif,sugarcane,Sugarcane
+Dec,12,Tamil Nadu,Sowing,kharif,sugarcane,Sugarcane
+Jan,1,Tamil Nadu,Sowing,kharif,sugarcane,Sugarcane
+Dec,12,Tamil Nadu,Harvesting,kharif,sugarcane,Sugarcane
+Jan,1,Tamil Nadu,Harvesting,kharif,sugarcane,Sugarcane
+Feb,2,Tripura,Sowing,kharif,sugarcane,Sugarcane
+Mar,3,Tripura,Sowing,kharif,sugarcane,Sugarcane
+Apr,4,Tripura,Sowing,kharif,sugarcane,Sugarcane
+May,5,Tripura,Sowing,kharif,sugarcane,Sugarcane
+Dec,12,Tripura,Harvesting,kharif,sugarcane,Sugarcane
+Jan,1,Tripura,Harvesting,kharif,sugarcane,Sugarcane
+Feb,2,Tripura,Harvesting,kharif,sugarcane,Sugarcane
+Mar,3,Tripura,Harvesting,kharif,sugarcane,Sugarcane
+Feb,2,All India,Sowing,kharif,sugarcane,Sugarcane
+Mar,3,All India,Sowing,kharif,sugarcane,Sugarcane
+Apr,4,All India,Sowing,kharif,sugarcane,Sugarcane
+May,5,All India,Sowing,kharif,sugarcane,Sugarcane
+Jun,6,All India,Sowing,kharif,sugarcane,Sugarcane
+Jul,7,All India,Sowing,kharif,sugarcane,Sugarcane
+Aug,8,All India,Sowing,kharif,sugarcane,Sugarcane
+Aug,8,All India,Harvesting,kharif,sugarcane,Sugarcane
+Sep,9,All India,Harvesting,kharif,sugarcane,Sugarcane
+Oct,10,All India,Harvesting,kharif,sugarcane,Sugarcane
+Nov,11,All India,Harvesting,kharif,sugarcane,Sugarcane
+Jun,6,All India,Sowing,rabi,sugarcane,Sugarcane
+Jul,7,All India,Sowing,rabi,sugarcane,Sugarcane
+Aug,8,All India,Sowing,rabi,sugarcane,Sugarcane
+Sep,9,All India,Sowing,rabi,sugarcane,Sugarcane
+Oct,10,All India,Sowing,rabi,sugarcane,Sugarcane
+Oct,10,All India,Harvesting,rabi,sugarcane,Sugarcane
+Nov,11,All India,Harvesting,rabi,sugarcane,Sugarcane
+Dec,12,All India,Harvesting,rabi,sugarcane,Sugarcane
+Jan,1,All India,Harvesting,rabi,sugarcane,Sugarcane
+Jun,6,Kerala,Sowing,kharif,jute,Jute
+Jul,7,Kerala,Sowing,kharif,jute,Jute
+Aug,8,Kerala,Sowing,kharif,jute,Jute
+Sep,9,Kerala,Sowing,kharif,jute,Jute
+Oct,10,Kerala,Sowing,kharif,jute,Jute
+Oct,10,Kerala,Harvesting,kharif,jute,Jute
+Nov,11,Kerala,Harvesting,kharif,jute,Jute
+Dec,12,Kerala,Harvesting,kharif,jute,Jute
+Jan,1,Kerala,Harvesting,kharif,jute,Jute
+Feb,2,Manipur,Sowing,kharif,jute,Jute
+Mar,3,Manipur,Sowing,kharif,jute,Jute
+Aug,8,Manipur,Harvesting,kharif,jute,Jute
+Sep,9,Manipur,Harvesting,kharif,jute,Jute
+May,5,Odisha,Sowing,kharif,jute,Jute
+Jun,6,Odisha,Sowing,kharif,jute,Jute
+Aug,8,Odisha,Harvesting,kharif,jute,Jute
+Sep,9,Odisha,Harvesting,kharif,jute,Jute
+Mar,3,Tripura,Sowing,kharif,jute,Jute
+Apr,4,Tripura,Sowing,kharif,jute,Jute
+May,5,Tripura,Sowing,kharif,jute,Jute
+Aug,8,Tripura,Harvesting,kharif,jute,Jute
+Sep,9,Tripura,Harvesting,kharif,jute,Jute
+Mar,3,West Bengal,Sowing,kharif,jute,Jute
+Apr,4,West Bengal,Sowing,kharif,jute,Jute
+May,5,West Bengal,Sowing,kharif,jute,Jute
+Jul,7,West Bengal,Harvesting,kharif,jute,Jute
+Aug,8,West Bengal,Harvesting,kharif,jute,Jute
+Feb,2,All India,Sowing,kharif,jute,Jute
+Mar,3,All India,Sowing,kharif,jute,Jute
+Apr,4,All India,Sowing,kharif,jute,Jute
+May,5,All India,Sowing,kharif,jute,Jute
+Jun,6,All India,Sowing,kharif,jute,Jute
+Aug,8,All India,Harvesting,kharif,jute,Jute
+Sep,9,All India,Harvesting,kharif,jute,Jute
+Oct,10,All India,Harvesting,kharif,jute,Jute
+Apr,4,Andhra Pradesh,Harvesting,,Mango,Mango
+May,5,Andhra Pradesh,Harvesting,,Mango,Mango
+Jun,6,Assam,Harvesting,,Mango,Mango
+Jul,7,Assam,Harvesting,,Mango,Mango
+Aug,8,Assam,Harvesting,,Mango,Mango
+Jun,6,Bihar,Harvesting,,Mango,Mango
+Jul,7,Bihar,Harvesting,,Mango,Mango
+Apr,4,Chhattisgarh,Harvesting,,Mango,Mango
+May,5,Chhattisgarh,Harvesting,,Mango,Mango
+Jun,6,Chhattisgarh,Harvesting,,Mango,Mango
+May,5,Gujarat,Harvesting,,Mango,Mango
+Jul,7,Haryana,Harvesting,,Mango,Mango
+Jul,7,Himachal Pradesh,Harvesting,,Mango,Mango
+Jul,7,Jammu & Kashmir,Harvesting,,Mango,Mango
+May,5,Jharkhand,Harvesting,,Mango,Mango
+Jun,6,Jharkhand,Harvesting,,Mango,Mango
+Apr,4,Karnataka,Harvesting,,Mango,Mango
+May,5,Karnataka,Harvesting,,Mango,Mango
+Jun,6,Karnataka,Harvesting,,Mango,Mango
+Feb,2,Kerala,Harvesting,,Mango,Mango
+Mar,3,Kerala,Harvesting,,Mango,Mango
+May,5,Madhya Pradesh,Harvesting,,Mango,Mango
+Jun,6,Madhya Pradesh,Harvesting,,Mango,Mango
+Apr,4,Maharashtra,Harvesting,,Mango,Mango
+May,5,Maharashtra,Harvesting,,Mango,Mango
+Oct,10,Arunachal Pradesh,Harvesting,,Apple,Apple
+Aug,8,Himachal Pradesh,Harvesting,,Apple,Apple
+Sep,9,Himachal Pradesh,Harvesting,,Apple,Apple
+Sep,9,Jammu & Kashmir,Harvesting,,Apple,Apple
+Oct,10,Jammu & Kashmir,Harvesting,,Apple,Apple
+,,Andhra Pradesh,Year-Round Harvesting,,Banana,Banana
+,,Arunachal Pradesh,Year-Round Harvesting,,Banana,Banana
+,,Assam,Year-Round Harvesting,,Banana,Banana
+Sep,9,Bihar,Harvesting,,Banana,Banana
+Oct,10,Bihar,Harvesting,,Banana,Banana
+Nov,11,Bihar,Harvesting,,Banana,Banana
+Feb,2,Chhattisgarh,Harvesting,,Banana,Banana
+Mar,3,Chhattisgarh,Harvesting,,Banana,Banana
+Jul,7,Chhattisgarh,Harvesting,,Banana,Banana
+Aug,8,Chhattisgarh,Harvesting,,Banana,Banana
+Sep,9,Chhattisgarh,Harvesting,,Banana,Banana
+,,Goa,Year-Round Harvesting,,Banana,Banana
+Sep,9,Gujarat,Harvesting,,Banana,Banana
+Oct,10,Gujarat,Harvesting,,Banana,Banana
+Nov,11,Gujarat,Harvesting,,Banana,Banana
+Jul,7,Himachal Pradesh,Harvesting,,Banana,Banana
+Aug,8,Himachal Pradesh,Harvesting,,Banana,Banana
+Sep,9,Jharkhand,Harvesting,,Banana,Banana
+Oct,10,Jharkhand,Harvesting,,Banana,Banana
+Nov,11,Jharkhand,Harvesting,,Banana,Banana
+Jul,7,Karnataka,Harvesting,,Banana,Banana
+Aug,8,Karnataka,Harvesting,,Banana,Banana
+Sep,9,Karnataka,Harvesting,,Banana,Banana
+Oct,10,Karnataka,Harvesting,,Banana,Banana
+Nov,11,Karnataka,Harvesting,,Banana,Banana
+Aug,8,Kerala,Harvesting,,Banana,Banana
+Sep,9,Kerala,Harvesting,,Banana,Banana
+Nov,11,Kerala,Harvesting,,Banana,Banana
+Dec,12,Kerala,Harvesting,,Banana,Banana
+Jul,7,Madhya Pradesh,Harvesting,,Banana,Banana
+Aug,8,Madhya Pradesh,Harvesting,,Banana,Banana
+,,Maharashtra,Year-Round Harvesting,,Banana,Banana
+Oct,10,Andhra Pradesh,Harvesting,,Lime/Lemon,Lemon
+Nov,11,Andhra Pradesh,Harvesting,,Lime/Lemon,Lemon
+Dec,12,Andhra Pradesh,Harvesting,,Lime/Lemon,Lemon
+,,Arunachal Pradesh,Year-Round Harvesting,,Lime/Lemon,Lemon
+Jun,6,Assam,Harvesting,,Lime/Lemon,Lemon
+Jul,7,Assam,Harvesting,,Lime/Lemon,Lemon
+Aug,8,Assam,Harvesting,,Lime/Lemon,Lemon
+Sep,9,Assam,Harvesting,,Lime/Lemon,Lemon
+Mar,3,Chhattisgarh,Harvesting,,Lime/Lemon,Lemon
+Apr,4,Chhattisgarh,Harvesting,,Lime/Lemon,Lemon
+Jul,7,Chhattisgarh,Harvesting,,Lime/Lemon,Lemon
+Aug,8,Chhattisgarh,Harvesting,,Lime/Lemon,Lemon
+Sep,9,Gujarat,Harvesting,,Lime/Lemon,Lemon
+Oct,10,Gujarat,Harvesting,,Lime/Lemon,Lemon
+Dec,12,Haryana,Harvesting,,Lime/Lemon,Lemon
+Nov,11,Himachal Pradesh,Harvesting,,Lime/Lemon,Lemon
+Dec,12,Himachal Pradesh,Harvesting,,Lime/Lemon,Lemon
+Jan,1,Himachal Pradesh,Harvesting,,Lime/Lemon,Lemon
+Nov,11,Jammu & Kashmir,Harvesting,,Lime/Lemon,Lemon
+Dec,12,Jammu & Kashmir,Harvesting,,Lime/Lemon,Lemon
+Sep,9,Jharkhand,Harvesting,,Lime/Lemon,Lemon
+Oct,10,Jharkhand,Harvesting,,Lime/Lemon,Lemon
+Nov,11,Jharkhand,Harvesting,,Lime/Lemon,Lemon
+Dec,12,Jharkhand,Harvesting,,Lime/Lemon,Lemon
+Jul,7,Karnataka,Harvesting,,Lime/Lemon,Lemon
+Aug,8,Karnataka,Harvesting,,Lime/Lemon,Lemon
+Sep,9,Karnataka,Harvesting,,Lime/Lemon,Lemon
+Jul,7,Madhya Pradesh,Harvesting,,Lime/Lemon,Lemon
+Aug,8,Madhya Pradesh,Harvesting,,Lime/Lemon,Lemon
+Sep,9,Madhya Pradesh,Harvesting,,Lime/Lemon,Lemon
+Mar,3,Maharashtra,Harvesting,,Lime/Lemon,Lemon
+Apr,4,Maharashtra,Harvesting,,Lime/Lemon,Lemon
+Mar,3,Andhra Pradesh,Harvesting,,Grapes,Grape
+Apr,4,Andhra Pradesh,Harvesting,,Grapes,Grape
+Jun,6,Haryana,Harvesting,,Grapes,Grape
+Jul,7,Himachal Pradesh,Harvesting,,Grapes,Grape
+Jun,6,Jammu & Kashmir,Harvesting,,Grapes,Grape
+Jul,7,Jammu & Kashmir,Harvesting,,Grapes,Grape
+Mar,3,Madhya Pradesh,Harvesting,,Grapes,Grape
+Apr,4,Madhya Pradesh,Harvesting,,Grapes,Grape
+Mar,3,Maharashtra,Harvesting,,Grapes,Grape
+Apr,4,Maharashtra,Harvesting,,Grapes,Grape
+May,5,Maharashtra,Harvesting,,Grapes,Grape
+Jul,7,Mizoram,Harvesting,,Mango,Mango
+Jul,7,Nagaland,Harvesting,,Mango,Mango
+Apr,4,Odisha,Harvesting,,Mango,Mango
+May,5,Odisha,Harvesting,,Mango,Mango
+Jun,6,Odisha,Harvesting,,Mango,Mango
+Jun,6,Punjab,Harvesting,,Mango,Mango
+Jun,6,Rajasthan,Harvesting,,Mango,Mango
+Jun,6,Sikkim,Harvesting,,Mango,Mango
+May,5,Tamil Nadu,Harvesting,,Mango,Mango
+Jun,6,Tamil Nadu,Harvesting,,Mango,Mango
+Jun,6,Tripura,Harvesting,,Mango,Mango
+Jun,6,Uttar Pradesh,Harvesting,,Mango,Mango
+Jun,6,Uttarakhand,Harvesting,,Mango,Mango
+Jul,7,Uttarakhand,Harvesting,,Mango,Mango
+Aug,8,Uttarakhand,Harvesting,,Mango,Mango
+Jun,6,West Bengal,Harvesting,,Mango,Mango
+Jul,7,West Bengal,Harvesting,,Mango,Mango
+Jan,1,Andaman & Nicobar Islands,Harvesting,,Mango,Mango
+Feb,2,Andaman & Nicobar Islands,Harvesting,,Mango,Mango
+Mar,3,Andaman & Nicobar Islands,Harvesting,,Mango,Mango
+Apr,4,Andaman & Nicobar Islands,Harvesting,,Mango,Mango
+May,5,Dadra & Nagar Haveli,Harvesting,,Mango,Mango
+May,5,Daman & Diu,Harvesting,,Mango,Mango
+Jun,6,Puducherry,Harvesting,,Mango,Mango
+Jul,7,Puducherry,Harvesting,,Mango,Mango
+Jul,7,Uttarakhand,Harvesting,,Apple,Apple
+Aug,8,Uttarakhand,Harvesting,,Apple,Apple
+Aug,8,Manipur,Harvesting,,Banana,Banana
+Jun,6,Meghalaya,Harvesting,,Banana,Banana
+Feb,2,Mizoram,Harvesting,,Banana,Banana
+,,Nagaland,Year-Round Harvesting,,Banana,Banana
+Sep,9,Odisha,Harvesting,,Banana,Banana
+Oct,10,Odisha,Harvesting,,Banana,Banana
+Nov,11,Odisha,Harvesting,,Banana,Banana
+Dec,12,Odisha,Harvesting,,Banana,Banana
+Sep,9,Sikkim,Harvesting,,Banana,Banana
+Oct,10,Sikkim,Harvesting,,Banana,Banana
+,,Tamil Nadu,Year-Round Harvesting,,Banana,Banana
+,,Tripura,Year-Round Harvesting,,Banana,Banana
+Aug,8,Uttar Pradesh,Harvesting,,Banana,Banana
+Sep,9,Uttar Pradesh,Harvesting,,Banana,Banana
+May,5,Uttarakhand,Harvesting,,Banana,Banana
+Jun,6,Uttarakhand,Harvesting,,Banana,Banana
+Jul,7,Uttarakhand,Harvesting,,Banana,Banana
+Aug,8,Uttarakhand,Harvesting,,Banana,Banana
+Aug,8,West Bengal,Harvesting,,Banana,Banana
+Sep,9,West Bengal,Harvesting,,Banana,Banana
+Jan,1,Andaman & Nicobar Islands,Harvesting,,Banana,Banana
+Feb,2,Andaman & Nicobar Islands,Harvesting,,Banana,Banana
+Mar,3,Andaman & Nicobar Islands,Harvesting,,Banana,Banana
+Oct,10,Andaman & Nicobar Islands,Harvesting,,Banana,Banana
+Nov,11,Andaman & Nicobar Islands,Harvesting,,Banana,Banana
+Dec,12,Andaman & Nicobar Islands,Harvesting,,Banana,Banana
+Sep,9,Dadra & Nagar Haveli,Harvesting,,Banana,Banana
+Oct,10,Dadra & Nagar Haveli,Harvesting,,Banana,Banana
+Nov,11,Dadra & Nagar Haveli,Harvesting,,Banana,Banana
+Sep,9,Daman & Diu,Harvesting,,Banana,Banana
+Oct,10,Daman & Diu,Harvesting,,Banana,Banana
+Nov,11,Daman & Diu,Harvesting,,Banana,Banana
+,,Lakshadweep,Year-Round Harvesting,,Banana,Banana
+Aug,8,Puducherry,Harvesting,,Banana,Banana
+Dec,12,Manipur,Harvesting,,Lime/Lemon,Lemon
+Aug,8,Mizoram,Harvesting,,Lime/Lemon,Lemon
+Aug,8,Odisha,Harvesting,,Lime/Lemon,Lemon
+Sep,9,Odisha,Harvesting,,Lime/Lemon,Lemon
+,,Punjab,Year-Round Harvesting,,Lime/Lemon,Lemon
+Aug,8,Rajasthan,Harvesting,,Lime/Lemon,Lemon
+Feb,2,Tamil Nadu,Harvesting,,Lime/Lemon,Lemon
+Mar,3,Tamil Nadu,Harvesting,,Lime/Lemon,Lemon
+Jun,6,Tripura,Harvesting,,Lime/Lemon,Lemon
+Jul,7,Tripura,Harvesting,,Lime/Lemon,Lemon
+Dec,12,Uttar Pradesh,Harvesting,,Lime/Lemon,Lemon
+May,5,Uttarakhand,Harvesting,,Lime/Lemon,Lemon
+Jun,6,Uttarakhand,Harvesting,,Lime/Lemon,Lemon
+Jul,7,Uttarakhand,Harvesting,,Lime/Lemon,Lemon
+Nov,11,Uttarakhand,Harvesting,,Lime/Lemon,Lemon
+Dec,12,Uttarakhand,Harvesting,,Lime/Lemon,Lemon
+Sep,9,West Bengal,Harvesting,,Lime/Lemon,Lemon
+Jan,1,Puducherry,Harvesting,,Lime/Lemon,Lemon
+Oct,10,Mizoram,Harvesting,,Grapes,Grape
+May,5,Punjab,Harvesting,,Grapes,Grape
+Jun,6,Punjab,Harvesting,,Grapes,Grape
+Jun,6,Rajasthan,Harvesting,,Grapes,Grape
+May,5,Tamil Nadu,Harvesting,,Grapes,Grape
+Jun,6,Tamil Nadu,Harvesting,,Grapes,Grape
+Jul,7,Tamil Nadu,Harvesting,,Grapes,Grape
+Aug,8,Tamil Nadu,Harvesting,,Grapes,Grape
+Sep,9,Tamil Nadu,Harvesting,,Grapes,Grape
+Oct,10,Tamil Nadu,Harvesting,,Grapes,Grape
+Nov,11,Tamil Nadu,Harvesting,,Grapes,Grape
+Jun,6,Uttar Pradesh,Harvesting,,Grapes,Grape
+Apr,4,Andhra Pradesh,Harvesting,,Potato,Potato
+May,5,Andhra Pradesh,Harvesting,,Potato,Potato
+Jun,6,Andhra Pradesh,Harvesting,,Potato,Potato
+Dec,12,Assam,Harvesting,,Potato,Potato
+Jan,1,Assam,Harvesting,,Potato,Potato
+Jan,1,Bihar,Harvesting,,Potato,Potato
+Feb,2,Bihar,Harvesting,,Potato,Potato
+Jan,1,Chhattisgarh,Harvesting,,Potato,Potato
+Feb,2,Chhattisgarh,Harvesting,,Potato,Potato
+Mar,3,Chhattisgarh,Harvesting,,Potato,Potato
+Jan,1,Gujarat,Harvesting,,Potato,Potato
+Feb,2,Haryana,Harvesting,,Potato,Potato
+Mar,3,Haryana,Harvesting,,Potato,Potato
+May,5,Himachal Pradesh,Harvesting,,Potato,Potato
+Jun,6,Himachal Pradesh,Harvesting,,Potato,Potato
+Aug,8,Himachal Pradesh,Harvesting,,Potato,Potato
+Sep,9,Himachal Pradesh,Harvesting,,Potato,Potato
+Oct,10,Himachal Pradesh,Harvesting,,Potato,Potato
+Nov,11,Himachal Pradesh,Harvesting,,Potato,Potato
+Apr,4,Jammu & Kashmir,Harvesting,,Potato,Potato
+May,5,Jammu & Kashmir,Harvesting,,Potato,Potato
+Jun,6,Jammu & Kashmir,Harvesting,,Potato,Potato
+Jul,7,Jammu & Kashmir,Harvesting,,Potato,Potato
+Dec,12,Jharkhand,Harvesting,,Potato,Potato
+Jan,1,Jharkhand,Harvesting,,Potato,Potato
+Feb,2,Jharkhand,Harvesting,,Potato,Potato
+Feb,2,Karnataka,Harvesting,,Potato,Potato
+Mar,3,Karnataka,Harvesting,,Potato,Potato
+Sep,9,Karnataka,Harvesting,,Potato,Potato
+Oct,10,Karnataka,Harvesting,,Potato,Potato
+Feb,2,Madhya Pradesh,Harvesting,,Potato,Potato
+Mar,3,Madhya Pradesh,Harvesting,,Potato,Potato
+Mar,3,Maharashtra,Harvesting,,Potato,Potato
+Apr,4,Maharashtra,Harvesting,,Potato,Potato
+May,5,Maharashtra,Harvesting,,Potato,Potato
+Dec,12,Manipur,Harvesting,,Potato,Potato
+Jan,1,Manipur,Harvesting,,Potato,Potato
+Apr,4,Andhra Pradesh,Harvesting,,Onion,Onion
+May,5,Andhra Pradesh,Harvesting,,Onion,Onion
+Jun,6,Andhra Pradesh,Harvesting,,Onion,Onion
+Sep,9,Andhra Pradesh,Harvesting,,Onion,Onion
+Oct,10,Andhra Pradesh,Harvesting,,Onion,Onion
+Nov,11,Andhra Pradesh,Harvesting,,Onion,Onion
+Dec,12,Assam,Harvesting,,Onion,Onion
+Jan,1,Assam,Harvesting,,Onion,Onion
+Feb,2,Assam,Harvesting,,Onion,Onion
+Mar,3,Bihar,Harvesting,,Onion,Onion
+Apr,4,Bihar,Harvesting,,Onion,Onion
+Mar,3,Chhattisgarh,Harvesting,,Onion,Onion
+Apr,4,Chhattisgarh,Harvesting,,Onion,Onion
+Feb,2,Gujarat,Harvesting,,Onion,Onion
+Apr,4,Haryana,Harvesting,,Onion,Onion
+May,5,Haryana,Harvesting,,Onion,Onion
+Jun,6,Haryana,Harvesting,,Onion,Onion
+Jul,7,Haryana,Harvesting,,Onion,Onion
+Aug,8,Haryana,Harvesting,,Onion,Onion
+Sep,9,Haryana,Harvesting,,Onion,Onion
+Oct,10,Haryana,Harvesting,,Onion,Onion
+Nov,11,Haryana,Harvesting,,Onion,Onion
+Dec,12,Haryana,Harvesting,,Onion,Onion
+May,5,Himachal Pradesh,Harvesting,,Onion,Onion
+Jun,6,Himachal Pradesh,Harvesting,,Onion,Onion
+May,5,Jammu & Kashmir,Harvesting,,Onion,Onion
+Jun,6,Jammu & Kashmir,Harvesting,,Onion,Onion
+Mar,3,Jharkhand,Harvesting,,Onion,Onion
+Apr,4,Jharkhand,Harvesting,,Onion,Onion
+Apr,4,Karnataka,Harvesting,,Onion,Onion
+May,5,Karnataka,Harvesting,,Onion,Onion
+Jun,6,Karnataka,Harvesting,,Onion,Onion
+Sep,9,Karnataka,Harvesting,,Onion,Onion
+Oct,10,Karnataka,Harvesting,,Onion,Onion
+Mar,3,Madhya Pradesh,Harvesting,,Onion,Onion
+Apr,4,Madhya Pradesh,Harvesting,,Onion,Onion
+Apr,4,Maharashtra,Harvesting,,Onion,Onion
+,,Andhra Pradesh,Year-Round Harvesting,,Tomato,Tomato
+Dec,12,Assam,Harvesting,,Tomato,Tomato
+Jan,1,Assam,Harvesting,,Tomato,Tomato
+Feb,2,Assam,Harvesting,,Tomato,Tomato
+Jan,1,Bihar,Harvesting,,Tomato,Tomato
+Feb,2,Bihar,Harvesting,,Tomato,Tomato
+Aug,8,Chhattisgarh,Harvesting,,Tomato,Tomato
+Sep,9,Chhattisgarh,Harvesting,,Tomato,Tomato
+Oct,10,Chhattisgarh,Harvesting,,Tomato,Tomato
+Nov,11,Chhattisgarh,Harvesting,,Tomato,Tomato
+Dec,12,Chhattisgarh,Harvesting,,Tomato,Tomato
+Jan,1,Chhattisgarh,Harvesting,,Tomato,Tomato
+Feb,2,Chhattisgarh,Harvesting,,Tomato,Tomato
+Dec,12,Gujarat,Harvesting,,Tomato,Tomato
+Jan,1,Gujarat,Harvesting,,Tomato,Tomato
+Feb,2,Gujarat,Harvesting,,Tomato,Tomato
+Mar,3,Gujarat,Harvesting,,Tomato,Tomato
+Apr,4,Haryana,Harvesting,,Tomato,Tomato
+May,5,Haryana,Harvesting,,Tomato,Tomato
+Jun,6,Haryana,Harvesting,,Tomato,Tomato
+Jul,7,Haryana,Harvesting,,Tomato,Tomato
+Aug,8,Haryana,Harvesting,,Tomato,Tomato
+Sep,9,Haryana,Harvesting,,Tomato,Tomato
+Oct,10,Haryana,Harvesting,,Tomato,Tomato
+May,5,Himachal Pradesh,Harvesting,,Tomato,Tomato
+Jun,6,Himachal Pradesh,Harvesting,,Tomato,Tomato
+Jul,7,Himachal Pradesh,Harvesting,,Tomato,Tomato
+Aug,8,Himachal Pradesh,Harvesting,,Tomato,Tomato
+Apr,4,Jammu & Kashmir,Harvesting,,Tomato,Tomato
+Feb,2,Jharkhand,Harvesting,,Tomato,Tomato
+Mar,3,Jharkhand,Harvesting,,Tomato,Tomato
+Apr,4,Jharkhand,Harvesting,,Tomato,Tomato
+May,5,Jharkhand,Harvesting,,Tomato,Tomato
+Jun,6,Jharkhand,Harvesting,,Tomato,Tomato
+Jul,7,Jharkhand,Harvesting,,Tomato,Tomato
+Aug,8,Jharkhand,Harvesting,,Tomato,Tomato
+Sep,9,Jharkhand,Harvesting,,Tomato,Tomato
+Oct,10,Jharkhand,Harvesting,,Tomato,Tomato
+Nov,11,Jharkhand,Harvesting,,Tomato,Tomato
+Dec,12,Jharkhand,Harvesting,,Tomato,Tomato
+May,5,Karnataka,Harvesting,,Tomato,Tomato
+Jun,6,Karnataka,Harvesting,,Tomato,Tomato
+Jul,7,Karnataka,Harvesting,,Tomato,Tomato
+Oct,10,Madhya Pradesh,Harvesting,,Tomato,Tomato
+Nov,11,Madhya Pradesh,Harvesting,,Tomato,Tomato
+Dec,12,Madhya Pradesh,Harvesting,,Tomato,Tomato
+,,Maharashtra,Year-Round Harvesting,,Tomato,Tomato
+Jul,7,Manipur,Harvesting,,Tomato,Tomato
+Aug,8,Manipur,Harvesting,,Tomato,Tomato
+Nov,11,Andhra Pradesh,Harvesting,,Cabbage,Cabbage
+Dec,12,Andhra Pradesh,Harvesting,,Cabbage,Cabbage
+Jan,1,Andhra Pradesh,Harvesting,,Cabbage,Cabbage
+Jan,1,Assam,Harvesting,,Cabbage,Cabbage
+Feb,2,Assam,Harvesting,,Cabbage,Cabbage
+Nov,11,Bihar,Harvesting,,Cabbage,Cabbage
+Dec,12,Bihar,Harvesting,,Cabbage,Cabbage
+Jan,1,Bihar,Harvesting,,Cabbage,Cabbage
+Feb,2,Bihar,Harvesting,,Cabbage,Cabbage
+Aug,8,Chhattisgarh,Harvesting,,Cabbage,Cabbage
+Sep,9,Chhattisgarh,Harvesting,,Cabbage,Cabbage
+Oct,10,Chhattisgarh,Harvesting,,Cabbage,Cabbage
+Nov,11,Chhattisgarh,Harvesting,,Cabbage,Cabbage
+Dec,12,Chhattisgarh,Harvesting,,Cabbage,Cabbage
+Jan,1,Chhattisgarh,Harvesting,,Cabbage,Cabbage
+Feb,2,Chhattisgarh,Harvesting,,Cabbage,Cabbage
+Dec,12,Gujarat,Harvesting,,Cabbage,Cabbage
+Jan,1,Gujarat,Harvesting,,Cabbage,Cabbage
+Feb,2,Gujarat,Harvesting,,Cabbage,Cabbage
+Jan,1,Haryana,Harvesting,,Cabbage,Cabbage
+Sep,9,Himachal Pradesh,Harvesting,,Cabbage,Cabbage
+Oct,10,Himachal Pradesh,Harvesting,,Cabbage,Cabbage
+Nov,11,Himachal Pradesh,Harvesting,,Cabbage,Cabbage
+Dec,12,Himachal Pradesh,Harvesting,,Cabbage,Cabbage
+Feb,2,Himachal Pradesh,Harvesting,,Cabbage,Cabbage
+Oct,10,Jammu & Kashmir,Harvesting,,Cabbage,Cabbage
+Nov,11,Jammu & Kashmir,Harvesting,,Cabbage,Cabbage
+Dec,12,Jammu & Kashmir,Harvesting,,Cabbage,Cabbage
+Jan,1,Jammu & Kashmir,Harvesting,,Cabbage,Cabbage
+Feb,2,Jammu & Kashmir,Harvesting,,Cabbage,Cabbage
+Mar,3,Jammu & Kashmir,Harvesting,,Cabbage,Cabbage
+Apr,4,Jammu & Kashmir,Harvesting,,Cabbage,Cabbage
+Nov,11,Jharkhand,Harvesting,,Cabbage,Cabbage
+Dec,12,Jharkhand,Harvesting,,Cabbage,Cabbage
+,,Karnataka,Year-Round Harvesting,,Cabbage,Cabbage
+Jan,1,Madhya Pradesh,Harvesting,,Cabbage,Cabbage
+Feb,2,Madhya Pradesh,Harvesting,,Cabbage,Cabbage
+Jan,1,Maharashtra,Harvesting,,Cabbage,Cabbage
+Feb,2,Maharashtra,Harvesting,,Cabbage,Cabbage
+Jul,7,Manipur,Harvesting,,Cabbage,Cabbage
+Aug,8,Manipur,Harvesting,,Cabbage,Cabbage
+Nov,11,Andhra Pradesh,Harvesting,,Cauliflower,Cauliflower
+Dec,12,Andhra Pradesh,Harvesting,,Cauliflower,Cauliflower
+Jan,1,Andhra Pradesh,Harvesting,,Cauliflower,Cauliflower
+Nov,11,Assam,Harvesting,,Cauliflower,Cauliflower
+Dec,12,Assam,Harvesting,,Cauliflower,Cauliflower
+Jan,1,Assam,Harvesting,,Cauliflower,Cauliflower
+Feb,2,Assam,Harvesting,,Cauliflower,Cauliflower
+Dec,12,Bihar,Harvesting,,Cauliflower,Cauliflower
+Jan,1,Bihar,Harvesting,,Cauliflower,Cauliflower
+Feb,2,Bihar,Harvesting,,Cauliflower,Cauliflower
+Aug,8,Chhattisgarh,Harvesting,,Cauliflower,Cauliflower
+Sep,9,Chhattisgarh,Harvesting,,Cauliflower,Cauliflower
+Oct,10,Chhattisgarh,Harvesting,,Cauliflower,Cauliflower
+Nov,11,Chhattisgarh,Harvesting,,Cauliflower,Cauliflower
+Dec,12,Chhattisgarh,Harvesting,,Cauliflower,Cauliflower
+Jan,1,Chhattisgarh,Harvesting,,Cauliflower,Cauliflower
+Feb,2,Chhattisgarh,Harvesting,,Cauliflower,Cauliflower
+Dec,12,Gujarat,Harvesting,,Cauliflower,Cauliflower
+Jan,1,Gujarat,Harvesting,,Cauliflower,Cauliflower
+Feb,2,Gujarat,Harvesting,,Cauliflower,Cauliflower
+Jan,1,Haryana,Harvesting,,Cauliflower,Cauliflower
+Dec,12,Himachal Pradesh,Harvesting,,Cauliflower,Cauliflower
+Jan,1,Himachal Pradesh,Harvesting,,Cauliflower,Cauliflower
+Feb,2,Himachal Pradesh,Harvesting,,Cauliflower,Cauliflower
+Aug,8,Himachal Pradesh,Harvesting,,Cauliflower,Cauliflower
+Sep,9,Himachal Pradesh,Harvesting,,Cauliflower,Cauliflower
+Oct,10,Himachal Pradesh,Harvesting,,Cauliflower,Cauliflower
+Oct,10,Jammu & Kashmir,Harvesting,,Cauliflower,Cauliflower
+Nov,11,Jammu & Kashmir,Harvesting,,Cauliflower,Cauliflower
+Dec,12,Jammu & Kashmir,Harvesting,,Cauliflower,Cauliflower
+Jan,1,Jammu & Kashmir,Harvesting,,Cauliflower,Cauliflower
+Feb,2,Jammu & Kashmir,Harvesting,,Cauliflower,Cauliflower
+Mar,3,Jammu & Kashmir,Harvesting,,Cauliflower,Cauliflower
+Apr,4,Jammu & Kashmir,Harvesting,,Cauliflower,Cauliflower
+Oct,10,Jharkhand,Harvesting,,Cauliflower,Cauliflower
+Nov,11,Jharkhand,Harvesting,,Cauliflower,Cauliflower
+Dec,12,Jharkhand,Harvesting,,Cauliflower,Cauliflower
+,,Karnataka,Year-Round Harvesting,,Cauliflower,Cauliflower
+Jan,1,Madhya Pradesh,Harvesting,,Cauliflower,Cauliflower
+Feb,2,Madhya Pradesh,Harvesting,,Cauliflower,Cauliflower
+Oct,10,Manipur,Harvesting,,Cauliflower,Cauliflower
+Nov,11,Manipur,Harvesting,,Cauliflower,Cauliflower
+Dec,12,Manipur,Harvesting,,Cauliflower,Cauliflower
+Jan,1,Manipur,Harvesting,,Cauliflower,Cauliflower
+Sep,9,Bihar,Harvesting,kharif,paddy,Rice
+May,5,Punjab,Sowing,kharif,paddy,Rice
+Apr,4,West Bengal,Sowing,kharif,paddy,Rice
+May,5,West Bengal,Sowing,kharif,paddy,Rice
+Jun,6,West Bengal,Sowing,kharif,paddy,Rice
+Jul,7,West Bengal,Sowing,kharif,paddy,Rice
+Aug,8,West Bengal,Harvesting,kharif,paddy,Rice
+Sep,9,West Bengal,Harvesting,kharif,paddy,Rice
+Oct,10,West Bengal,Harvesting,kharif,paddy,Rice
+Nov,11,West Bengal,Harvesting,kharif,paddy,Rice
+Mar,3,Andhra Pradesh,Harvesting,rabi,paddy,Rice
+Apr,4,Andhra Pradesh,Harvesting,rabi,paddy,Rice
+Nov,11,West Bengal,Sowing,summer,paddy,Rice
+Dec,12,West Bengal,Sowing,summer,paddy,Rice
+Apr,4,West Bengal,Harvesting,summer,paddy,Rice
+May,5,West Bengal,Harvesting,summer,paddy,Rice
+Dec,12,Gujarat,Sowing,rabi,wheat,Wheat
+Dec,12,Himachal Pradesh,Sowing,rabi,wheat,Wheat
+Apr,4,Jammu & Kashmir,Harvesting,rabi,wheat,Wheat
+Jun,6,Jammu & Kashmir,Harvesting,rabi,wheat,Wheat
+Mar,3,Karnataka,Harvesting,rabi,wheat,Wheat
+Dec,12,Madhya Pradesh,Sowing,rabi,wheat,Wheat
+Apr,4,Madhya Pradesh,Harvesting,rabi,wheat,Wheat
+Dec,12,Punjab,Sowing,rabi,wheat,Wheat
+Oct,10,Rajasthan,Sowing,rabi,wheat,Wheat
+Jun,6,Andhra Pradesh,Sowing,early,arhar/tur,Arhar
+Nov,11,Andhra Pradesh,Harvesting,early,arhar/tur,Arhar
+Jun,6,Karnataka,Sowing,early,arhar/tur,Arhar
+Nov,11,Karnataka,Harvesting,early,arhar/tur,Arhar
+Jun,6,Maharashtra,Sowing,early,arhar/tur,Arhar
+Nov,11,Maharashtra,Harvesting,early,arhar/tur,Arhar
+Jun,6,Rajasthan,Sowing,early,arhar/tur,Arhar
+Nov,11,Rajasthan,Harvesting,early,arhar/tur,Arhar
+Jun,6,Uttar Pradesh,Sowing,early,arhar/tur,Arhar
+Nov,11,Uttar Pradesh,Harvesting,early,arhar/tur,Arhar
+Jun,6,Tamil Nadu,Sowing,early,arhar/tur,Arhar
+Nov,11,Tamil Nadu,Harvesting,early,arhar/tur,Arhar
+Jun,6,Gujarat,Sowing,early,arhar/tur,Arhar
+Nov,11,Gujarat,Harvesting,early,arhar/tur,Arhar
+Jun,6,Bihar,Sowing,early,arhar/tur,Arhar
+Nov,11,Bihar,Harvesting,early,arhar/tur,Arhar
+Jun,6,Madhya Pradesh,Sowing,early,arhar/tur,Arhar
+Nov,11,Madhya Pradesh,Harvesting,early,arhar/tur,Arhar
+Jun,6,Uttarakhand,Sowing,early,arhar/tur,Arhar
+Nov,11,Uttarakhand,Harvesting,early,arhar/tur,Arhar
+Jun,6,Odisha,Sowing,early,arhar/tur,Arhar
+Nov,11,Odisha,Harvesting,early,arhar/tur,Arhar
+Jun,6,Haryana,Sowing,early,arhar/tur,Arhar
+Oct,10,Haryana,Harvesting,early,arhar/tur,Arhar
+Jun,6,Punjab,Sowing,early,arhar/tur,Arhar
+Oct,10,Punjab,Harvesting,early,arhar/tur,Arhar
+Jun,6,Jharkhand,Sowing,early,arhar/tur,Arhar
+Nov,11,Jharkhand,Harvesting,early,arhar/tur,Arhar
+Jun,6,Chhattisgarh,Sowing,early,arhar/tur,Arhar
+Nov,11,Chhattisgarh,Harvesting,early,arhar/tur,Arhar
+Jun,6,Tripura,Sowing,early,arhar/tur,Arhar
+Nov,11,Tripura,Harvesting,early,arhar/tur,Arhar
+Jun,6,Nagaland,Sowing,early,arhar/tur,Arhar
+Nov,11,Nagaland,Harvesting,early,arhar/tur,Arhar
+Jun,6,All India,Sowing,early,arhar/tur,Arhar
+Nov,11,All India,Harvesting,early,arhar/tur,Arhar
+Jul,7,Andhra Pradesh,Sowing,early-middle,arhar/tur,Arhar
+Dec,12,Andhra Pradesh,Harvesting,early-middle,arhar/tur,Arhar
+Jul,7,Karnataka,Sowing,early-middle,arhar/tur,Arhar
+Dec,12,Karnataka,Harvesting,early-middle,arhar/tur,Arhar
+Jul,7,Maharashtra,Sowing,early-middle,arhar/tur,Arhar
+Dec,12,Maharashtra,Harvesting,early-middle,arhar/tur,Arhar
+Jul,7,Tamil Nadu,Sowing,early-middle,arhar/tur,Arhar
+Dec,12,Tamil Nadu,Harvesting,early-middle,arhar/tur,Arhar
+Jul,7,Gujarat,Sowing,early-middle,arhar/tur,Arhar
+Dec,12,Gujarat,Harvesting,early-middle,arhar/tur,Arhar
+Jun,6,Madhya Pradesh,Sowing,early-middle,arhar/tur,Arhar
+Jul,7,Madhya Pradesh,Sowing,early-middle,arhar/tur,Arhar
+Nov,11,Madhya Pradesh,Harvesting,early-middle,arhar/tur,Arhar
+Dec,12,Madhya Pradesh,Harvesting,early-middle,arhar/tur,Arhar
+Jul,7,All India,Sowing,early-middle,arhar/tur,Arhar
+Dec,12,All India,Harvesting,early-middle,arhar/tur,Arhar
+Jul,7,Andhra Pradesh,Sowing,medium,arhar/tur,Arhar
+Jan,1,Andhra Pradesh,Harvesting,medium,arhar/tur,Arhar
+Jul,7,Karnataka,Sowing,medium,arhar/tur,Arhar
+Jan,1,Karnataka,Harvesting,medium,arhar/tur,Arhar
+Jul,7,Maharashtra,Sowing,medium,arhar/tur,Arhar
+Jan,1,Maharashtra,Harvesting,medium,arhar/tur,Arhar
+Jul,7,Tamil Nadu,Sowing,medium,arhar/tur,Arhar
+Jan,1,Tamil Nadu,Harvesting,medium,arhar/tur,Arhar
+Jul,7,Gujarat,Sowing,medium,arhar/tur,Arhar
+Jan,1,Gujarat,Harvesting,medium,arhar/tur,Arhar
+Jul,7,Madhya Pradesh,Sowing,medium,arhar/tur,Arhar
+Jan,1,Madhya Pradesh,Harvesting,medium,arhar/tur,Arhar
+Jun,6,Odisha,Sowing,medium,arhar/tur,Arhar
+Jul,7,Odisha,Sowing,medium,arhar/tur,Arhar
+Jan,1,Odisha,Harvesting,medium,arhar/tur,Arhar
+Jun,6,Jharkhand,Sowing,medium,arhar/tur,Arhar
+Jul,7,Jharkhand,Sowing,medium,arhar/tur,Arhar
+Jan,1,Jharkhand,Harvesting,medium,arhar/tur,Arhar
+Jun,6,Chhattisgarh,Sowing,medium,arhar/tur,Arhar
+Jul,7,Chhattisgarh,Sowing,medium,arhar/tur,Arhar
+Dec,12,Chhattisgarh,Harvesting,medium,arhar/tur,Arhar
+Jan,1,Chhattisgarh,Harvesting,medium,arhar/tur,Arhar
+Jul,7,All India,Sowing,medium,arhar/tur,Arhar
+Jan,1,All India,Harvesting,medium,arhar/tur,Arhar
+Feb,2,All India,Harvesting,medium,arhar/tur,Arhar
+Mar,3,All India,Harvesting,medium,arhar/tur,Arhar
+Apr,4,All India,Harvesting,medium,arhar/tur,Arhar
+May,5,All India,Harvesting,medium,arhar/tur,Arhar
+Jun,6,All India,Harvesting,medium,arhar/tur,Arhar
+Jul,7,All India,Harvesting,medium,arhar/tur,Arhar
+Aug,8,All India,Harvesting,medium,arhar/tur,Arhar
+Sep,9,All India,Harvesting,medium,arhar/tur,Arhar
+Oct,10,All India,Harvesting,medium,arhar/tur,Arhar
+Nov,11,All India,Harvesting,medium,arhar/tur,Arhar
+Dec,12,All India,Harvesting,medium,arhar/tur,Arhar
+Jul,7,Uttar Pradesh,Sowing,long,arhar/tur,Arhar
+Apr,4,Uttar Pradesh,Harvesting,long,arhar/tur,Arhar
+Jul,7,Bihar,Sowing,long,arhar/tur,Arhar
+Apr,4,Bihar,Harvesting,long,arhar/tur,Arhar
+Jul,7,Jharkhand,Sowing,long,arhar/tur,Arhar
+Mar,3,Jharkhand,Harvesting,long,arhar/tur,Arhar
+Apr,4,Jharkhand,Harvesting,long,arhar/tur,Arhar
+Jul,7,All India,Sowing,long,arhar/tur,Arhar
+Apr,4,All India,Harvesting,long,arhar/tur,Arhar
+Jun,6,Andhra Pradesh,Sowing,kharif,mungbean/urdbean,Urad
+Jul,7,Andhra Pradesh,Sowing,kharif,mungbean/urdbean,Urad
+Sep,9,Andhra Pradesh,Harvesting,kharif,mungbean/urdbean,Urad
+Oct,10,Andhra Pradesh,Harvesting,kharif,mungbean/urdbean,Urad
+Jul,7,Assam,Sowing,kharif,mungbean/urdbean,Urad
+Aug,8,Assam,Sowing,kharif,mungbean/urdbean,Urad
+Sep,9,Assam,Harvesting,kharif,mungbean/urdbean,Urad
+Oct,10,Assam,Harvesting,kharif,mungbean/urdbean,Urad
+Jul,7,Bihar,Sowing,kharif,mungbean/urdbean,Urad
+Aug,8,Bihar,Sowing,kharif,mungbean/urdbean,Urad
+Sep,9,Bihar,Harvesting,kharif,mungbean/urdbean,Urad
+Oct,10,Bihar,Harvesting,kharif,mungbean/urdbean,Urad
+Jun,6,Chhattisgarh,Sowing,kharif,mungbean/urdbean,Urad
+Jul,7,Chhattisgarh,Sowing,kharif,mungbean/urdbean,Urad
+Sep,9,Chhattisgarh,Harvesting,kharif,mungbean/urdbean,Urad
+Jul,7,Gujarat,Sowing,kharif,mungbean/urdbean,Urad
+Aug,8,Gujarat,Sowing,kharif,mungbean/urdbean,Urad
+Sep,9,Gujarat,Harvesting,kharif,mungbean/urdbean,Urad
+Oct,10,Gujarat,Harvesting,kharif,mungbean/urdbean,Urad
+Jul,7,Haryana,Sowing,kharif,mungbean/urdbean,Urad
+Aug,8,Haryana,Sowing,kharif,mungbean/urdbean,Urad
+Sep,9,Haryana,Harvesting,kharif,mungbean/urdbean,Urad
+Oct,10,Haryana,Harvesting,kharif,mungbean/urdbean,Urad
+Jul,7,Jharkhand,Sowing,kharif,mungbean/urdbean,Urad
+Aug,8,Jharkhand,Sowing,kharif,mungbean/urdbean,Urad
+Sep,9,Jharkhand,Harvesting,kharif,mungbean/urdbean,Urad
+Oct,10,Jharkhand,Harvesting,kharif,mungbean/urdbean,Urad
+Jun,6,Karnataka,Sowing,kharif,mungbean/urdbean,Urad
+Jul,7,Karnataka,Sowing,kharif,mungbean/urdbean,Urad
+Sep,9,Karnataka,Harvesting,kharif,mungbean/urdbean,Urad
+Oct,10,Karnataka,Harvesting,kharif,mungbean/urdbean,Urad
+Jun,6,Kerala,Sowing,kharif,mungbean/urdbean,Urad
+Jul,7,Kerala,Sowing,kharif,mungbean/urdbean,Urad
+Sep,9,Kerala,Harvesting,kharif,mungbean/urdbean,Urad
+Oct,10,Kerala,Harvesting,kharif,mungbean/urdbean,Urad
+Jun,6,Madhya Pradesh,Sowing,kharif,mungbean/urdbean,Urad
+Jul,7,Madhya Pradesh,Sowing,kharif,mungbean/urdbean,Urad
+Sep,9,Madhya Pradesh,Harvesting,kharif,mungbean/urdbean,Urad
+Oct,10,Madhya Pradesh,Harvesting,kharif,mungbean/urdbean,Urad
+Jun,6,Maharashtra,Sowing,kharif,mungbean/urdbean,Urad
+Jul,7,Maharashtra,Sowing,kharif,mungbean/urdbean,Urad
+Sep,9,Maharashtra,Harvesting,kharif,mungbean/urdbean,Urad
+Oct,10,Maharashtra,Harvesting,kharif,mungbean/urdbean,Urad
+Jun,6,Odisha,Sowing,kharif,mungbean/urdbean,Urad
+Jul,7,Odisha,Sowing,kharif,mungbean/urdbean,Urad
+Sep,9,Odisha,Harvesting,kharif,mungbean/urdbean,Urad
+Oct,10,Odisha,Harvesting,kharif,mungbean/urdbean,Urad
+Jul,7,Punjab,Sowing,kharif,mungbean/urdbean,Urad
+Aug,8,Punjab,Sowing,kharif,mungbean/urdbean,Urad
+Sep,9,Punjab,Harvesting,kharif,mungbean/urdbean,Urad
+Oct,10,Punjab,Harvesting,kharif,mungbean/urdbean,Urad
+Jul,7,Rajasthan,Sowing,kharif,mungbean/urdbean,Urad
+Aug,8,Rajasthan,Sowing,kharif,mungbean/urdbean,Urad
+Sep,9,Rajasthan,Harvesting,kharif,mungbean/urdbean,Urad
+Oct,10,Rajasthan,Harvesting,kharif,mungbean/urdbean,Urad
+Jul,7,Tripura,Sowing,kharif,mungbean/urdbean,Urad
+Aug,8,Tripura,Sowing,kharif,mungbean/urdbean,Urad
+Sep,9,Tripura,Harvesting,kharif,mungbean/urdbean,Urad
+Oct,10,Tripura,Harvesting,kharif,mungbean/urdbean,Urad
+Jun,6,Tamil Nadu,Sowing,kharif,mungbean/urdbean,Urad
+Jul,7,Tamil Nadu,Sowing,kharif,mungbean/urdbean,Urad
+Sep,9,Tamil Nadu,Harvesting,kharif,mungbean/urdbean,Urad
+Oct,10,Tamil Nadu,Harvesting,kharif,mungbean/urdbean,Urad
+Jul,7,Uttar Pradesh,Sowing,kharif,mungbean/urdbean,Urad
+Aug,8,Uttar Pradesh,Sowing,kharif,mungbean/urdbean,Urad
+Sep,9,Uttar Pradesh,Harvesting,kharif,mungbean/urdbean,Urad
+Oct,10,Uttar Pradesh,Harvesting,kharif,mungbean/urdbean,Urad
+Jul,7,West Bengal,Sowing,kharif,mungbean/urdbean,Urad
+Aug,8,West Bengal,Sowing,kharif,mungbean/urdbean,Urad
+Sep,9,West Bengal,Harvesting,kharif,mungbean/urdbean,Urad
+Oct,10,West Bengal,Harvesting,kharif,mungbean/urdbean,Urad
+Jul,7,Himachal Pradesh,Sowing,kharif,mungbean/urdbean,Urad
+Aug,8,Himachal Pradesh,Sowing,kharif,mungbean/urdbean,Urad
+Sep,9,Himachal Pradesh,Harvesting,kharif,mungbean/urdbean,Urad
+Oct,10,Himachal Pradesh,Harvesting,kharif,mungbean/urdbean,Urad
+Jun,6,Rajasthan,Sowing,kharif,mungbean/urdbean,Urad
+Oct,10,Chhattisgarh,Harvesting,kharif,mungbean/urdbean,Urad
+Jun,6,Uttar Pradesh,Sowing,kharif,mungbean/urdbean,Urad
+Jun,6,Manipur,Sowing,kharif,mungbean/urdbean,Urad
+Jul,7,Manipur,Sowing,kharif,mungbean/urdbean,Urad
+Sep,9,Manipur,Harvesting,kharif,mungbean/urdbean,Urad
+Oct,10,Manipur,Harvesting,kharif,mungbean/urdbean,Urad
+Jun,6,Meghalaya,Sowing,kharif,mungbean/urdbean,Urad
+Jul,7,Meghalaya,Sowing,kharif,mungbean/urdbean,Urad
+Sep,9,Meghalaya,Harvesting,kharif,mungbean/urdbean,Urad
+Oct,10,Meghalaya,Harvesting,kharif,mungbean/urdbean,Urad
+Jun,6,West Bengal,Sowing,kharif,mungbean/urdbean,Urad
+Oct,10,Andhra Pradesh,Sowing,rabi,mungbean/urdbean,Urad
+Nov,11,Andhra Pradesh,Sowing,rabi,mungbean/urdbean,Urad
+Jan,1,Andhra Pradesh,Harvesting,rabi,mungbean/urdbean,Urad
+Feb,2,Andhra Pradesh,Harvesting,rabi,mungbean/urdbean,Urad
+Aug,8,Assam,Sowing,rabi,mungbean/urdbean,Urad
+Sep,9,Assam,Sowing,rabi,mungbean/urdbean,Urad
+Nov,11,Assam,Harvesting,rabi,mungbean/urdbean,Urad
+Dec,12,Assam,Harvesting,rabi,mungbean/urdbean,Urad
+Oct,10,Karnataka,Sowing,rabi,mungbean/urdbean,Urad
+Nov,11,Karnataka,Sowing,rabi,mungbean/urdbean,Urad
+Jan,1,Karnataka,Harvesting,rabi,mungbean/urdbean,Urad
+Feb,2,Karnataka,Harvesting,rabi,mungbean/urdbean,Urad
+Oct,10,Odisha,Sowing,rabi,mungbean/urdbean,Urad
+Nov,11,Odisha,Sowing,rabi,mungbean/urdbean,Urad
+Jan,1,Odisha,Harvesting,rabi,mungbean/urdbean,Urad
+Feb,2,Odisha,Harvesting,rabi,mungbean/urdbean,Urad
+Oct,10,Tamil Nadu,Sowing,rabi,mungbean/urdbean,Urad
+Nov,11,Tamil Nadu,Sowing,rabi,mungbean/urdbean,Urad
+Jan,1,Tamil Nadu,Harvesting,rabi,mungbean/urdbean,Urad
+Feb,2,Tamil Nadu,Harvesting,rabi,mungbean/urdbean,Urad
+Jun,6,Madhya Pradesh,Sowing,rabi,mungbean/urdbean,Urad
+Jul,7,Madhya Pradesh,Sowing,rabi,mungbean/urdbean,Urad
+Oct,10,Madhya Pradesh,Harvesting,rabi,mungbean/urdbean,Urad
+Nov,11,Madhya Pradesh,Harvesting,rabi,mungbean/urdbean,Urad
+Jun,6,Maharashtra,Sowing,rabi,mungbean/urdbean,Urad
+Jul,7,Maharashtra,Sowing,rabi,mungbean/urdbean,Urad
+Oct,10,Maharashtra,Harvesting,rabi,mungbean/urdbean,Urad
+Nov,11,Maharashtra,Harvesting,rabi,mungbean/urdbean,Urad
+Jun,6,Karnataka,Sowing,rabi,mungbean/urdbean,Urad
+Jul,7,Karnataka,Sowing,rabi,mungbean/urdbean,Urad
+Oct,10,Karnataka,Harvesting,rabi,mungbean/urdbean,Urad
+Nov,11,Karnataka,Harvesting,rabi,mungbean/urdbean,Urad
+Jun,6,Andhra Pradesh,Sowing,rabi,mungbean/urdbean,Urad
+Jul,7,Andhra Pradesh,Sowing,rabi,mungbean/urdbean,Urad
+Oct,10,Andhra Pradesh,Harvesting,rabi,mungbean/urdbean,Urad
+Nov,11,Andhra Pradesh,Harvesting,rabi,mungbean/urdbean,Urad
+Sep,9,West Bengal,Harvesting,rabi,mungbean/urdbean,Urad
+Oct,10,West Bengal,Harvesting,rabi,mungbean/urdbean,Urad
+Jun,6,Odisha,Sowing,rabi,mungbean/urdbean,Urad
+Jul,7,Odisha,Sowing,rabi,mungbean/urdbean,Urad
+Oct,10,Odisha,Harvesting,rabi,mungbean/urdbean,Urad
+Nov,11,Odisha,Harvesting,rabi,mungbean/urdbean,Urad
+Jun,6,Bihar,Sowing,rabi,mungbean/urdbean,Urad
+Jun,6,Jharkhand,Sowing,rabi,mungbean/urdbean,Urad
+Jul,7,Bihar,Sowing,rabi,mungbean/urdbean,Urad
+Jul,7,Jharkhand,Sowing,rabi,mungbean/urdbean,Urad
+Oct,10,Bihar,Harvesting,rabi,mungbean/urdbean,Urad
+Oct,10,Jharkhand,Harvesting,rabi,mungbean/urdbean,Urad
+Nov,11,Bihar,Harvesting,rabi,mungbean/urdbean,Urad
+Nov,11,Jharkhand,Harvesting,rabi,mungbean/urdbean,Urad
+Jun,6,Gujarat,Sowing,rabi,mungbean/urdbean,Urad
+Jul,7,Gujarat,Sowing,rabi,mungbean/urdbean,Urad
+Oct,10,Gujarat,Harvesting,rabi,mungbean/urdbean,Urad
+Nov,11,Gujarat,Harvesting,rabi,mungbean/urdbean,Urad
+Jan,1,Andhra Pradesh,Sowing,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+Feb,2,Andhra Pradesh,Sowing,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+Mar,3,Andhra Pradesh,Harvesting,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+Apr,4,Andhra Pradesh,Harvesting,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+Feb,2,Assam,Sowing,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+Mar,3,Assam,Sowing,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+May,5,Assam,Harvesting,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+Feb,2,Bihar,Sowing,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+Mar,3,Bihar,Sowing,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+Apr,4,Bihar,Sowing,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+May,5,Bihar,Harvesting,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+Jun,6,Bihar,Harvesting,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+Feb,2,Haryana,Sowing,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+Mar,3,Haryana,Sowing,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+Apr,4,Haryana,Sowing,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+May,5,Haryana,Harvesting,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+Jun,6,Haryana,Harvesting,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+Feb,2,Jharkhand,Sowing,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+Mar,3,Jharkhand,Sowing,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+Apr,4,Jharkhand,Sowing,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+May,5,Jharkhand,Harvesting,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+Jun,6,Jharkhand,Harvesting,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+Jan,1,Karnataka,Sowing,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+Feb,2,Karnataka,Sowing,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+Mar,3,Karnataka,Harvesting,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+Apr,4,Karnataka,Harvesting,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+Jan,1,Kerala,Sowing,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+Feb,2,Kerala,Sowing,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+Mar,3,Kerala,Harvesting,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+Apr,4,Kerala,Harvesting,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+Jan,1,Odisha,Sowing,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+Feb,2,Odisha,Sowing,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+Mar,3,Odisha,Harvesting,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+Apr,4,Odisha,Harvesting,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+Feb,2,Punjab,Sowing,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+Mar,3,Punjab,Sowing,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+May,5,Punjab,Harvesting,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+Feb,2,Tripura,Sowing,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+Mar,3,Tripura,Sowing,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+Apr,4,Tripura,Sowing,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+May,5,Tripura,Harvesting,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+Jun,6,Tripura,Harvesting,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+Feb,2,Tamil Nadu,Sowing,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+Mar,3,Tamil Nadu,Sowing,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+Apr,4,Tamil Nadu,Sowing,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+May,5,Tamil Nadu,Harvesting,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+Jun,6,Tamil Nadu,Harvesting,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+Feb,2,Uttar Pradesh,Sowing,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+Mar,3,Uttar Pradesh,Sowing,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+Apr,4,Uttar Pradesh,Sowing,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+May,5,Uttar Pradesh,Harvesting,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+Jun,6,Uttar Pradesh,Harvesting,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+Feb,2,West Bengal,Sowing,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+Mar,3,West Bengal,Sowing,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+Apr,4,West Bengal,Sowing,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+May,5,West Bengal,Harvesting,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+Jun,6,West Bengal,Harvesting,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+Aug,8,Madhya Pradesh,Sowing,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+Sep,9,Madhya Pradesh,Sowing,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+Nov,11,Madhya Pradesh,Harvesting,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+Dec,12,Madhya Pradesh,Harvesting,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+Aug,8,Maharashtra,Sowing,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+Sep,9,Maharashtra,Sowing,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+Nov,11,Maharashtra,Harvesting,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+Dec,12,Maharashtra,Harvesting,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+Aug,8,Karnataka,Sowing,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+Sep,9,Karnataka,Sowing,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+Nov,11,Karnataka,Harvesting,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+Dec,12,Karnataka,Harvesting,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+Aug,8,Andhra Pradesh,Sowing,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+Sep,9,Andhra Pradesh,Sowing,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+Nov,11,Andhra Pradesh,Harvesting,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+Dec,12,Andhra Pradesh,Harvesting,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+Aug,8,Odisha,Sowing,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+Sep,9,Odisha,Sowing,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+Nov,11,Odisha,Harvesting,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+Dec,12,Odisha,Harvesting,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+Aug,8,Bihar,Sowing,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+Aug,8,Jharkhand,Sowing,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+Sep,9,Bihar,Sowing,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+Sep,9,Jharkhand,Sowing,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+Nov,11,Bihar,Harvesting,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+Nov,11,Jharkhand,Harvesting,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+Dec,12,Bihar,Harvesting,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+Dec,12,Jharkhand,Harvesting,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+Aug,8,Gujarat,Sowing,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+Sep,9,Gujarat,Sowing,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+Nov,11,Gujarat,Harvesting,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+Dec,12,Gujarat,Harvesting,spring/summer mungbean/urdbean,/ mungbean/urdbean,Urad
+Nov,11,Andhra Pradesh,Sowing,rabi,chickpea,Chickpea
+Feb,2,Andhra Pradesh,Harvesting,rabi,chickpea,Chickpea
+Mar,3,Andhra Pradesh,Harvesting,rabi,chickpea,Chickpea
+Oct,10,Jharkhand,Sowing,rabi,chickpea,Chickpea
+Nov,11,Jharkhand,Sowing,rabi,chickpea,Chickpea
+Mar,3,Jharkhand,Harvesting,rabi,chickpea,Chickpea
+Apr,4,Jharkhand,Harvesting,rabi,chickpea,Chickpea
+Nov,11,Karnataka,Sowing,rabi,chickpea,Chickpea
+Sep,9,Manipur,Sowing,rabi,chickpea,Chickpea
+Oct,10,Manipur,Sowing,rabi,chickpea,Chickpea
+Mar,3,Manipur,Harvesting,rabi,chickpea,Chickpea
+Apr,4,Manipur,Harvesting,rabi,chickpea,Chickpea
+Sep,9,Meghalaya,Sowing,rabi,chickpea,Chickpea
+Oct,10,Meghalaya,Sowing,rabi,chickpea,Chickpea
+Dec,12,Meghalaya,Harvesting,rabi,chickpea,Chickpea
+Jan,1,Meghalaya,Harvesting,rabi,chickpea,Chickpea
+Oct,10,Chhattisgarh,Sowing,rabi,pulses/lentil,Lentil
+Nov,11,Chhattisgarh,Sowing,rabi,pulses/lentil,Lentil
+Oct,10,Chhattisgarh,Sowing,rabi,pea,Pea
+Nov,11,Chhattisgarh,Sowing,rabi,pea,Pea
+Aug,8,Andhra Pradesh,Sowing,kharif,groundnut,Groundnut
+Jun,6,Chhattisgarh,Sowing,kharif,groundnut,Groundnut
+Jul,7,Chhattisgarh,Sowing,kharif,groundnut,Groundnut
+Sep,9,Chhattisgarh,Harvesting,kharif,groundnut,Groundnut
+Oct,10,Chhattisgarh,Harvesting,kharif,groundnut,Groundnut
+Nov,11,Chhattisgarh,Harvesting,kharif,groundnut,Groundnut
+Dec,12,Chhattisgarh,Harvesting,kharif,groundnut,Groundnut
+Jun,6,Jharkhand,Sowing,kharif,groundnut,Groundnut
+Jul,7,Jharkhand,Sowing,kharif,groundnut,Groundnut
+Aug,8,Jharkhand,Sowing,kharif,groundnut,Groundnut
+Oct,10,Jharkhand,Harvesting,kharif,groundnut,Groundnut
+Nov,11,Jharkhand,Harvesting,kharif,groundnut,Groundnut
+Nov,11,Madhya Pradesh,Harvesting,kharif,groundnut,Groundnut
+Dec,12,Madhya Pradesh,Harvesting,kharif,groundnut,Groundnut
+Jul,7,Odisha,Sowing,kharif,groundnut,Groundnut
+Oct,10,Odisha,Harvesting,kharif,groundnut,Groundnut
+Nov,11,Odisha,Harvesting,kharif,groundnut,Groundnut
+May,5,Punjab,Sowing,kharif,groundnut,Groundnut
+Jun,6,Punjab,Sowing,kharif,groundnut,Groundnut
+Oct,10,Punjab,Harvesting,kharif,groundnut,Groundnut
+Nov,11,Punjab,Harvesting,kharif,groundnut,Groundnut
+May,5,Manipur,Sowing,kharif,groundnut,Groundnut
+Jun,6,Manipur,Sowing,kharif,groundnut,Groundnut
+Oct,10,Manipur,Harvesting,kharif,groundnut,Groundnut
+Nov,11,Manipur,Harvesting,kharif,groundnut,Groundnut
+Jun,6,Tamil Nadu,Sowing,kharif,groundnut,Groundnut
+Jul,7,Tamil Nadu,Sowing,kharif,groundnut,Groundnut
+Sep,9,Tamil Nadu,Harvesting,kharif,groundnut,Groundnut
+Oct,10,Tamil Nadu,Harvesting,kharif,groundnut,Groundnut
+Jun,6,Puducherry,Sowing,kharif,groundnut,Groundnut
+Jul,7,Puducherry,Sowing,kharif,groundnut,Groundnut
+Sep,9,Puducherry,Harvesting,kharif,groundnut,Groundnut
+Oct,10,Puducherry,Harvesting,kharif,groundnut,Groundnut
+Jun,6,All India,Sowing,kharif,groundnut,Groundnut
+Jul,7,All India,Sowing,kharif,groundnut,Groundnut
+Oct,10,All India,Harvesting,kharif,groundnut,Groundnut
+Nov,11,All India,Harvesting,kharif,groundnut,Groundnut
+Dec,12,Odisha,Sowing,rabi,groundnut,Groundnut
+Jan,1,Odisha,Sowing,rabi,groundnut,Groundnut
+Apr,4,Odisha,Harvesting,rabi,groundnut,Groundnut
+Sep,9,Tamil Nadu,Sowing,rabi,groundnut,Groundnut
+Oct,10,Tamil Nadu,Sowing,rabi,groundnut,Groundnut
+Jan,1,Tamil Nadu,Harvesting,rabi,groundnut,Groundnut
+Dec,12,Puducherry,Sowing,rabi,groundnut,Groundnut
+Jan,1,Puducherry,Sowing,rabi,groundnut,Groundnut
+Mar,3,Puducherry,Harvesting,rabi,groundnut,Groundnut
+Apr,4,Puducherry,Harvesting,rabi,groundnut,Groundnut
+Nov,11,All India,Sowing,rabi,groundnut,Groundnut
+Dec,12,All India,Sowing,rabi,groundnut,Groundnut
+Jan,1,All India,Sowing,rabi,groundnut,Groundnut
+Feb,2,All India,Harvesting,rabi,groundnut,Groundnut
+Mar,3,All India,Harvesting,rabi,groundnut,Groundnut
+Apr,4,All India,Harvesting,rabi,groundnut,Groundnut
+May,5,All India,Harvesting,rabi,groundnut,Groundnut
+Jan,1,Tamil Nadu,Sowing,summer/spring groundnut,/ groundnut,Groundnut
+Feb,2,Tamil Nadu,Sowing,summer/spring groundnut,/ groundnut,Groundnut
+Apr,4,Tamil Nadu,Harvesting,summer/spring groundnut,/ groundnut,Groundnut
+May,5,Tamil Nadu,Harvesting,summer/spring groundnut,/ groundnut,Groundnut
+Jan,1,All India,Sowing,summer/spring groundnut,/ groundnut,Groundnut
+Feb,2,All India,Sowing,summer/spring groundnut,/ groundnut,Groundnut
+Apr,4,All India,Harvesting,summer/spring groundnut,/ groundnut,Groundnut
+May,5,All India,Harvesting,summer/spring groundnut,/ groundnut,Groundnut
+Jun,6,All India,Sowing,kharif,sesame,Sesame
+Jul,7,All India,Sowing,kharif,sesame,Sesame
+Sep,9,All India,Harvesting,kharif,sesame,Sesame
+Oct,10,All India,Harvesting,kharif,sesame,Sesame
+Nov,11,All India,Harvesting,kharif,sesame,Sesame
+Aug,8,Andhra Pradesh,Sowing,pre-rabi,sesame,Sesame
+Sep,9,Andhra Pradesh,Sowing,pre-rabi,sesame,Sesame
+Dec,12,Andhra Pradesh,Harvesting,pre-rabi,sesame,Sesame
+Jan,1,Andhra Pradesh,Harvesting,pre-rabi,sesame,Sesame
+Aug,8,Madhya Pradesh,Sowing,pre-rabi,sesame,Sesame
+Sep,9,Madhya Pradesh,Sowing,pre-rabi,sesame,Sesame
+Dec,12,Madhya Pradesh,Harvesting,pre-rabi,sesame,Sesame
+Jan,1,Madhya Pradesh,Harvesting,pre-rabi,sesame,Sesame
+Aug,8,Maharashtra,Sowing,pre-rabi,sesame,Sesame
+Sep,9,Maharashtra,Sowing,pre-rabi,sesame,Sesame
+Dec,12,Maharashtra,Harvesting,pre-rabi,sesame,Sesame
+Jan,1,Maharashtra,Harvesting,pre-rabi,sesame,Sesame
+Aug,8,Tamil Nadu,Sowing,pre-rabi,sesame,Sesame
+Sep,9,Tamil Nadu,Sowing,pre-rabi,sesame,Sesame
+Dec,12,Tamil Nadu,Harvesting,pre-rabi,sesame,Sesame
+Jan,1,Tamil Nadu,Harvesting,pre-rabi,sesame,Sesame
+Aug,8,All India,Sowing,pre-rabi,sesame,Sesame
+Sep,9,All India,Sowing,pre-rabi,sesame,Sesame
+Dec,12,All India,Harvesting,pre-rabi,sesame,Sesame
+Jan,1,All India,Harvesting,pre-rabi,sesame,Sesame
+Oct,10,All India,Sowing,rabi,sesame,Sesame
+Nov,11,All India,Sowing,rabi,sesame,Sesame
+Feb,2,All India,Harvesting,rabi,sesame,Sesame
+Mar,3,All India,Harvesting,rabi,sesame,Sesame
+Jan,1,All India,Sowing,summer,sesame,Sesame
+Feb,2,All India,Sowing,summer,sesame,Sesame
+Mar,3,All India,Sowing,summer,sesame,Sesame
+May,5,All India,Harvesting,summer,sesame,Sesame
+Jun,6,All India,Harvesting,summer,sesame,Sesame
+Dec,12,Bihar,Sowing,rabi,sunflower,Sunflower
+Jan,1,Bihar,Sowing,rabi,sunflower,Sunflower
+Apr,4,Bihar,Harvesting,rabi,sunflower,Sunflower
+May,5,Bihar,Harvesting,rabi,sunflower,Sunflower
+Feb,2,Haryana,Sowing,summer/spring sunflower,/ sunflower,Sunflower
+Mar,3,Haryana,Sowing,summer/spring sunflower,/ sunflower,Sunflower
+May,5,Haryana,Harvesting,summer/spring sunflower,/ sunflower,Sunflower
+Jan,1,Andhra Pradesh,Harvesting,kharif,castor,Castor
+Jul,7,Chhattisgarh,Sowing,kharif,castor,Castor
+Feb,2,Chhattisgarh,Harvesting,kharif,castor,Castor
+Jul,7,Haryana,Sowing,kharif,castor,Castor
+Aug,8,Haryana,Sowing,kharif,castor,Castor
+Jan,1,Haryana,Harvesting,kharif,castor,Castor
+Feb,2,Haryana,Harvesting,kharif,castor,Castor
+Jun,6,Maharashtra,Sowing,kharif,castor,Castor
+Jul,7,Maharashtra,Sowing,kharif,castor,Castor
+Dec,12,Maharashtra,Harvesting,kharif,castor,Castor
+Jan,1,Maharashtra,Harvesting,kharif,castor,Castor
+Jun,6,Odisha,Sowing,kharif,castor,Castor
+Jul,7,Odisha,Sowing,kharif,castor,Castor
+Dec,12,Odisha,Harvesting,kharif,castor,Castor
+Jan,1,Odisha,Harvesting,kharif,castor,Castor
+Jun,6,Tamil Nadu,Sowing,kharif,castor,Castor
+Jul,7,Tamil Nadu,Sowing,kharif,castor,Castor
+Dec,12,Tamil Nadu,Harvesting,kharif,castor,Castor
+Jan,1,Tamil Nadu,Harvesting,kharif,castor,Castor
+Jan,1,Maharashtra,Harvesting,rabi,safflower,Safflower
+Nov,11,Andhra Pradesh,Sowing,,Mustard/ Banarasi Rai,Mustard
+Dec,12,Andhra Pradesh,Sowing,,Mustard/ Banarasi Rai,Mustard
+Oct,10,Punjab,Sowing,,Karan rai,Mustard
+Nov,11,Punjab,Sowing,,Karan rai,Mustard
+Oct,10,Uttarakhand,Sowing,,Mustard/ Karan rai,Mustard
+Nov,11,Uttarakhand,Sowing,,Mustard/ Karan rai,Mustard
+Feb,2,Andhra Pradesh,Harvesting,,Mustard/ Banarasi Rai,Mustard
+Mar,3,Andhra Pradesh,Harvesting,,Mustard/ Banarasi Rai,Mustard
+Mar,3,Punjab,Harvesting,,Karan rai,Mustard
+Apr,4,Punjab,Harvesting,,Karan rai,Mustard
+Mar,3,Uttarakhand,Harvesting,,Mustard/ Karan rai,Mustard
+Jan,1,Madhya Pradesh,Harvesting,kharif,cotton,
+Jan,1,Maharashtra,Harvesting,kharif,cotton,
+Jan,1,Odisha,Harvesting,kharif,cotton,
+Nov,11,Punjab,Harvesting,kharif,cotton,
+Dec,12,Punjab,Harvesting,kharif,cotton,
+Jun,6,West Bengal,Harvesting,kharif,cotton,
+Jul,7,West Bengal,Harvesting,kharif,cotton,
+Aug,8,West Bengal,Harvesting,kharif,cotton,
+Aug,8,Tamil Nadu,Sowing,kharif,cotton,
+Sep,9,Tamil Nadu,Sowing,kharif,cotton,
+Feb,2,Tamil Nadu,Harvesting,kharif,cotton,
+Mar,3,Tamil Nadu,Harvesting,kharif,cotton,
+Apr,4,Tamil Nadu,Harvesting,kharif,cotton,
+Apr,4,All India,Sowing,kharif,cotton,
+May,5,All India,Sowing,kharif,cotton,
+Jun,6,All India,Sowing,kharif,cotton,
+Jul,7,All India,Sowing,kharif,cotton,
+Sep,9,All India,Harvesting,kharif,cotton,
+Oct,10,All India,Harvesting,kharif,cotton,
+Nov,11,All India,Harvesting,kharif,cotton,
+Dec,12,All India,Harvesting,kharif,cotton,
+Oct,10,Uttar Pradesh,Harvesting,kharif,maize,Maize
+Jun,6,West Bengal,Sowing,kharif,maize,Maize
+Sep,9,West Bengal,Harvesting,kharif,maize,Maize
+Oct,10,West Bengal,Harvesting,kharif,maize,Maize
+Jun,6,Tamil Nadu,Sowing,kharif,maize,Maize
+Jul,7,Tamil Nadu,Sowing,kharif,maize,Maize
+Oct,10,Tamil Nadu,Harvesting,kharif,maize,Maize
+May,5,All India,Sowing,kharif,maize,Maize
+Jun,6,All India,Sowing,kharif,maize,Maize
+Jul,7,All India,Sowing,kharif,maize,Maize
+Aug,8,All India,Sowing,kharif,maize,Maize
+Sep,9,All India,Harvesting,kharif,maize,Maize
+Oct,10,All India,Harvesting,kharif,maize,Maize
+Nov,11,All India,Harvesting,kharif,maize,Maize
+Sep,9,Tamil Nadu,Sowing,rabi,maize,Maize
+Oct,10,Tamil Nadu,Sowing,rabi,maize,Maize
+Jan,1,Tamil Nadu,Harvesting,rabi,maize,Maize
+Sep,9,All India,Sowing,rabi,maize,Maize
+Oct,10,All India,Sowing,rabi,maize,Maize
+Nov,11,All India,Sowing,rabi,maize,Maize
+Dec,12,All India,Sowing,rabi,maize,Maize
+Jan,1,All India,Sowing,rabi,maize,Maize
+Jan,1,All India,Harvesting,rabi,maize,Maize
+Feb,2,All India,Harvesting,rabi,maize,Maize
+Mar,3,All India,Harvesting,rabi,maize,Maize
+Apr,4,All India,Harvesting,rabi,maize,Maize
+May,5,All India,Harvesting,rabi,maize,Maize
+May,5,Tamil Nadu,Sowing,kharif,paddy,Rice
+Jun,6,Tamil Nadu,Sowing,kharif,paddy,Rice
+Sep,9,Tamil Nadu,Harvesting,kharif,paddy,Rice
+Oct,10,Tamil Nadu,Harvesting,kharif,paddy,Rice
+Jun,6,Telangana,Sowing,kharif,paddy,Rice
+Jul,7,Telangana,Sowing,kharif,paddy,Rice
+Nov,11,Telangana,Harvesting,kharif,paddy,Rice
+Dec,12,Telangana,Harvesting,kharif,paddy,Rice
+Sep,9,Tamil Nadu,Sowing,rabi,paddy,Rice
+Oct,10,Tamil Nadu,Sowing,rabi,paddy,Rice
+Jan,1,Tamil Nadu,Harvesting,rabi,paddy,Rice
+Feb,2,Tamil Nadu,Harvesting,rabi,paddy,Rice
+Nov,11,Telangana,Sowing,rabi,paddy,Rice
+Dec,12,Telangana,Sowing,rabi,paddy,Rice
+Mar,3,Telangana,Harvesting,rabi,paddy,Rice
+Apr,4,Telangana,Harvesting,rabi,paddy,Rice
+Jan,1,Tamil Nadu,Sowing,summer,paddy,Rice
+Feb,2,Tamil Nadu,Sowing,summer,paddy,Rice
+May,5,Tamil Nadu,Harvesting,summer,paddy,Rice
+Jun,6,Tamil Nadu,Harvesting,summer,paddy,Rice
+Sep,9,Haryana,Harvesting,kharif,bajra,Millet
+Jun,6,Karnataka,Sowing,kharif,bajra,Millet
+Sep,9,Karnataka,Harvesting,kharif,bajra,Millet
+Jul,7,Punjab,Sowing,kharif,bajra,Millet
+Aug,8,Punjab,Sowing,kharif,bajra,Millet
+Oct,10,Punjab,Harvesting,kharif,bajra,Millet
+Jun,6,Tamil Nadu,Sowing,kharif,bajra,Millet
+Jul,7,Tamil Nadu,Sowing,kharif,bajra,Millet
+Sep,9,Tamil Nadu,Harvesting,kharif,bajra,Millet
+Oct,10,Tamil Nadu,Harvesting,kharif,bajra,Millet
+Mar,3,Telangana,Sowing,kharif,bajra,Millet
+Apr,4,Telangana,Sowing,kharif,bajra,Millet
+Jul,7,Telangana,Harvesting,kharif,bajra,Millet
+Aug,8,Telangana,Harvesting,kharif,bajra,Millet
+Nov,11,Andhra Pradesh,Sowing,rabi,bajra,Millet
+Dec,12,Andhra Pradesh,Sowing,rabi,bajra,Millet
+Feb,2,Andhra Pradesh,Harvesting,rabi,bajra,Millet
+Mar,3,Andhra Pradesh,Harvesting,rabi,bajra,Millet
+Oct,10,Gujarat,Sowing,rabi,bajra,Millet
+Feb,2,Gujarat,Harvesting,rabi,bajra,Millet
+Sep,9,Tamil Nadu,Sowing,rabi,bajra,Millet
+Oct,10,Tamil Nadu,Sowing,rabi,bajra,Millet
+Dec,12,Tamil Nadu,Harvesting,rabi,bajra,Millet
+Jan,1,Tamil Nadu,Harvesting,rabi,bajra,Millet
+Jan,1,Andhra Pradesh,Sowing,summer,bajra,Millet
+Apr,4,Andhra Pradesh,Harvesting,summer,bajra,Millet
+Mar,3,Gujarat,Sowing,summer,bajra,Millet
+Jun,6,Gujarat,Harvesting,summer,bajra,Millet
+Feb,2,Madhya Pradesh,Sowing,summer,bajra,Millet
+Mar,3,Madhya Pradesh,Sowing,summer,bajra,Millet
+Jun,6,Madhya Pradesh,Harvesting,summer,bajra,Millet
+Jan,1,Maharashtra,Sowing,summer,bajra,Millet
+Feb,2,Maharashtra,Sowing,summer,bajra,Millet
+May,5,Maharashtra,Harvesting,summer,bajra,Millet
+Feb,2,Rajasthan,Sowing,summer,bajra,Millet
+Mar,3,Rajasthan,Sowing,summer,bajra,Millet
+May,5,Rajasthan,Harvesting,summer,bajra,Millet
+Jun,6,Rajasthan,Harvesting,summer,bajra,Millet
+Feb,2,Tamil Nadu,Sowing,summer,bajra,Millet
+Mar,3,Tamil Nadu,Sowing,summer,bajra,Millet
+May,5,Tamil Nadu,Harvesting,summer,bajra,Millet
+Jun,6,Tamil Nadu,Harvesting,summer,bajra,Millet
+Mar,3,Uttar Pradesh,Sowing,summer,bajra,Millet
+May,5,Uttar Pradesh,Harvesting,summer,bajra,Millet
+Jun,6,Uttar Pradesh,Harvesting,summer,bajra,Millet
+Jan,1,Haryana,Sowing,rabi,wheat,Wheat
+May,5,Haryana,Harvesting,rabi,wheat,Wheat
+Dec,12,Maharashtra,Sowing,rabi,wheat,Wheat
+Jan,1,Punjab,Sowing,rabi,wheat,Wheat
+Jan,1,Uttar Pradesh,Sowing,rabi,wheat,Wheat
+Mar,3,Uttar Pradesh,Harvesting,rabi,wheat,Wheat
+Jul,7,Andhra Pradesh,Sowing,mid-early,arhar/tur,Arhar
+Dec,12,Andhra Pradesh,Harvesting,mid-early,arhar/tur,Arhar
+Jul,7,Karnataka,Sowing,mid-early,arhar/tur,Arhar
+Dec,12,Karnataka,Harvesting,mid-early,arhar/tur,Arhar
+Jul,7,Maharashtra,Sowing,mid-early,arhar/tur,Arhar
+Dec,12,Maharashtra,Harvesting,mid-early,arhar/tur,Arhar
+Jul,7,Tamil Nadu,Sowing,mid-early,arhar/tur,Arhar
+Dec,12,Tamil Nadu,Harvesting,mid-early,arhar/tur,Arhar
+Jul,7,Gujarat,Sowing,mid-early,arhar/tur,Arhar
+Dec,12,Gujarat,Harvesting,mid-early,arhar/tur,Arhar
+Jun,6,Madhya Pradesh,Sowing,mid-early,arhar/tur,Arhar
+Jul,7,Madhya Pradesh,Sowing,mid-early,arhar/tur,Arhar
+Nov,11,Madhya Pradesh,Harvesting,mid-early,arhar/tur,Arhar
+Dec,12,Madhya Pradesh,Harvesting,mid-early,arhar/tur,Arhar
+Jun,6,All India,Sowing,mid-early,arhar/tur,Arhar
+Jul,7,All India,Sowing,mid-early,arhar/tur,Arhar
+Nov,11,All India,Harvesting,mid-early,arhar/tur,Arhar
+Dec,12,All India,Harvesting,mid-early,arhar/tur,Arhar
+Mar,3,All India,Harvesting,long,arhar/tur,Arhar
+Oct,10,Rajasthan,Sowing,rabi,chickpea,Chickpea
+Nov,11,Rajasthan,Sowing,rabi,chickpea,Chickpea
+Mar,3,Rajasthan,Harvesting,rabi,chickpea,Chickpea
+Apr,4,Rajasthan,Harvesting,rabi,chickpea,Chickpea
+Jun,6,Madhya Pradesh,Sowing,kharif,soybean,Soybean
+Jul,7,Madhya Pradesh,Sowing,kharif,soybean,Soybean
+Sep,9,Madhya Pradesh,Harvesting,kharif,soybean,Soybean
+Oct,10,Madhya Pradesh,Harvesting,kharif,soybean,Soybean
+Jun,6,Maharashtra,Sowing,kharif,soybean,Soybean
+Jul,7,Maharashtra,Sowing,kharif,soybean,Soybean
+Sep,9,Maharashtra,Harvesting,kharif,soybean,Soybean
+Oct,10,Maharashtra,Harvesting,kharif,soybean,Soybean
+Jun,6,Rajasthan,Sowing,kharif,soybean,Soybean
+Jul,7,Rajasthan,Sowing,kharif,soybean,Soybean
+Sep,9,Rajasthan,Harvesting,kharif,soybean,Soybean
+Oct,10,Rajasthan,Harvesting,kharif,soybean,Soybean
+Jun,6,Karnataka,Sowing,kharif,soybean,Soybean
+Jul,7,Karnataka,Sowing,kharif,soybean,Soybean
+Sep,9,Karnataka,Harvesting,kharif,soybean,Soybean
+Oct,10,Karnataka,Harvesting,kharif,soybean,Soybean
+Jun,6,Andhra Pradesh,Sowing,kharif,soybean,Soybean
+Jul,7,Andhra Pradesh,Sowing,kharif,soybean,Soybean
+Sep,9,Andhra Pradesh,Harvesting,kharif,soybean,Soybean
+Oct,10,Andhra Pradesh,Harvesting,kharif,soybean,Soybean
+Jun,6,Chhattisgarh,Sowing,kharif,soybean,Soybean
+Jul,7,Chhattisgarh,Sowing,kharif,soybean,Soybean
+Sep,9,Chhattisgarh,Harvesting,kharif,soybean,Soybean
+Oct,10,Chhattisgarh,Harvesting,kharif,soybean,Soybean
+Jun,6,Uttar Pradesh,Sowing,kharif,soybean,Soybean
+Jul,7,Uttar Pradesh,Sowing,kharif,soybean,Soybean
+Sep,9,Uttar Pradesh,Harvesting,kharif,soybean,Soybean
+Oct,10,Uttar Pradesh,Harvesting,kharif,soybean,Soybean
+Jun,6,Manipur,Sowing,kharif,soybean,Soybean
+Jul,7,Manipur,Sowing,kharif,soybean,Soybean
+Sep,9,Manipur,Harvesting,kharif,soybean,Soybean
+Oct,10,Manipur,Harvesting,kharif,soybean,Soybean
+Jun,6,Meghalaya,Sowing,kharif,soybean,Soybean
+Jul,7,Meghalaya,Sowing,kharif,soybean,Soybean
+Sep,9,Meghalaya,Harvesting,kharif,soybean,Soybean
+Oct,10,Meghalaya,Harvesting,kharif,soybean,Soybean
+Jun,6,West Bengal,Sowing,kharif,soybean,Soybean
+Jul,7,West Bengal,Sowing,kharif,soybean,Soybean
+Sep,9,West Bengal,Harvesting,kharif,soybean,Soybean
+Oct,10,West Bengal,Harvesting,kharif,soybean,Soybean
+Jun,6,Odisha,Sowing,kharif,soybean,Soybean
+Jul,7,Odisha,Sowing,kharif,soybean,Soybean
+Sep,9,Odisha,Harvesting,kharif,soybean,Soybean
+Oct,10,Odisha,Harvesting,kharif,soybean,Soybean
+Jun,6,Bihar,Sowing,kharif,soybean,Soybean
+Jun,6,Jharkhand,Sowing,kharif,soybean,Soybean
+Jul,7,Bihar,Sowing,kharif,soybean,Soybean
+Jul,7,Jharkhand,Sowing,kharif,soybean,Soybean
+Sep,9,Bihar,Harvesting,kharif,soybean,Soybean
+Sep,9,Jharkhand,Harvesting,kharif,soybean,Soybean
+Oct,10,Bihar,Harvesting,kharif,soybean,Soybean
+Oct,10,Jharkhand,Harvesting,kharif,soybean,Soybean
+Jun,6,Gujarat,Sowing,kharif,soybean,Soybean
+Jul,7,Gujarat,Sowing,kharif,soybean,Soybean
+Sep,9,Gujarat,Harvesting,kharif,soybean,Soybean
+Oct,10,Gujarat,Harvesting,kharif,soybean,Soybean
+Dec,12,Maharashtra,Harvesting,kharif,niger,Niger
+Jun,6,Chhattisgarh,Sowing,kharif,niger,Niger
+Jul,7,Chhattisgarh,Sowing,kharif,niger,Niger
+Oct,10,Chhattisgarh,Harvesting,kharif,niger,Niger
+Nov,11,Chhattisgarh,Harvesting,kharif,niger,Niger
+Dec,12,Bihar,Harvesting,kharif,niger,Niger
+Dec,12,Jharkhand,Harvesting,kharif,niger,Niger
+Nov,11,Andhra Pradesh,Sowing,rabi,gram,Gram
+Feb,2,Andhra Pradesh,Harvesting,rabi,gram,Gram
+Mar,3,Andhra Pradesh,Harvesting,rabi,gram,Gram
+Oct,10,Assam,Sowing,rabi,gram,Gram
+Nov,11,Assam,Sowing,rabi,gram,Gram
+Mar,3,Assam,Harvesting,rabi,gram,Gram
+Oct,10,Bihar,Sowing,rabi,gram,Gram
+Nov,11,Bihar,Sowing,rabi,gram,Gram
+Mar,3,Bihar,Harvesting,rabi,gram,Gram
+Oct,10,Chhattisgarh,Sowing,rabi,gram,Gram
+Feb,2,Chhattisgarh,Harvesting,rabi,gram,Gram
+Mar,3,Chhattisgarh,Harvesting,rabi,gram,Gram
+Oct,10,Jharkhand,Sowing,rabi,gram,Gram
+Nov,11,Jharkhand,Sowing,rabi,gram,Gram
+Mar,3,Jharkhand,Harvesting,rabi,gram,Gram
+Oct,10,Rajasthan,Sowing,rabi,gram,Gram
+Nov,11,Rajasthan,Sowing,rabi,gram,Gram
+Mar,3,Rajasthan,Harvesting,rabi,gram,Gram
+Apr,4,Rajasthan,Harvesting,rabi,gram,Gram
+Nov,11,Haryana,Sowing,rabi,gram,Gram
+Apr,4,Haryana,Harvesting,rabi,gram,Gram
+Oct,10,Punjab,Sowing,rabi,gram,Gram
+Nov,11,Punjab,Sowing,rabi,gram,Gram
+Mar,3,Punjab,Harvesting,rabi,gram,Gram
+Apr,4,Punjab,Harvesting,rabi,gram,Gram
+Oct,10,West Bengal,Sowing,rabi,gram,Gram
+Oct,10,Assam,Sowing,rabi,lentil,Lentil
+Nov,11,Assam,Sowing,rabi,lentil,Lentil
+Mar,3,Assam,Harvesting,rabi,lentil,Lentil
+Apr,4,Assam,Harvesting,rabi,lentil,Lentil
+Oct,10,Bihar,Sowing,rabi,lentil,Lentil
+Nov,11,Bihar,Sowing,rabi,lentil,Lentil
+Mar,3,Bihar,Harvesting,rabi,lentil,Lentil
+Apr,4,Bihar,Harvesting,rabi,lentil,Lentil
+Oct,10,Chhattisgarh,Sowing,rabi,lentil,Lentil
+Nov,11,Chhattisgarh,Sowing,rabi,lentil,Lentil
+Mar,3,Chhattisgarh,Harvesting,rabi,lentil,Lentil
+Apr,4,Chhattisgarh,Harvesting,rabi,lentil,Lentil
+Dec,12,Goa,Sowing,rabi,lentil,Lentil
+Jan,1,Goa,Sowing,rabi,lentil,Lentil
+Mar,3,Goa,Harvesting,rabi,lentil,Lentil
+Apr,4,Goa,Harvesting,rabi,lentil,Lentil
+May,5,Goa,Harvesting,rabi,lentil,Lentil
+Oct,10,Jharkhand,Sowing,rabi,lentil,Lentil
+Nov,11,Jharkhand,Sowing,rabi,lentil,Lentil
+Mar,3,Jharkhand,Harvesting,rabi,lentil,Lentil
+Apr,4,Jharkhand,Harvesting,rabi,lentil,Lentil
+Oct,10,Rajasthan,Sowing,rabi,lentil,Lentil
+Nov,11,Rajasthan,Sowing,rabi,lentil,Lentil
+Mar,3,Rajasthan,Harvesting,rabi,lentil,Lentil
+Apr,4,Rajasthan,Harvesting,rabi,lentil,Lentil
+Oct,10,Tripura,Sowing,rabi,lentil,Lentil
+Nov,11,Tripura,Sowing,rabi,lentil,Lentil
+Mar,3,Tripura,Harvesting,rabi,lentil,Lentil
+Apr,4,Tripura,Harvesting,rabi,lentil,Lentil
+Oct,10,Gujarat,Sowing,rabi,lentil,Lentil
+Nov,11,Gujarat,Sowing,rabi,lentil,Lentil
+Mar,3,Gujarat,Harvesting,rabi,lentil,Lentil
+Apr,4,Gujarat,Harvesting,rabi,lentil,Lentil
+Oct,10,Haryana,Sowing,rabi,lentil,Lentil
+Nov,11,Haryana,Sowing,rabi,lentil,Lentil
+Mar,3,Haryana,Harvesting,rabi,lentil,Lentil
+Apr,4,Haryana,Harvesting,rabi,lentil,Lentil
+Oct,10,Madhya Pradesh,Sowing,rabi,lentil,Lentil
+Nov,11,Madhya Pradesh,Sowing,rabi,lentil,Lentil
+Mar,3,Madhya Pradesh,Harvesting,rabi,lentil,Lentil
+Apr,4,Madhya Pradesh,Harvesting,rabi,lentil,Lentil
+Sep,9,Meghalaya,Sowing,rabi,lentil,Lentil
+Oct,10,Meghalaya,Sowing,rabi,lentil,Lentil
+Feb,2,Meghalaya,Harvesting,rabi,lentil,Lentil
+Mar,3,Meghalaya,Harvesting,rabi,lentil,Lentil
+Oct,10,Punjab,Sowing,rabi,lentil,Lentil
+Nov,11,Punjab,Sowing,rabi,lentil,Lentil
+Mar,3,Punjab,Harvesting,rabi,lentil,Lentil
+Apr,4,Punjab,Harvesting,rabi,lentil,Lentil
+Oct,10,Uttar Pradesh,Sowing,rabi,lentil,Lentil
+Nov,11,Uttar Pradesh,Sowing,rabi,lentil,Lentil
+Mar,3,Uttar Pradesh,Harvesting,rabi,lentil,Lentil
+Apr,4,Uttar Pradesh,Harvesting,rabi,lentil,Lentil
+Oct,10,West Bengal,Sowing,rabi,lentil,Lentil
+Nov,11,West Bengal,Sowing,rabi,lentil,Lentil
+Mar,3,West Bengal,Harvesting,rabi,lentil,Lentil
+Apr,4,West Bengal,Harvesting,rabi,lentil,Lentil
+Nov,11,Karnataka,Harvesting,kharif,groundnut,Groundnut
+Jun,6,Madhya Pradesh,Harvesting,kharif,groundnut,Groundnut
+Jul,7,Madhya Pradesh,Harvesting,kharif,groundnut,Groundnut
+Sep,9,Odisha,Sowing,rabi,groundnut,Groundnut
+Oct,10,Odisha,Sowing,rabi,groundnut,Groundnut
+Jan,1,Odisha,Harvesting,rabi,groundnut,Groundnut
+May,5,Karnataka,Harvesting,summer/spring groundnut,/ groundnut,Groundnut
+Jun,6,Karnataka,Harvesting,summer/spring groundnut,/ groundnut,Groundnut
+Jan,1,Odisha,Sowing,summer/spring groundnut,/ groundnut,Groundnut
+Feb,2,Odisha,Sowing,summer/spring groundnut,/ groundnut,Groundnut
+Apr,4,Odisha,Harvesting,summer/spring groundnut,/ groundnut,Groundnut
+May,5,Odisha,Harvesting,summer/spring groundnut,/ groundnut,Groundnut
+Mar,3,Punjab,Sowing,summer/spring groundnut,/ groundnut,Groundnut
+Jun,6,Punjab,Harvesting,summer/spring groundnut,/ groundnut,Groundnut
+Jan,1,Rajasthan,Sowing,summer/spring groundnut,/ groundnut,Groundnut
+Feb,2,Rajasthan,Sowing,summer/spring groundnut,/ groundnut,Groundnut
+May,5,Rajasthan,Harvesting,summer/spring groundnut,/ groundnut,Groundnut
+Jun,6,Telangana,Sowing,kharif,sesame,Sesame
+Jul,7,Telangana,Sowing,kharif,sesame,Sesame
+Oct,10,Telangana,Harvesting,kharif,sesame,Sesame
+Nov,11,Telangana,Harvesting,kharif,sesame,Sesame
+Feb,2,Telangana,Harvesting,rabi,sesame,Sesame
+Mar,3,Telangana,Harvesting,rabi,sesame,Sesame
+Apr,4,Telangana,Harvesting,summer,sesame,Sesame
+May,5,Telangana,Harvesting,summer,sesame,Sesame
+Jun,6,Telangana,Sowing,kharif,sunflower,Sunflower
+Jul,7,Telangana,Sowing,kharif,sunflower,Sunflower
+Aug,8,Telangana,Sowing,kharif,sunflower,Sunflower
+Sep,9,Telangana,Harvesting,kharif,sunflower,Sunflower
+Oct,10,Telangana,Harvesting,kharif,sunflower,Sunflower
+Nov,11,Telangana,Harvesting,kharif,sunflower,Sunflower
+Jun,6,Telangana,Sowing,kharif,castor,Castor
+Jul,7,Telangana,Sowing,kharif,castor,Castor
+Dec,12,Telangana,Harvesting,kharif,castor,Castor
+Jan,1,Telangana,Harvesting,kharif,castor,Castor
+Oct,10,Telangana,Sowing,rabi,safflower,Safflower
+Feb,2,Telangana,Harvesting,rabi,safflower,Safflower
+Nov,11,Andhra Pradesh,Sowing,,Mustard/ Banarasi rai,Mustard
+Dec,12,Andhra Pradesh,Sowing,,Mustard/ Banarasi rai,Mustard
+Oct,10,Assam,Sowing,,Toria/Mustard,Mustard
+Nov,11,Assam,Sowing,,Toria/Mustard,Mustard
+Dec,12,Assam,Sowing,,Toria/Mustard,Mustard
+Nov,11,Haryana,Sowing,,Mustard,Mustard
+Sep,9,Himachal Pradesh,Sowing,,Toria,Mustard
+Sep,9,Himachal Pradesh,Sowing,,Gobhi Sarson,Mustard
+Sep,9,Jharkhand,Sowing,,Toria,Mustard
+Sep,9,Madhya Pradesh,Sowing,,Mustard,Mustard
+Nov,11,Madhya Pradesh,Sowing,,Mustard,Mustard
+Oct,10,Punjab,Sowing,,Taramira,Mustard
+Sep,9,Rajasthan,Sowing,,Taramira,Mustard
+Nov,11,West Bengal,Sowing,,Mustard,Mustard
+Sep,9,West Bengal,Sowing,,Toria,Mustard
+Feb,2,Andhra Pradesh,Harvesting,,Mustard/ Banarasi rai,Mustard
+Mar,3,Andhra Pradesh,Harvesting,,Mustard/ Banarasi rai,Mustard
+Feb,2,Assam,Harvesting,,Toria/Mustard,Mustard
+Mar,3,Assam,Harvesting,,Toria/Mustard,Mustard
+Dec,12,Himachal Pradesh,Harvesting,,Toria,Mustard
+Jan,1,Himachal Pradesh,Harvesting,,Toria,Mustard
+Jan,1,Jharkhand,Harvesting,,Toria,Mustard
+Jun,6,Jammu & Kashmir,Sowing,kharif,maize,Maize
+Jul,7,Jammu & Kashmir,Sowing,kharif,maize,Maize
+Oct,10,Jammu & Kashmir,Harvesting,kharif,maize,Maize
+Nov,11,Jammu & Kashmir,Harvesting,kharif,maize,Maize
+May,5,Jammu & Kashmir,Sowing,kharif,maize,Maize
+Feb,2,Bihar,Sowing,spring,maize,Maize
+May,5,Bihar,Harvesting,spring,maize,Maize
+Feb,2,Punjab,Sowing,spring,maize,Maize
+May,5,Punjab,Harvesting,spring,maize,Maize
+Feb,2,Uttar Pradesh,Sowing,spring,maize,Maize
+May,5,Uttar Pradesh,Harvesting,spring,maize,Maize
+Feb,2,West Bengal,Sowing,spring,maize,Maize
+May,5,West Bengal,Harvesting,spring,maize,Maize
+Jan,1,Tamil Nadu,Sowing,spring,maize,Maize
+Feb,2,Tamil Nadu,Sowing,spring,maize,Maize
+May,5,Tamil Nadu,Harvesting,spring,maize,Maize
+Jan,1,All India,Sowing,spring,maize,Maize
+Feb,2,All India,Sowing,spring,maize,Maize
+May,5,All India,Harvesting,spring,maize,Maize
+Oct,10,Bihar,Sowing,kharif,sugarcane,
+Nov,11,Bihar,Sowing,kharif,sugarcane,
+Oct,10,Bihar,Harvesting,kharif,sugarcane,
+Nov,11,Bihar,Harvesting,kharif,sugarcane,
+Dec,12,Bihar,Harvesting,kharif,sugarcane,
+Jun,6,Tamil Nadu,Sowing,kharif,sugarcane,
+Jul,7,Tamil Nadu,Sowing,kharif,sugarcane,
+Aug,8,Tamil Nadu,Sowing,kharif,sugarcane,
+May,5,Tamil Nadu,Harvesting,kharif,sugarcane,
+Jun,6,Tamil Nadu,Harvesting,kharif,sugarcane,
+Jul,7,Tamil Nadu,Harvesting,kharif,sugarcane,
+Aug,8,Tamil Nadu,Harvesting,kharif,sugarcane,
+Oct,10,West Bengal,Sowing,kharif,sugarcane,
+Nov,11,West Bengal,Sowing,kharif,sugarcane,
+Dec,12,West Bengal,Sowing,kharif,sugarcane,
+Jan,1,West Bengal,Sowing,kharif,sugarcane,
+Feb,2,West Bengal,Sowing,kharif,sugarcane,
+Mar,3,West Bengal,Sowing,kharif,sugarcane,
+Apr,4,West Bengal,Sowing,kharif,sugarcane,
+Oct,10,West Bengal,Harvesting,kharif,sugarcane,
+Nov,11,West Bengal,Harvesting,kharif,sugarcane,
+Dec,12,West Bengal,Harvesting,kharif,sugarcane,
+Jan,1,West Bengal,Harvesting,kharif,sugarcane,
+Feb,2,West Bengal,Harvesting,kharif,sugarcane,
+Mar,3,West Bengal,Harvesting,kharif,sugarcane,
+Sep,9,All India,Sowing,kharif,sugarcane,
+Oct,10,All India,Sowing,kharif,sugarcane,
+Dec,12,All India,Harvesting,kharif,sugarcane,
+Jan,1,All India,Harvesting,kharif,sugarcane,
+Dec,12,Andhra Pradesh,Sowing,rabi,sugarcane,
+Jan,1,Andhra Pradesh,Sowing,rabi,sugarcane,
+Feb,2,Andhra Pradesh,Sowing,rabi,sugarcane,
+Mar,3,Andhra Pradesh,Sowing,rabi,sugarcane,
+Apr,4,Andhra Pradesh,Sowing,rabi,sugarcane,
+May,5,Andhra Pradesh,Sowing,rabi,sugarcane,
+Jun,6,Andhra Pradesh,Sowing,rabi,sugarcane,
+Dec,12,Andhra Pradesh,Harvesting,rabi,sugarcane,
+Jan,1,Andhra Pradesh,Harvesting,rabi,sugarcane,
+Feb,2,Andhra Pradesh,Harvesting,rabi,sugarcane,
+Mar,3,Andhra Pradesh,Harvesting,rabi,sugarcane,
+Apr,4,Andhra Pradesh,Harvesting,rabi,sugarcane,
+May,5,Andhra Pradesh,Harvesting,rabi,sugarcane,
+Mar,3,Assam,Sowing,rabi,sugarcane,
+Apr,4,Assam,Sowing,rabi,sugarcane,
+Dec,12,Assam,Harvesting,rabi,sugarcane,
+Jan,1,Assam,Harvesting,rabi,sugarcane,
+Feb,2,Bihar,Sowing,rabi,sugarcane,
+Mar,3,Bihar,Sowing,rabi,sugarcane,
+Nov,11,Bihar,Harvesting,rabi,sugarcane,
+Dec,12,Bihar,Harvesting,rabi,sugarcane,
+Jan,1,Bihar,Harvesting,rabi,sugarcane,
+Feb,2,Bihar,Harvesting,rabi,sugarcane,
+Feb,2,Haryana,Sowing,rabi,sugarcane,
+Mar,3,Haryana,Sowing,rabi,sugarcane,
+Dec,12,Haryana,Harvesting,rabi,sugarcane,
+Jan,1,Haryana,Harvesting,rabi,sugarcane,
+Feb,2,Haryana,Harvesting,rabi,sugarcane,
+Mar,3,Haryana,Harvesting,rabi,sugarcane,
+Dec,12,Karnataka,Sowing,rabi,sugarcane,
+Jan,1,Karnataka,Sowing,rabi,sugarcane,
+Feb,2,Karnataka,Sowing,rabi,sugarcane,
+Mar,3,Karnataka,Sowing,rabi,sugarcane,
+Aug,8,Karnataka,Harvesting,rabi,sugarcane,
+Sep,9,Karnataka,Harvesting,rabi,sugarcane,
+Oct,10,Karnataka,Harvesting,rabi,sugarcane,
+Nov,11,Karnataka,Harvesting,rabi,sugarcane,
+Dec,12,Karnataka,Harvesting,rabi,sugarcane,
+Jan,1,Karnataka,Harvesting,rabi,sugarcane,
+Feb,2,Karnataka,Harvesting,rabi,sugarcane,
+Mar,3,Karnataka,Harvesting,rabi,sugarcane,
+Apr,4,Karnataka,Harvesting,rabi,sugarcane,
+May,5,Karnataka,Harvesting,rabi,sugarcane,
+Dec,12,Kerala,Sowing,rabi,sugarcane,
+Jan,1,Kerala,Sowing,rabi,sugarcane,
+Dec,12,Kerala,Harvesting,rabi,sugarcane,
+Jan,1,Kerala,Harvesting,rabi,sugarcane,
+Feb,2,Odisha,Sowing,rabi,sugarcane,
+Mar,3,Odisha,Sowing,rabi,sugarcane,
+Apr,4,Odisha,Sowing,rabi,sugarcane,
+May,5,Odisha,Sowing,rabi,sugarcane,
+Nov,11,Odisha,Harvesting,rabi,sugarcane,
+Dec,12,Odisha,Harvesting,rabi,sugarcane,
+Jan,1,Odisha,Harvesting,rabi,sugarcane,
+Feb,2,Odisha,Harvesting,rabi,sugarcane,
+Feb,2,Punjab,Sowing,rabi,sugarcane,
+Mar,3,Punjab,Sowing,rabi,sugarcane,
+Nov,11,Punjab,Harvesting,rabi,sugarcane,
+Dec,12,Punjab,Harvesting,rabi,sugarcane,
+Jan,1,Punjab,Harvesting,rabi,sugarcane,
+Feb,2,Punjab,Harvesting,rabi,sugarcane,
+Mar,3,Rajasthan,Sowing,rabi,sugarcane,
+Apr,4,Rajasthan,Sowing,rabi,sugarcane,
+Dec,12,Rajasthan,Harvesting,rabi,sugarcane,
+Jan,1,Rajasthan,Harvesting,rabi,sugarcane,
+Feb,2,Rajasthan,Harvesting,rabi,sugarcane,
+Mar,3,Rajasthan,Harvesting,rabi,sugarcane,
+Dec,12,Tamil Nadu,Sowing,rabi,sugarcane,
+Jan,1,Tamil Nadu,Sowing,rabi,sugarcane,
+Dec,12,Tamil Nadu,Harvesting,rabi,sugarcane,
+Jan,1,Tamil Nadu,Harvesting,rabi,sugarcane,
+Feb,2,Tripura,Sowing,rabi,sugarcane,
+Mar,3,Tripura,Sowing,rabi,sugarcane,
+Apr,4,Tripura,Sowing,rabi,sugarcane,
+May,5,Tripura,Sowing,rabi,sugarcane,
+Dec,12,Tripura,Harvesting,rabi,sugarcane,
+Jan,1,Tripura,Harvesting,rabi,sugarcane,
+Feb,2,Tripura,Harvesting,rabi,sugarcane,
+Mar,3,Tripura,Harvesting,rabi,sugarcane,
+Feb,2,All India,Sowing,rabi,sugarcane,
+Mar,3,All India,Sowing,rabi,sugarcane,
+Apr,4,All India,Sowing,rabi,sugarcane,
+May,5,All India,Sowing,rabi,sugarcane,
+Aug,8,All India,Harvesting,rabi,sugarcane,
+Sep,9,All India,Harvesting,rabi,sugarcane,
+Apr,4,Meghalaya,Harvesting,,Potato,Potato
+Sep,9,Mizoram,Harvesting,,Potato,Potato
+Feb,2,Nagaland,Harvesting,,Potato,Potato
+Dec,12,Meghalaya,Harvesting,,Onion,Onion
+Mar,3,Mizoram,Harvesting,,Onion,Onion
+Oct,10,Nagaland,Harvesting,,Onion,Onion
+Jan,1,Madhya Pradesh,Harvesting,,Tomato,Tomato
+Feb,2,Madhya Pradesh,Harvesting,,Tomato,Tomato
+Apr,4,Meghalaya,Harvesting,,Tomato,Tomato
+Aug,8,Mizoram,Harvesting,,Tomato,Tomato
+Aug,8,Meghalaya,Harvesting,,Cabbage,Cabbage
+Dec,12,Mizoram,Harvesting,,Cabbage,Cabbage
+Feb,2,Nagaland,Harvesting,,Cabbage,Cabbage
+Oct,10,Meghalaya,Harvesting,,Cauliflower,Cauliflower
+Mar,3,Nagaland,Harvesting,,Cauliflower,Cauliflower
+Feb,2,Haryana,Sowing,summer/ spring sunflower,/  sunflower,Sunflower
+Mar,3,Haryana,Sowing,summer/ spring sunflower,/  sunflower,Sunflower
+May,5,Haryana,Harvesting,summer/ spring sunflower,/  sunflower,Sunflower
+Dec,12,Karnataka,Sowing,summer/ spring sunflower,/  sunflower,Sunflower
+Jan,1,Karnataka,Sowing,summer/ spring sunflower,/  sunflower,Sunflower
+Mar,3,Karnataka,Harvesting,summer/ spring sunflower,/  sunflower,Sunflower
+Apr,4,Karnataka,Harvesting,summer/ spring sunflower,/  sunflower,Sunflower
+Feb,2,Punjab,Sowing,summer/ spring sunflower,/  sunflower,Sunflower
+Apr,4,Punjab,Harvesting,summer/ spring sunflower,/  sunflower,Sunflower
+May,5,Punjab,Harvesting,summer/ spring sunflower,/  sunflower,Sunflower
+Feb,2,West Bengal,Sowing,summer/ spring sunflower,/  sunflower,Sunflower
+Apr,4,West Bengal,Harvesting,summer/ spring sunflower,/  sunflower,Sunflower
+May,5,West Bengal,Harvesting,summer/ spring sunflower,/  sunflower,Sunflower
+Feb,2,All India,Sowing,summer/ spring sunflower,/  sunflower,Sunflower
+Apr,4,All India,Harvesting,summer/ spring sunflower,/  sunflower,Sunflower
+May,5,All India,Harvesting,summer/ spring sunflower,/  sunflower,Sunflower
+Dec,12,Madhya Pradesh,Harvesting,early,arhar/tur,Arhar
+Jun,6,Madhya Pradesh,Harvesting,rabi,bajra,Millet
+Jul,7,Uttar Pradesh,Sowing,long,"duration
+arhar/tur",Arhar
+Apr,4,Uttar Pradesh,Harvesting,long,"duration
+arhar/tur",Arhar
+Jul,7,Bihar,Sowing,long,"duration
+arhar/tur",Arhar
+Apr,4,Bihar,Harvesting,long,"duration
+arhar/tur",Arhar
+Jul,7,Jharkhand,Sowing,long,"duration
+arhar/tur",Arhar
+Mar,3,Jharkhand,Harvesting,long,"duration
+arhar/tur",Arhar
+Apr,4,Jharkhand,Harvesting,long,"duration
+arhar/tur",Arhar
+Jul,7,All India,Sowing,long,"duration
+arhar/tur",Arhar
+Mar,3,All India,Harvesting,long,"duration
+arhar/tur",Arhar
+Apr,4,All India,Harvesting,long,"duration
+arhar/tur",Arhar
+Oct,10,Assam,Harvesting,rabi,gram,Gram
+Nov,11,Assam,Harvesting,rabi,gram,Gram
+Oct,10,Assam,Harvesting,rabi,lentil,Lentil
+Nov,11,Assam,Harvesting,rabi,lentil,Lentil
+Oct,10,Assam,Harvesting,rabi,pea,Pea
+Nov,11,Assam,Harvesting,rabi,pea,Pea
+Feb,2,Andhra Pradesh,Harvesting,summer/spring groundnut,/ groundnut,Groundnut
+Mar,3,Andhra Pradesh,Harvesting,summer/spring groundnut,/ groundnut,Groundnut
+Apr,4,Andhra Pradesh,Harvesting,summer/spring groundnut,/ groundnut,Groundnut
+May,5,Andhra Pradesh,Harvesting,summer/spring groundnut,/ groundnut,Groundnut
+Jul,7,Assam,Sowing,summer/spring groundnut,/ groundnut,Groundnut
+Aug,8,Assam,Sowing,summer/spring groundnut,/ groundnut,Groundnut
+Nov,11,Assam,Harvesting,summer/spring groundnut,/ groundnut,Groundnut
+Dec,12,Assam,Harvesting,summer/spring groundnut,/ groundnut,Groundnut
+Nov,11,Andhra Pradesh,Sowing,,Mustard/ Banarasi,Mustard
+Dec,12,Andhra Pradesh,Sowing,,Mustard/ Banarasi,Mustard
+Feb,2,Andhra Pradesh,Harvesting,,Mustard/ Banarasi,Mustard
+Mar,3,Andhra Pradesh,Harvesting,,Mustard/ Banarasi,Mustard
+Sep,9,Tamil Nadu,Sowing,summer,bajra,Millet
+Oct,10,Tamil Nadu,Sowing,summer,bajra,Millet
+Dec,12,Tamil Nadu,Harvesting,summer,bajra,Millet
+Jan,1,Tamil Nadu,Harvesting,summer,bajra,Millet
+Dec,12,Odisha,Sowing,rabi,wheat,Wheat
+Feb,2,Tamil Nadu,Sowing,rabi,wheat,Wheat
+Mar,3,Tamil Nadu,Sowing,rabi,wheat,Wheat
+May,5,Tamil Nadu,Harvesting,rabi,wheat,Wheat
+Jun,6,Tamil Nadu,Harvesting,rabi,wheat,Wheat
+May,5,Uttarakhand,Sowing,early,arhar/tur,Arhar
+May,5,All India,Sowing,early,arhar/tur,Arhar
+Jul,7,Andhra Pradesh,Sowing,mid-early,duration arhar/tur,Arhar
+Dec,12,Andhra Pradesh,Harvesting,mid-early,duration arhar/tur,Arhar
+Jul,7,Karnataka,Sowing,mid-early,duration arhar/tur,Arhar
+Dec,12,Karnataka,Harvesting,mid-early,duration arhar/tur,Arhar
+Jul,7,Maharashtra,Sowing,mid-early,duration arhar/tur,Arhar
+Dec,12,Maharashtra,Harvesting,mid-early,duration arhar/tur,Arhar
+Jul,7,Tamil Nadu,Sowing,mid-early,duration arhar/tur,Arhar
+Dec,12,Tamil Nadu,Harvesting,mid-early,duration arhar/tur,Arhar
+Jul,7,Gujarat,Sowing,mid-early,duration arhar/tur,Arhar
+Dec,12,Gujarat,Harvesting,mid-early,duration arhar/tur,Arhar
+Jul,7,Madhya Pradesh,Sowing,mid-early,duration arhar/tur,Arhar
+Dec,12,Madhya Pradesh,Harvesting,mid-early,duration arhar/tur,Arhar
+Jul,7,All India,Sowing,mid-early,duration arhar/tur,Arhar
+Dec,12,All India,Harvesting,mid-early,duration arhar/tur,Arhar
+Sep,9,Andhra Pradesh,Harvesting,rabi,mungbean/urdbean,Urad
+Jul,7,Assam,Sowing,rabi,mungbean/urdbean,Urad
+Sep,9,Assam,Harvesting,rabi,mungbean/urdbean,Urad
+Oct,10,Assam,Harvesting,rabi,mungbean/urdbean,Urad
+Aug,8,Bihar,Sowing,rabi,mungbean/urdbean,Urad
+Sep,9,Bihar,Harvesting,rabi,mungbean/urdbean,Urad
+Jun,6,Chhattisgarh,Sowing,rabi,mungbean/urdbean,Urad
+Jul,7,Chhattisgarh,Sowing,rabi,mungbean/urdbean,Urad
+Sep,9,Chhattisgarh,Harvesting,rabi,mungbean/urdbean,Urad
+Aug,8,Gujarat,Sowing,rabi,mungbean/urdbean,Urad
+Sep,9,Gujarat,Harvesting,rabi,mungbean/urdbean,Urad
+Jul,7,Haryana,Sowing,rabi,mungbean/urdbean,Urad
+Aug,8,Haryana,Sowing,rabi,mungbean/urdbean,Urad
+Sep,9,Haryana,Harvesting,rabi,mungbean/urdbean,Urad
+Oct,10,Haryana,Harvesting,rabi,mungbean/urdbean,Urad
+Aug,8,Jharkhand,Sowing,rabi,mungbean/urdbean,Urad
+Sep,9,Jharkhand,Harvesting,rabi,mungbean/urdbean,Urad
+Sep,9,Karnataka,Harvesting,rabi,mungbean/urdbean,Urad
+Jun,6,Kerala,Sowing,rabi,mungbean/urdbean,Urad
+Jul,7,Kerala,Sowing,rabi,mungbean/urdbean,Urad
+Sep,9,Kerala,Harvesting,rabi,mungbean/urdbean,Urad
+Oct,10,Kerala,Harvesting,rabi,mungbean/urdbean,Urad
+Sep,9,Madhya Pradesh,Harvesting,rabi,mungbean/urdbean,Urad
+Sep,9,Maharashtra,Harvesting,rabi,mungbean/urdbean,Urad
+Sep,9,Odisha,Harvesting,rabi,mungbean/urdbean,Urad
+Jul,7,Punjab,Sowing,rabi,mungbean/urdbean,Urad
+Aug,8,Punjab,Sowing,rabi,mungbean/urdbean,Urad
+Sep,9,Punjab,Harvesting,rabi,mungbean/urdbean,Urad
+Oct,10,Punjab,Harvesting,rabi,mungbean/urdbean,Urad
+Jul,7,Rajasthan,Sowing,rabi,mungbean/urdbean,Urad
+Aug,8,Rajasthan,Sowing,rabi,mungbean/urdbean,Urad
+Sep,9,Rajasthan,Harvesting,rabi,mungbean/urdbean,Urad
+Oct,10,Rajasthan,Harvesting,rabi,mungbean/urdbean,Urad
+Jul,7,Tripura,Sowing,rabi,mungbean/urdbean,Urad
+Aug,8,Tripura,Sowing,rabi,mungbean/urdbean,Urad
+Sep,9,Tripura,Harvesting,rabi,mungbean/urdbean,Urad
+Oct,10,Tripura,Harvesting,rabi,mungbean/urdbean,Urad
+Jun,6,Tamil Nadu,Sowing,rabi,mungbean/urdbean,Urad
+Jul,7,Tamil Nadu,Sowing,rabi,mungbean/urdbean,Urad
+Sep,9,Tamil Nadu,Harvesting,rabi,mungbean/urdbean,Urad
+Oct,10,Tamil Nadu,Harvesting,rabi,mungbean/urdbean,Urad
+Jul,7,Uttar Pradesh,Sowing,rabi,mungbean/urdbean,Urad
+Aug,8,Uttar Pradesh,Sowing,rabi,mungbean/urdbean,Urad
+Sep,9,Uttar Pradesh,Harvesting,rabi,mungbean/urdbean,Urad
+Oct,10,Uttar Pradesh,Harvesting,rabi,mungbean/urdbean,Urad
+Jul,7,West Bengal,Sowing,rabi,mungbean/urdbean,Urad
+Aug,8,West Bengal,Sowing,rabi,mungbean/urdbean,Urad
+Jul,7,Himachal Pradesh,Sowing,rabi,mungbean/urdbean,Urad
+Aug,8,Himachal Pradesh,Sowing,rabi,mungbean/urdbean,Urad
+Sep,9,Himachal Pradesh,Harvesting,rabi,mungbean/urdbean,Urad
+Oct,10,Himachal Pradesh,Harvesting,rabi,mungbean/urdbean,Urad
+Oct,10,Andhra Pradesh,Sowing,kharif,mungbean/urdbean,Urad
+Nov,11,Andhra Pradesh,Sowing,kharif,mungbean/urdbean,Urad
+Jan,1,Andhra Pradesh,Harvesting,kharif,mungbean/urdbean,Urad
+Feb,2,Andhra Pradesh,Harvesting,kharif,mungbean/urdbean,Urad
+Sep,9,Assam,Sowing,kharif,mungbean/urdbean,Urad
+Nov,11,Assam,Harvesting,kharif,mungbean/urdbean,Urad
+Dec,12,Assam,Harvesting,kharif,mungbean/urdbean,Urad
+Oct,10,Karnataka,Sowing,kharif,mungbean/urdbean,Urad
+Nov,11,Karnataka,Sowing,kharif,mungbean/urdbean,Urad
+Jan,1,Karnataka,Harvesting,kharif,mungbean/urdbean,Urad
+Feb,2,Karnataka,Harvesting,kharif,mungbean/urdbean,Urad
+Oct,10,Odisha,Sowing,kharif,mungbean/urdbean,Urad
+Nov,11,Odisha,Sowing,kharif,mungbean/urdbean,Urad
+Jan,1,Odisha,Harvesting,kharif,mungbean/urdbean,Urad
+Feb,2,Odisha,Harvesting,kharif,mungbean/urdbean,Urad
+Oct,10,Tamil Nadu,Sowing,kharif,mungbean/urdbean,Urad
+Nov,11,Tamil Nadu,Sowing,kharif,mungbean/urdbean,Urad
+Jan,1,Tamil Nadu,Harvesting,kharif,mungbean/urdbean,Urad
+Feb,2,Tamil Nadu,Harvesting,kharif,mungbean/urdbean,Urad
+Oct,10,Andhra Pradesh,Sowing,rabi,gram,Gram
+Nov,11,Chhattisgarh,Sowing,rabi,gram,Gram
+Nov,11,Maharashtra,Sowing,rabi,gram,Gram
+Jul,7,Assam,Sowing,kharif,groundnut,Groundnut
+Aug,8,Assam,Sowing,kharif,groundnut,Groundnut
+Nov,11,Assam,Harvesting,kharif,groundnut,Groundnut
+Dec,12,Assam,Harvesting,kharif,groundnut,Groundnut
+Jun,6,Odisha,Sowing,kharif,groundnut,Groundnut
+Feb,2,Uttar Pradesh,Sowing,kharif,groundnut,Groundnut
+Mar,3,Uttar Pradesh,Sowing,kharif,groundnut,Groundnut
+Jun,6,Uttar Pradesh,Harvesting,kharif,groundnut,Groundnut
+Oct,10,Bihar,Sowing,rabi,groundnut,Groundnut
+Nov,11,Bihar,Sowing,rabi,groundnut,Groundnut
+Mar,3,Bihar,Harvesting,rabi,groundnut,Groundnut
+Nov,11,Odisha,Sowing,rabi,groundnut,Groundnut
+Mar,3,Odisha,Harvesting,rabi,groundnut,Groundnut
+Nov,11,Tamil Nadu,Sowing,rabi,groundnut,Groundnut
+Dec,12,Tamil Nadu,Sowing,rabi,groundnut,Groundnut
+Jan,1,Tamil Nadu,Sowing,rabi,groundnut,Groundnut
+Mar,3,Tamil Nadu,Harvesting,rabi,groundnut,Groundnut
+Apr,4,Tamil Nadu,Harvesting,rabi,groundnut,Groundnut
+Dec,12,West Bengal,Sowing,rabi,groundnut,Groundnut
+Jan,1,West Bengal,Sowing,rabi,groundnut,Groundnut
+May,5,West Bengal,Harvesting,rabi,groundnut,Groundnut
+Jun,6,Rajasthan,Harvesting,summer/spring groundnut,/ groundnut,Groundnut
+Apr,4,Tamil Nadu,Sowing,summer/spring groundnut,/ groundnut,Groundnut
+May,5,Tamil Nadu,Sowing,summer/spring groundnut,/ groundnut,Groundnut
+Aug,8,Tamil Nadu,Harvesting,summer/spring groundnut,/ groundnut,Groundnut
+Jan,1,West Bengal,Sowing,summer/spring groundnut,/ groundnut,Groundnut
+Dec,12,Madhya Pradesh,Sowing,rabi,linseed,Linseed
+Apr,4,Madhya Pradesh,Harvesting,rabi,linseed,Linseed
+Dec,12,Chhattisgarh,Sowing,rabi,linseed,Linseed
+Nov,11,Maharashtra,Sowing,rabi,linseed,Linseed
+Apr,4,Maharashtra,Harvesting,rabi,linseed,Linseed
+Nov,11,Karnataka,Sowing,rabi,linseed,Linseed
+May,5,Nagaland,Harvesting,rabi,linseed,Linseed
+Nov,11,Rajasthan,Sowing,rabi,linseed,Linseed
+Apr,4,Rajasthan,Harvesting,rabi,linseed,Linseed
+May,5,Rajasthan,Harvesting,rabi,linseed,Linseed
+May,5,Punjab,Harvesting,rabi,linseed,Linseed
+Feb,2,Odisha,Sowing,summer/spring sunflower,/ sunflower,Sunflower
+Apr,4,Odisha,Harvesting,summer/spring sunflower,/ sunflower,Sunflower
+May,5,Odisha,Harvesting,summer/spring sunflower,/ sunflower,Sunflower
+Mar,3,Gujarat,Harvesting,kharif,castor,Castor
+Aug,8,Tamil Nadu,Sowing,kharif,castor,Castor
+Nov,11,Jharkhand,Sowing,,Mustard,Mustard
+Nov,11,Odisha,Sowing,,Yellow Sarson,Mustard
+Feb,2,Jharkhand,Harvesting,,Mustard,Mustard
+Jun,6,Gujarat,Sowing,kharif,cotton,
+May,5,Haryana,Sowing,kharif,cotton,
+May,5,Kerala,Sowing,kharif,cotton,
+Oct,10,Kerala,Harvesting,kharif,cotton,
+Nov,11,Kerala,Harvesting,kharif,cotton,
+Oct,10,Madhya Pradesh,Harvesting,kharif,cotton,
+Jun,6,Telangana,Sowing,kharif,cotton,
+Jul,7,Telangana,Sowing,kharif,cotton,
+Dec,12,Telangana,Harvesting,kharif,cotton,
+Jun,6,Kerala,Sowing,kharif,maize,Maize
+Jul,7,Kerala,Sowing,kharif,maize,Maize
+Sep,9,Kerala,Harvesting,kharif,maize,Maize
+Oct,10,Kerala,Harvesting,kharif,maize,Maize
+Jun,6,Telangana,Sowing,kharif,maize,Maize
+Jul,7,Telangana,Sowing,kharif,maize,Maize
+Sep,9,Telangana,Harvesting,kharif,maize,Maize
+Oct,10,Telangana,Harvesting,kharif,maize,Maize
+Oct,10,Gujarat,Sowing,rabi,maize,Maize
+Nov,11,Gujarat,Sowing,rabi,maize,Maize
+Feb,2,Gujarat,Harvesting,rabi,maize,Maize
+Mar,3,Gujarat,Harvesting,rabi,maize,Maize
+Oct,10,Madhya Pradesh,Sowing,rabi,maize,Maize
+Nov,11,Madhya Pradesh,Sowing,rabi,maize,Maize
+Dec,12,Madhya Pradesh,Sowing,rabi,maize,Maize
+Mar,3,Madhya Pradesh,Harvesting,rabi,maize,Maize
+Apr,4,Madhya Pradesh,Harvesting,rabi,maize,Maize
+May,5,Madhya Pradesh,Harvesting,rabi,maize,Maize
+Oct,10,Maharashtra,Sowing,rabi,maize,Maize
+Nov,11,Maharashtra,Sowing,rabi,maize,Maize
+Dec,12,Maharashtra,Sowing,rabi,maize,Maize
+Mar,3,Maharashtra,Harvesting,rabi,maize,Maize
+Apr,4,Maharashtra,Harvesting,rabi,maize,Maize
+May,5,Maharashtra,Harvesting,rabi,maize,Maize
+Oct,10,Rajasthan,Sowing,rabi,maize,Maize
+Nov,11,Rajasthan,Sowing,rabi,maize,Maize
+Dec,12,Rajasthan,Sowing,rabi,maize,Maize
+Mar,3,Rajasthan,Harvesting,rabi,maize,Maize
+Apr,4,Rajasthan,Harvesting,rabi,maize,Maize
+May,5,Rajasthan,Harvesting,rabi,maize,Maize
+Oct,10,Uttar Pradesh,Sowing,rabi,maize,Maize
+Nov,11,Uttar Pradesh,Sowing,rabi,maize,Maize
+Mar,3,Uttar Pradesh,Harvesting,rabi,maize,Maize
+Apr,4,Uttar Pradesh,Harvesting,rabi,maize,Maize
+May,5,Uttar Pradesh,Harvesting,rabi,maize,Maize
+Oct,10,Telangana,Sowing,rabi,maize,Maize
+Nov,11,Telangana,Sowing,rabi,maize,Maize
+Dec,12,Telangana,Sowing,rabi,maize,Maize
+Jan,1,Telangana,Sowing,rabi,maize,Maize
+Feb,2,Telangana,Harvesting,rabi,maize,Maize
+Mar,3,Telangana,Harvesting,rabi,maize,Maize
+Apr,4,Telangana,Harvesting,rabi,maize,Maize
+May,5,Telangana,Harvesting,rabi,maize,Maize
+Feb,2,Haryana,Sowing,spring,maize,Maize
+Mar,3,Haryana,Sowing,spring,maize,Maize
+May,5,Haryana,Harvesting,spring,maize,Maize
+Jun,6,Haryana,Harvesting,spring,maize,Maize
+Mar,3,Punjab,Sowing,spring,maize,Maize
+Apr,4,Punjab,Harvesting,spring,maize,Maize
+Mar,3,Uttar Pradesh,Sowing,spring,maize,Maize
+Mar,3,All India,Sowing,spring,maize,Maize
+Oct,10,Uttar Pradesh,Sowing,kharif,sugarcane,
+Nov,11,Uttar Pradesh,Sowing,kharif,sugarcane,
+Oct,10,Uttar Pradesh,Harvesting,kharif,sugarcane,
+Nov,11,Uttar Pradesh,Harvesting,kharif,sugarcane,
+Dec,12,Uttar Pradesh,Harvesting,kharif,sugarcane,
+Oct,10,Uttar Pradesh,Sowing,rabi,sugarcane,
+Nov,11,Uttar Pradesh,Sowing,rabi,sugarcane,
+Oct,10,Uttar Pradesh,Harvesting,rabi,sugarcane,
+Nov,11,Uttar Pradesh,Harvesting,rabi,sugarcane,
+Dec,12,Uttar Pradesh,Harvesting,rabi,sugarcane,
+Jan,1,Uttar Pradesh,Harvesting,rabi,sugarcane,
+Feb,2,Uttar Pradesh,Harvesting,rabi,sugarcane,
